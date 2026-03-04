@@ -1,7 +1,9 @@
 ## Hi there 👋
 
 <!--
-**Priyanshu1877/Priyanshu1877** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ BCA Graduate | Aspiring Tech ProfessionalSkilled in C++, Python, SQL, HTML, CSS, and MS Office, with a solid foundation in
+programming and software tools. I also bring a basic understanding of accounting principles and Tally, blending technical and business
+knowledge. Eager to contribute, learn, and grow in the IT and software development industry
 
 Here are some ideas to get you started:
 
