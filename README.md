@@ -53,5 +53,7 @@ Let’s Connect:
 I’m always open to discussing innovative projects, AI advancements, or potential collaborations.
 
 📧 priyanshupaswan648@gmail.com
+
 linkedin- www.linkedin.com/in/priyanshu-kumar-paswan-b91b85232
+
 📍 Siliguri, West Bengal
