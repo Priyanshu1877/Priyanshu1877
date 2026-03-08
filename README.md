@@ -55,7 +55,7 @@ I’m always open to discussing innovative projects, AI advancements, or potenti
 📧 priyanshupaswan648@gmail.com
 
 📧hello@prasai.cloud
-
-linkedin- www.linkedin.com/in/priyanshu-kumar-paswan-b91b85232
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
+www.linkedin.com/in/priyanshu-kumar-paswan-b91b85232
 
 📍 Siliguri, West Bengal
