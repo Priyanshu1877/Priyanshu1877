@@ -65,7 +65,7 @@ I’m always open to discussing innovative projects, AI advancements, or potenti
 
 
 
-<a href="www.linkedin.com/in/priyanshu-kumar-paswan-b91b85232">
+<a href="https://www.linkedin.com/in/priyanshu-kumar-paswan-b91b85232/">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30"/>
 </a>
 
