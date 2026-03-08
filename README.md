@@ -56,9 +56,13 @@ I’m always open to discussing innovative projects, AI advancements, or potenti
 
 📧hello@prasai.cloud
 
-<a href="https://linkedin.com/in/YOUR_USERNAME">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30"/>
+### Connect with me
+
+<p align="left">
+<a href="https://linkedin.com/in/YOUR_USERNAME" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" />
 </a>
+</p>
 www.linkedin.com/in/priyanshu-kumar-paswan-b91b85232
 
 📍 Siliguri, West Bengal
