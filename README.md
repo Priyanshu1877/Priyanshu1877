@@ -6,7 +6,6 @@ building real-world projects , including responsive websites and full-stack appl
 Co-founder at Parasite Cloud | Building AI-Powered Solutions | Full-Stack Developer
 I am currently scaling Parasite Cloud and refining AI-driven automation for the fitness and service industries. I believe that technology should be intuitive, efficient, and, above all, impactful.
 
-- 🔭 I’m currently working on AI Fitness Chatbot for Sweat Fix Gym.
 ## 🛠️ Technical Skills & Tools
 
 ### 🛠️ Languages & Tools
@@ -31,6 +30,60 @@ I am currently scaling Parasite Cloud and refining AI-driven automation for the 
 Leading the vision to build the next generation of AI-driven digital solutions and cloud services. We focus on bridging the gap between complex technology and business growth.
 * **Focus:** AI Automation, Cloud Infrastructure, and Scalable Web Architectures.
 * **Status:** Scaling & Innovating.
+
+---
+# 🏋️ Sweat Fix Gym - AI Fitness Ecosystem
+
+A production-ready AI coaching platform developed for **Sweat Fix Gym**. This system integrates frontier-level AI reasoning with personalized progress tracking to automate the personal training experience.
+
+---
+
+## 🚀 Live Demo & Deployment
+* **Access:** Via Gym Floor QR Code
+* **Infrastructure:** Hosted & Managed by **Prasai Cloud**
+
+---
+
+## ✨ Key Features
+
+- **🤖 Frontier AI Coaching:** Powered by **Arcee Trinity Large (400B MoE)** via OpenRouter for high-density fitness reasoning and agentic planning.
+- **📊 Dynamic Progress Tracking:** Interactive bar graphs that visualize workout consistency and diet adherence.
+- **🔐 Secure User Lifecycle:** Full **Google OAuth** integration for secure, one-tap login.
+- **🗄️ Persistence Layer:** Integrated **PostgreSQL** database for long-term storage of user profiles, workout history, and custom diet plans.
+- **🛠️ Admin Control Panel:** Dedicated interface for trainers to upload custom charts and manage member data.
+
+---
+
+## 🛠️ Technical Stack
+
+| Layer | Technology |
+| :--- | :--- |
+| **Model** | Arcee-AI Trinity Large Preview (via OpenRouter) |
+| **UI Framework** | Antigravity |
+| **Database** | PostgreSQL |
+| **Auth** | Google OAuth 2.0 |
+| **Architecture** | Agentic AI Workflow / Full-Stack Web App |
+
+---
+
+## ⚙️ Development & Migration
+Originally prototyped with Grok, the system was migrated to the **Arcee Trinity 400B** model to leverage its superior 128k context window and complex tool-calling capabilities, ensuring more accurate data synchronization with the PostgreSQL backend.
+
+---
+
+## 💼 Business Context
+Developed as a flagship product for **Prasai Cloud** to demonstrate the integration of Generative AI into traditional service industries.
+
+📧hello@prasai.cloud
+
+---
+
+## 👥 The Team
+This project was brought to life by the core team at **Prasai Cloud**:
+
+* **Priyanshu Kumar Paswan** – Lead Developer & AI Integration
+* **Kinjal Dutta** – Co-Founder & Technical Lead
+* **Debosmita Ghosh** – Co-Founder & Project Strategy
 
 ---
 
