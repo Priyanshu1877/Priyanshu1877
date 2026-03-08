@@ -79,11 +79,13 @@ Developed as a flagship product for **Prasai Cloud** to demonstrate the integrat
 ---
 
 ## 👥 The Team
-This project was brought to life by the core team at **Prasai Cloud**:
+This project is the result of a collaborative, equal-effort initiative by the founding team at **Prasai Cloud**:
 
-* **Priyanshu Kumar Paswan** – Lead Developer & AI Integration
-* **Kinjal Dutta** – Co-Founder & Technical Lead
-* **Debosmita Ghosh** – Co-Founder & Project Strategy
+* **Debosmita Ghosh**
+* **Kinjal Dutta**
+* **Priyanshu Kumar Paswan**
+
+Each member contributed equally to the research, development, AI integration, and strategic deployment of this ecosystem.
 
 ---
 
