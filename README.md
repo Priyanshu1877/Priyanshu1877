@@ -63,7 +63,7 @@ I’m always open to discussing innovative projects, AI advancements, or potenti
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" height="30"/>
 </a>
 
-<a href="https://linkedin.com/in/Priyanshu1877">
+<a href="www.linkedin.com/in/priyanshu-kumar-paswan-b91b85232">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30"/>
 </a>
 
