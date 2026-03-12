@@ -1,6 +1,4 @@
-BCA Graduate | Aspiring Tech Professional Skilled in WordPress, Python, SQL, HTML, CSS, and MS
-Office , with a strong foundation in web development and modern software tools. Experienced in
-building real-world projects , including responsive websites and full-stack applications, with a practical understanding of databases and deployment. I also bring basic knowledge of accounting principles and Tally , combining technical and business skills. Eager to contribute, learn, and grow in the IT and software development industry .
+As a Web Developer and Programmer, I specialize in building responsive websites and full-stack applications. I hold a Bachelor of Computer Applications and have hands-on experience with modern technologies including Python, SQL, HTML, CSS, and React.js. My practical background includes developing diverse platforms, from full-stack group projects using the MERN stack to frontend development for web applications. I also bring a unique blend of technical and business skills with knowledge of accounting and Tally. I am eager to leverage my skills to learn, grow, and contribute to the software development industry.
 
 🌟 Current Focus:
 Co-founder at Parasite Cloud | Building AI-Powered Solutions | Full-Stack Developer
