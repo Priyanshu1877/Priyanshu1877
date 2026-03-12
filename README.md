@@ -1,9 +1,5 @@
 As a Web Developer and Programmer, I specialize in building responsive websites and full-stack applications. I hold a Bachelor of Computer Applications and have hands-on experience with modern technologies including Python, SQL, HTML, CSS, and React.js. My practical background includes developing diverse platforms, from full-stack group projects using the MERN stack to frontend development for web applications. I also bring a unique blend of technical and business skills with knowledge of accounting and Tally. I am eager to leverage my skills to learn, grow, and contribute to the software development industry.
 
-🌟 Current Focus:
-Co-founder at Prasai Cloud | Building AI-Powered Solutions | Full-Stack Developer
-I am currently scaling Prasai Cloud and refining AI-driven automation for the fitness and service industries. I believe that technology should be intuitive, efficient, and, above all, impactful.
-
 ## 🛠️ Technical Skills & Tools
 
 ### 🛠️ Languages & Tools
