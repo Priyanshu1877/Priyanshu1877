@@ -2,7 +2,7 @@ As a Web Developer and Programmer, I specialize in building responsive websites 
 
 🌟 Current Focus:
 Co-founder at Parasite Cloud | Building AI-Powered Solutions | Full-Stack Developer
-I am currently scaling Parasite Cloud and refining AI-driven automation for the fitness and service industries. I believe that technology should be intuitive, efficient, and, above all, impactful.
+I am currently scaling Prasai Cloud and refining AI-driven automation for the fitness and service industries. I believe that technology should be intuitive, efficient, and, above all, impactful.
 
 ## 🛠️ Technical Skills & Tools
 
