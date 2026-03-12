@@ -1,9 +1,9 @@
 As a Web Developer and Programmer, I specialize in building responsive websites and full-stack applications. I hold a Bachelor of Computer Applications and have hands-on experience with modern technologies including Python, SQL, HTML, CSS, and React.js. My practical background includes developing diverse platforms, from full-stack group projects using the MERN stack to frontend development for web applications. I also bring a unique blend of technical and business skills with knowledge of accounting and Tally. I am eager to leverage my skills to learn, grow, and contribute to the software development industry.
-
+<--
 🌟 Current Focus:
-Co-founder at Parasite Cloud | Building AI-Powered Solutions | Full-Stack Developer
+Co-founder at Prasai Cloud | Building AI-Powered Solutions | Full-Stack Developer
 I am currently scaling Prasai Cloud and refining AI-driven automation for the fitness and service industries. I believe that technology should be intuitive, efficient, and, above all, impactful.
-
+-->
 ## 🛠️ Technical Skills & Tools
 
 ### 🛠️ Languages & Tools
@@ -23,7 +23,7 @@ I am currently scaling Prasai Cloud and refining AI-driven automation for the fi
   
 ## 🚀 Entrepreneurship & Startups
 
-### ☁️ Parasite Cloud (Prasai Cloud)
+### ☁️ Prasai Cloud (Prasai Cloud)
 **Co-founder | [prasai.cloud](https://prasai.cloud/)**
 Leading the vision to build the next generation of AI-driven digital solutions and cloud services. We focus on bridging the gap between complex technology and business growth.
 * **Focus:** AI Automation, Cloud Infrastructure, and Scalable Web Architectures.
