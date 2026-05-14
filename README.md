@@ -1,70 +1,76 @@
-As a Web Developer and Programmer, I specialize in building responsive websites and full-stack applications. I hold a Bachelor of Computer Applications and have hands-on experience with modern technologies including Python, SQL, HTML, CSS, and React.js. My practical background includes developing diverse platforms, from full-stack group projects using the MERN stack to frontend development for web applications. I also bring a unique blend of technical and business skills with knowledge of accounting and Tally. I am eager to leverage my skills to learn, grow, and contribute to the software development industry.
+<h1 align="center">Hi 👋, I'm Priyanshu</h1>
+<h3 align="center">Full Stack Developer • AI Builder • Fitness Tech Enthusiast</h3>
 
-## 🛠️ Technical Skills & Tools
-
-### 🛠️ Languages & Tools
-
-**Frontend & UI** 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
-**Programming Languages** 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-
-**Databases & Content Management** 
-![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-  
-## 🚀 Entrepreneurship & Startups
-
-### ☁️ Prasai Cloud
-**Co-founder | [prasai.cloud](https://prasai.cloud/)**
-Leading the vision to build the next generation of AI-driven digital solutions and cloud services. We focus on bridging the gap between complex technology and business growth.
-* **Focus:** AI Automation, Cloud Infrastructure, and Scalable Web Architectures.
-* **Status:** Scaling & Innovating.
-
-## 🛠️ Featured Projects
-
-### 🛡️ Safety Security Services
-**[safetysecurityservices.in](https://safetysecurityservices.in)**
-A professional digital platform developed for a security firm to manage service inquiries and client trust.
-* **Tech:** React / Next.js, SEO Optimization, Responsive UI.
-* **Impact:** Streamlined the client onboarding process for local security operations.
-
-### 💎 ZAFERON GOLD
-**[Premium Luxury Experience](https://mintcream-marten-987123.hostingersite.com/)**
-A high-fidelity web experience crafted for the premium luxury market, focusing on aesthetic excellence and smooth user journeys.
-* **Tech:** Modern Frontend Stack, Motion Design, Premium UI/UX.
-* **Focus:** High-conversion visual storytelling and luxury branding.
-
-
-Let’s Connect:
-I’m always open to discussing innovative projects, AI advancements, or potential collaborations.
-
-📧 priyanshupaswan648@gmail.com
-
-📧hello@prasai.cloud
-
-### Connect with me
-
-<p align="left">
-<a href="https://github.com/Priyanshu1877">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" height="30"/>
-</a>
-
-
-
-<a href="https://www.linkedin.com/in/priyanshu-kumar-paswan-b91b85232/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30"/>
-</a>
-
-
-
-<a href="https://prasai.cloud/">
-<img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" width="30" height="30"/>
-</a>
+<p align="center">
+  Building AI tools, fitness platforms, automation systems, and scalable web apps.
 </p>
 
-📍 Siliguri, West Bengal
+---
+
+## 🚀 About Me
+
+- 🔭 Currently working on AI-powered fitness platforms
+- 🌱 Exploring advanced AI agents & automation workflows
+- 💻 Full Stack Developer focused on React, Node.js, MySQL & AI APIs
+- ⚡ Interested in Cybersecurity, AI Systems, and SaaS products
+- 🎯 Goal: Build impactful AI products & scalable startups
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+
+### Backend
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+
+### Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+
+### AI & Tools
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+
+---
+
+## 📌 Featured Projects
+
+### 🧠 AI Fitness Chatbot
+AI-powered workout & nutrition assistant with memory, tracking, and analytics.
+
+### 🌐 Portfolio & Client Websites
+Modern responsive websites with animations and optimized performance.
+
+### ⚙️ Automation Systems
+Custom workflow automation, email systems, dashboards, and integrations.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+## 🌍 Connect With Me
+
+<p align="left">
+<a href="https://github.com/YOUR_USERNAME">GitHub</a>
+</p>
+
+---
+
+<p align="center">
+  🚀 Building AI products one project at a time
+</p>
