@@ -22,30 +22,32 @@
 
 ## 👤 About Me
 
-```yaml
-name:           Priyanshu Paswan
-role:           Full Stack Developer
-specialization:
-  - AI Applications
-  - SaaS Platforms
-  - Automation Systems
-  - Cloud Infrastructure
-  - DevOps Workflows
-
-currently_building:
-  - AI Fitness Chatbot
-  - Automation Platforms
-  - Scalable Client Projects
-  - Cloud Based Systems
-
-learning:
-  - Kubernetes
-  - Docker
-  - CI/CD Pipelines
-  - AWS Infrastructure
-  - Linux Automation
-
-philosophy:   "Build products that solve real problems."
+<table>
+  <tr>
+    <td colspan="2">
+      <h3>Priyanshu Paswan</h3>
+      <sub>Full Stack Developer · AI Engineer · DevOps Enthusiast</sub>
+      <br/><br/>
+      <i>"Build products that solve real problems."</i>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <b>🔧 Specialization</b><br/>
+      <code>AI Applications</code> <code>SaaS Platforms</code> <code>Automation Systems</code> <code>Cloud Infrastructure</code> <code>DevOps Workflows</code>
+    </td>
+    <td width="50%">
+      <b>🚧 Currently Building</b><br/>
+      <code>AI Fitness Chatbot</code> <code>Automation Platforms</code> <code>Client Projects</code> <code>Cloud Based Systems</code>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <b>📚 Currently Learning</b><br/>
+      <code>Kubernetes</code> <code>Docker</code> <code>CI/CD Pipelines</code> <code>AWS Infrastructure</code> <code>Linux Automation</code>
+    </td>
+  </tr>
+</table>
 ```
 
 ---
