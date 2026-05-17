@@ -28,5 +28,27 @@ Building scalable AI systems, modern web applications, automation workflows, and
 
 # / about me
 
-```bash
-> whoami
+name: Priyanshu Paswan
+role: Full Stack Developer
+specialization:
+  - AI Applications
+  - SaaS Platforms
+  - Automation Systems
+  - Cloud Infrastructure
+  - DevOps Workflows
+
+currently_building:
+  - AI Fitness Chatbot
+  - Automation Platforms
+  - Scalable Client Projects
+  - Cloud Based Systems
+
+learning:
+  - Kubernetes
+  - Docker
+  - CI/CD Pipelines
+  - AWS Infrastructure
+  - Linux Automation
+
+philosophy:
+  "Build products that solve real problems."
