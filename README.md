@@ -11,15 +11,15 @@ Building scalable AI systems, modern web applications, automation workflows, and
 </p>
 
 <p>
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge&color=2563eb"/>
+<a href="https://github.com/Priyanshu1877">
+<img src="https://img.shields.io/github/followers/Priyanshu1877?label=Followers&style=for-the-badge&color=2563eb"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME?affiliations=OWNER&style=for-the-badge&color=0ea5e9"/>
+<a href="https://github.com/Priyanshu1877">
+<img src="https://img.shields.io/github/stars/Priyanshu1877?affiliations=OWNER&style=for-the-badge&color=0ea5e9"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=2563eb"/>
+<img src="https://komarev.com/ghpvc/?username=Priyanshu1877&style=for-the-badge&color=2563eb"/>
 </p>
 
 </div>
