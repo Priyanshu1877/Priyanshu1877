@@ -22,31 +22,55 @@
 
 ## 👤 About Me
 
+<div align="center">
+
+| | |
+|---|---|
+| **Name** | Priyanshu Paswan |
+| **Role** | Full Stack Developer · AI Engineer · DevOps Enthusiast |
+| **Quote** | *"Build products that solve real problems."* |
+
+</div>
+
+<br/>
+
 <table>
-  <tr>
-    <td colspan="2">
-      <h3>Priyanshu Paswan</h3>
-      <sub>Full Stack Developer · AI Engineer · DevOps Enthusiast</sub>
-      <br/><br/>
-      <i>"Build products that solve real problems."</i>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <b>🔧 Specialization</b><br/>
-      <code>AI Applications</code> <code>SaaS Platforms</code> <code>Automation Systems</code> <code>Cloud Infrastructure</code> <code>DevOps Workflows</code>
-    </td>
-    <td width="50%">
-      <b>🚧 Currently Building</b><br/>
-      <code>AI Fitness Chatbot</code> <code>Automation Platforms</code> <code>Client Projects</code> <code>Cloud Based Systems</code>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <b>📚 Currently Learning</b><br/>
-      <code>Kubernetes</code> <code>Docker</code> <code>CI/CD Pipelines</code> <code>AWS Infrastructure</code> <code>Linux Automation</code>
-    </td>
-  </tr>
+<tr>
+<td valign="top" width="50%">
+
+**🔷 Specialization**
+
+![AI Applications](https://img.shields.io/badge/AI%20Applications-0C447C?style=flat-square&labelColor=E6F1FB&color=E6F1FB)
+![SaaS Platforms](https://img.shields.io/badge/SaaS%20Platforms-0C447C?style=flat-square&labelColor=E6F1FB&color=E6F1FB)
+![Automation Systems](https://img.shields.io/badge/Automation%20Systems-0C447C?style=flat-square&labelColor=E6F1FB&color=E6F1FB)
+![Cloud Infrastructure](https://img.shields.io/badge/Cloud%20Infrastructure-0C447C?style=flat-square&labelColor=E6F1FB&color=E6F1FB)
+![DevOps Workflows](https://img.shields.io/badge/DevOps%20Workflows-0C447C?style=flat-square&labelColor=E6F1FB&color=E6F1FB)
+
+</td>
+<td valign="top" width="50%">
+
+**🟢 Currently Building**
+
+![AI Fitness Chatbot](https://img.shields.io/badge/AI%20Fitness%20Chatbot-085041?style=flat-square&labelColor=E1F5EE&color=E1F5EE)
+![Automation Platforms](https://img.shields.io/badge/Automation%20Platforms-085041?style=flat-square&labelColor=E1F5EE&color=E1F5EE)
+![Client Projects](https://img.shields.io/badge/Client%20Projects-085041?style=flat-square&labelColor=E1F5EE&color=E1F5EE)
+![Cloud Systems](https://img.shields.io/badge/Cloud%20Systems-085041?style=flat-square&labelColor=E1F5EE&color=E1F5EE)
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+**🟡 Currently Learning**
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-633806?style=flat-square&labelColor=FAEEDA&color=FAEEDA)
+![Docker](https://img.shields.io/badge/Docker-633806?style=flat-square&labelColor=FAEEDA&color=FAEEDA)
+![CI/CD Pipelines](https://img.shields.io/badge/CI%2FCD%20Pipelines-633806?style=flat-square&labelColor=FAEEDA&color=FAEEDA)
+![AWS Infrastructure](https://img.shields.io/badge/AWS%20Infrastructure-633806?style=flat-square&labelColor=FAEEDA&color=FAEEDA)
+![Linux Automation](https://img.shields.io/badge/Linux%20Automation-633806?style=flat-square&labelColor=FAEEDA&color=FAEEDA)
+
+</td>
+</tr>
 </table>
 ```
 
