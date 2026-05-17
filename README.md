@@ -1,110 +1,32 @@
 <div align="center">
 
-# hey, i'm priyanshu 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=PRIYANSHU%20PASWAN&fontSize=42&fontAlignY=40&color=0:0f172a,50:2563eb,100:38bdf8&fontColor=ffffff" />
 
-building scalable ai products, modern web experiences, automation systems, and cloud infrastructure.
+<h3>
+Full Stack Developer • AI Engineer • DevOps Enthusiast
+</h3>
 
-<br/>
+<p>
+Building scalable AI systems, modern web applications, automation workflows, and cloud-powered products.
+</p>
 
-[website](https://prasai.cloud) • [github](https://github.com/YOUR_USERNAME)
+<p>
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge&color=2563eb"/>
+</a>
 
-</div>
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/github/stars/YOUR_USERNAME?affiliations=OWNER&style=for-the-badge&color=0ea5e9"/>
+</a>
 
----
-
-### about
-
-i'm a full stack developer focused on creating modern digital products with ai integrations, automation workflows, and scalable backend systems.
-
-currently working on:
-- ai fitness chatbot systems
-- cloud-based web platforms
-- automation & workflow tools
-- scalable backend architecture
-- devops & deployment pipelines
-
----
-
-### stack
-
-#### frontend
-- react
-- next.js
-- tailwindcss
-- typescript
-- framer motion
-
-#### backend
-- node.js
-- express.js
-- mysql
-- rest api
-- websocket
-
-#### ai
-- openai api
-- groq api
-- llm integrations
-- ai automation
-- prompt engineering
-
-#### devops
-- docker
-- github actions
-- nginx
-- linux
-- cloudflare
-- ci/cd pipelines
-- vps deployment
-- pm2
-- vercel
-- hostinger
-
-#### tools
-- git
-- github
-- postman
-- figma
-- vscode
-
----
-
-### projects
-
-#### ai fitness platform
-ai-powered workout & nutrition assistant with tracking, analytics, and personalized recommendations.
-
-#### prasai cloud
-modern web development & automation services platform.
-
-#### automation systems
-custom workflow automations, email integrations, dashboards, and scalable business systems.
-
----
-
-### stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=transparent&hide_border=true" />
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=2563eb"/>
+</p>
 
 </div>
 
 ---
 
-### contact
+# / about me
 
-- website: https://prasai.cloud
-- github: https://github.com/YOUR_USERNAME
-
----
-
-<div align="center">
-
-building the future with ai, automation, and scalable systems.
-
-</div>
+```bash
+> whoami
