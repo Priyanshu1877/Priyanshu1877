@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=PRIYANSHU%20PASWAN&fontSize=42&fontAlignY=40&color=0:0f172a,50:2563eb,100:38bdf8&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=PRIYANSHU%20KUMAR%20PASWAN&fontSize=42&fontAlignY=40&color=0:0f172a,50:2563eb,100:38bdf8&fontColor=ffffff" />
 
 <h3>Full Stack Developer • AI Engineer • DevOps Enthusiast</h3>
 
