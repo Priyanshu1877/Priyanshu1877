@@ -52,3 +52,35 @@ learning:
 
 philosophy:
   "Build products that solve real problems."
+
+  / tech stack
+<div align="center"> <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,ts,nodejs,express,mysql,mongodb,python,java,cpp" />
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,githubactions,git,nginx,firebase,vercel,cloudflare,bash" /> </div>
+
+/ currently working on
+<div align="center"> <table> <tr> <td width="50%">
+🧠 AI Fitness Platform
+AI workout generation
+Smart nutrition tracking
+Real-time analytics
+AI chatbot integration
+User performance dashboard
+</td> <td width="50%">
+⚡ DevOps & Cloud
+Dockerized deployments
+CI/CD automation
+Linux server management
+Cloud infrastructure
+Performance optimization
+</td> </tr> </table> </div>
+/ github analytics
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Priyanshu1877&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu1877&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/> </div> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=Priyanshu1877&theme=tokyonight&hide_border=true&background=0D1117"/> </div>
+/ contribution graph
+<div align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=tokyonight"/> </div>
+/ devops & cloud
+<div align="center"> <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/> <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/> </div>
+/ connect
+<div align="center"> <a href="https://github.com/Priyanshu1877"> <img src="https://skillicons.dev/icons?i=github" /> </a> <a href="https://linkedin.com/in/YOUR_LINK"> <img src="https://skillicons.dev/icons?i=linkedin" /> </a> <a href="mailto:YOUR_EMAIL"> <img src="https://skillicons.dev/icons?i=gmail" /> </a> </div>
