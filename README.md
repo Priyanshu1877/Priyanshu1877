@@ -175,7 +175,7 @@
   <img src="https://skillicons.dev/icons?i=github" />
 </a>
 &nbsp;
-<a href="www.linkedin.com/in/priyanshu-kumar-paswan-b91b85232">
+<a href="https://www.linkedin.com/in/priyanshu-kumar-paswan-b91b85232/?skipRedirect=true">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 &nbsp;
