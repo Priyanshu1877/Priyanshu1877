@@ -179,7 +179,7 @@
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 &nbsp;
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:priyanshupaswan648@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
