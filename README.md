@@ -131,15 +131,18 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Priyanshu1877&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu1877&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Priyanshu1877&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu1877&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Priyanshu1877&theme=tokyonight&hide_border=true&background=0D1117"/>
+<img src="https://streak-stats.demolab.com?user=Priyanshu1877&theme=tokyonight&hide_border=true&background=0D1117"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Priyanshu1877&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true"/>
 
 </div>
-
 ---
 
 ## 📈 Contribution Graph
