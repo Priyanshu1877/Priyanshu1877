@@ -1,6 +1,9 @@
 <!-- Header -->
 <div align="center">
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=378ADD&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+Engineer;DevOps+%26+Cloud+Enthusiast;Building+products+that+solve+real+problems.)
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=378ADD&center=true&vCenter=true&width=600&lines=Priyanshu.Kumar.Paswan;Full+Stack+Developer+%7C+AI+Engineer+%7C+DevOps;Building+scalable+AI+systems+%26+cloud+products.)
+
+<img src="https://komarev.com/ghpvc/?username=Priyanshu1877&style=flat-square&color=378ADD&label=profile+views"/>
 
 </div>
 
@@ -49,6 +52,8 @@ quote    : "Build products that solve real problems."
 ![Nginx](https://img.shields.io/badge/Nginx-0d1117?style=flat-square&logo=nginx&logoColor=009639)
 ![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=flat-square&logo=vercel&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=flat-square&logo=firebase&logoColor=FFCA28)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-0d1117?style=flat-square&logo=cloudflare&logoColor=F38020)
+![Bash](https://img.shields.io/badge/Bash-0d1117?style=flat-square&logo=gnubash&logoColor=white)
 
 ---
 
@@ -59,28 +64,26 @@ quote    : "Build products that solve real problems."
 <td width="50%" valign="top">
 
 **🧠 AI Fitness Platform**
+```
 › AI workout generation
-
 › Smart nutrition tracking
-
 › Real-time analytics dashboard
-
 › AI chatbot integration
-
 › User performance tracking
+```
+
 </td>
 <td width="50%" valign="top">
 
 **⚡ DevOps & Cloud Systems**
+```
 › Dockerized deployments
-
 › CI/CD pipeline automation
-
 › Linux server management
-
 › Cloud infrastructure (AWS)
-
 › Performance optimization
+```
+
 </td>
 </tr>
 </table>
@@ -121,9 +124,11 @@ quote    : "Build products that solve real problems."
 <a href="https://github.com/Priyanshu1877">
   <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+&nbsp;
 <a href="https://www.linkedin.com/in/priyanshu-kumar-paswan-b91b85232">
   <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
+&nbsp;
 <a href="mailto:priyanshupaswan648@gmail.com">
   <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
@@ -131,7 +136,5 @@ quote    : "Build products that solve real problems."
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Priyanshu1877&style=flat-square&color=378ADD&label=profile+views"/>
-  <br/><br/>
   <code>priyanshupaswan648@gmail.com · github.com/Priyanshu1877</code>
 </div>
