@@ -1,192 +1,137 @@
+<!-- Header -->
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=PRIYANSHU%20KUMAR%20PASWAN&fontSize=42&fontAlignY=40&color=0:0f172a,50:2563eb,100:38bdf8&fontColor=ffffff" />
-
-<h3>Full Stack Developer • AI Engineer • DevOps Enthusiast</h3>
-
-<p>Building scalable AI systems, modern web applications, automation workflows, and cloud-powered products.</p>
-
-<p>
-  <a href="https://github.com/Priyanshu1877">
-    <img src="https://img.shields.io/github/followers/Priyanshu1877?label=Followers&style=for-the-badge&color=2563eb"/>
-  </a>
-  <a href="https://github.com/Priyanshu1877">
-    <img src="https://img.shields.io/github/stars/Priyanshu1877?affiliations=OWNER&style=for-the-badge&color=0ea5e9"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Priyanshu1877&style=for-the-badge&color=2563eb"/>
-</p>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=378ADD&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+Engineer;DevOps+%26+Cloud+Enthusiast;Building+products+that+solve+real+problems.)
 
 </div>
 
 ---
 
-## 👤 About Me
+## `// whoami`
 
-<div align="center">
-
-| | |
-|---|---|
-| **Name** | Priyanshu Paswan |
-| **Role** | Full Stack Developer · AI Engineer · DevOps Enthusiast |
-| **Quote** | *"Build products that solve real problems."* |
-
-</div>
-
-<br/>
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-**🔷 Specialization**
-
-![AI Applications](https://img.shields.io/badge/AI%20Applications-0C447C?style=flat-square&labelColor=E6F1FB&color=E6F1FB)
-![SaaS Platforms](https://img.shields.io/badge/SaaS%20Platforms-0C447C?style=flat-square&labelColor=E6F1FB&color=E6F1FB)
-![Automation Systems](https://img.shields.io/badge/Automation%20Systems-0C447C?style=flat-square&labelColor=E6F1FB&color=E6F1FB)
-![Cloud Infrastructure](https://img.shields.io/badge/Cloud%20Infrastructure-0C447C?style=flat-square&labelColor=E6F1FB&color=E6F1FB)
-![DevOps Workflows](https://img.shields.io/badge/DevOps%20Workflows-0C447C?style=flat-square&labelColor=E6F1FB&color=E6F1FB)
-
-</td>
-<td valign="top" width="50%">
-
-**🟢 Currently Building**
-
-![AI Fitness Chatbot](https://img.shields.io/badge/AI%20Fitness%20Chatbot-085041?style=flat-square&labelColor=E1F5EE&color=E1F5EE)
-![Automation Platforms](https://img.shields.io/badge/Automation%20Platforms-085041?style=flat-square&labelColor=E1F5EE&color=E1F5EE)
-![Client Projects](https://img.shields.io/badge/Client%20Projects-085041?style=flat-square&labelColor=E1F5EE&color=E1F5EE)
-![Cloud Systems](https://img.shields.io/badge/Cloud%20Systems-085041?style=flat-square&labelColor=E1F5EE&color=E1F5EE)
-
-</td>
-</tr>
-<tr>
-<td colspan="2">
-
-**🟡 Currently Learning**
-
-![Kubernetes](https://img.shields.io/badge/Kubernetes-633806?style=flat-square&labelColor=FAEEDA&color=FAEEDA)
-![Docker](https://img.shields.io/badge/Docker-633806?style=flat-square&labelColor=FAEEDA&color=FAEEDA)
-![CI/CD Pipelines](https://img.shields.io/badge/CI%2FCD%20Pipelines-633806?style=flat-square&labelColor=FAEEDA&color=FAEEDA)
-![AWS Infrastructure](https://img.shields.io/badge/AWS%20Infrastructure-633806?style=flat-square&labelColor=FAEEDA&color=FAEEDA)
-![Linux Automation](https://img.shields.io/badge/Linux%20Automation-633806?style=flat-square&labelColor=FAEEDA&color=FAEEDA)
-
-</td>
-</tr>
-</table>
+```yaml
+name     : Priyanshu Kumar Paswan
+role     : Full Stack Developer · AI Engineer · DevOps Enthusiast
+focus    : Scalable AI systems · SaaS platforms · Cloud infrastructure
+status   : Open to work & collaborations
+email    : priyanshupaswan648@gmail.com
+github   : github.com/Priyanshu1877
+quote    : "Build products that solve real problems."
 ```
 
 ---
 
-## 🛠️ Tech Stack
+## `// tech-stack`
 
-<div align="center">
+**Frontend**
 
-**Frontend & Backend**
+![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=38bdf8)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,ts,nodejs,express,mysql,mongodb,python,java,cpp" />
+**Backend**
 
-<br/><br/>
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=339933)
+![Express](https://img.shields.io/badge/Express-0d1117?style=flat-square&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
+![Java](https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=ED8B00)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=47A248)
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=4479A1)
 
 **DevOps & Cloud**
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,githubactions,git,nginx,firebase,vercel,cloudflare,bash" />
-
-</div>
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=0db7ed)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0d1117?style=flat-square&logo=kubernetes&logoColor=326CE5)
+![AWS](https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazonaws&logoColor=FF9900)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d1117?style=flat-square&logo=githubactions&logoColor=2088FF)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=FCC624)
+![Nginx](https://img.shields.io/badge/Nginx-0d1117?style=flat-square&logo=nginx&logoColor=009639)
+![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=flat-square&logo=vercel&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=flat-square&logo=firebase&logoColor=FFCA28)
 
 ---
 
-## 🚀 Currently Working On
-
-<div align="center">
+## `// currently-building`
 
 <table>
-  <tr>
-    <td width="50%">
+<tr>
+<td width="50%" valign="top">
 
 **🧠 AI Fitness Platform**
-- AI workout generation
-- Smart nutrition tracking
-- Real-time analytics
-- AI chatbot integration
-- User performance dashboard
+› AI workout generation
 
+› Smart nutrition tracking
+
+› Real-time analytics dashboard
+
+› AI chatbot integration
+
+› User performance tracking
 </td>
-    <td width="50%">
+<td width="50%" valign="top">
 
-**⚡ DevOps & Cloud**
-- Dockerized deployments
-- CI/CD automation
-- Linux server management
-- Cloud infrastructure
-- Performance optimization
+**⚡ DevOps & Cloud Systems**
+› Dockerized deployments
 
+› CI/CD pipeline automation
+
+› Linux server management
+
+› Cloud infrastructure (AWS)
+
+› Performance optimization
 </td>
-  </tr>
+</tr>
 </table>
 
-</div>
+---
+
+## `// currently-learning`
+
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-0d1117?style=flat-square&logo=kubernetes&logoColor=326CE5)
+![Docker Advanced](https://img.shields.io/badge/-Docker_Advanced-0d1117?style=flat-square&logo=docker&logoColor=0db7ed)
+![CI/CD Pipelines](https://img.shields.io/badge/-CI%2FCD_Pipelines-0d1117?style=flat-square&logo=githubactions&logoColor=2088FF)
+![AWS Infrastructure](https://img.shields.io/badge/-AWS_Infrastructure-0d1117?style=flat-square&logo=amazonaws&logoColor=FF9900)
+![Linux Automation](https://img.shields.io/badge/-Linux_Automation-0d1117?style=flat-square&logo=linux&logoColor=FCC624)
 
 ---
 
-## 📊 GitHub Analytics
+## `// github-stats`
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Priyanshu1877&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu1877&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Priyanshu1877&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=378ADD&icon_color=378ADD&text_color=8b949e&count_private=true&include_all_commits=true"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu1877&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=378ADD&text_color=8b949e&langs_count=8"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Priyanshu1877&theme=tokyonight&hide_border=true&background=0D1117"/>
+<img src="https://streak-stats.demolab.com?user=Priyanshu1877&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=378ADD&ring=378ADD&fire=38bdf8&currStreakLabel=8b949e"/>
 
 <br/>
 
-</div>
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Priyanshu1877&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Priyanshu1877&theme=github_dark"/>
 
 </div>
 
 ---
 
-## ☁️ DevOps & Cloud
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
-
-</div>
-
----
-
-## 🤝 Connect
-
-<div align="center">
+## `// connect`
 
 <a href="https://github.com/Priyanshu1877">
-  <img src="https://skillicons.dev/icons?i=github" />
+  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-&nbsp;
 <a href="https://www.linkedin.com/in/priyanshu-kumar-paswan-b91b85232">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
+  <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
-&nbsp;
 <a href="mailto:priyanshupaswan648@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" />
+  <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
 
-</div>
-
-<br/>
+---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:38bdf8,50:2563eb,100:0f172a&section=footer"/>
+  <img src="https://komarev.com/ghpvc/?username=Priyanshu1877&style=flat-square&color=378ADD&label=profile+views"/>
+  <br/><br/>
+  <code>priyanshupaswan648@gmail.com · github.com/Priyanshu1877</code>
 </div>
