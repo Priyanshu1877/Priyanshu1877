@@ -64,26 +64,28 @@ quote    : "Build products that solve real problems."
 <td width="50%" valign="top">
 
 **🧠 AI Fitness Platform**
-```
 › AI workout generation
-› Smart nutrition tracking
-› Real-time analytics dashboard
-› AI chatbot integration
-› User performance tracking
-```
 
+› Smart nutrition tracking
+
+› Real-time analytics dashboard
+
+› AI chatbot integration
+
+› User performance tracking
 </td>
 <td width="50%" valign="top">
 
 **⚡ DevOps & Cloud Systems**
-```
 › Dockerized deployments
-› CI/CD pipeline automation
-› Linux server management
-› Cloud infrastructure (AWS)
-› Performance optimization
-```
 
+› CI/CD pipeline automation
+
+› Linux server management
+
+› Cloud infrastructure (AWS)
+
+› Performance optimization
 </td>
 </tr>
 </table>
