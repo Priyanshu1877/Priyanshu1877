@@ -140,8 +140,6 @@
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Priyanshu1877&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true"/>
-
 </div>
 ---
 
