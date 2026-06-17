@@ -1,142 +1,241 @@
-<!-- Header -->
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=378ADD&center=true&vCenter=true&width=600&lines=Priyanshu.Kumar.Paswan;Full+Stack+Developer+%7C+AI+Engineer+%7C+DevOps;Building+scalable+AI+systems+%26+cloud+products.)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&text=PRIYANSHU%20PASWAN&fontSize=50&fontAlignY=40&animation=fadeIn&color=0:0f172a,50:2563eb,100:38bdf8&fontColor=ffffff"/>
 
-<img src="https://komarev.com/ghpvc/?username=Priyanshu1877&style=flat-square&color=378ADD&label=profile+views"/>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=AI+Engineer;Full+Stack+Developer;Founder+of+PrasAI+Cloud;Building+AI+Agents+and+Automations;Cloud+and+DevOps+Enthusiast"/>
+</p>
+
+<h1>🚀 AI Engineer • Full Stack Developer • Founder @ PrasAI Cloud</h1>
+
+<p>
+Building AI Agents, Automation Systems, Scalable Web Applications, SaaS Platforms & Cloud Infrastructure.
+</p>
+
+<p>
+  <a href="https://github.com/Priyanshu1877">
+    <img src="https://img.shields.io/github/followers/Priyanshu1877?style=for-the-badge&logo=github&color=2563eb"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Priyanshu1877&style=for-the-badge&color=2563eb"/>
+</p>
 
 </div>
 
 ---
 
-## `// whoami`
+# 👨‍💻 About Me
 
 ```yaml
-name     : Priyanshu Kumar Paswan
-role     : Full Stack Developer · AI Engineer · DevOps Enthusiast
-focus    : Scalable AI systems · SaaS platforms · Cloud infrastructure
-status   : Open to work & collaborations
-email    : priyanshupaswan648@gmail.com
-github   : github.com/Priyanshu1877
-quote    : "Build products that solve real problems."
+Name: Priyanshu Paswan
+Role: AI Engineer | Full Stack Developer
+Company: PrasAI Cloud
+Location: India
+
+Focus:
+  - AI Agents
+  - Automation Systems
+  - SaaS Development
+  - Cloud Infrastructure
+  - DevOps Engineering
+
+Mission:
+  Build intelligent systems that solve real-world business problems.
 ```
 
 ---
 
-## `// tech-stack`
+# 🚀 Founder @ PrasAI Cloud
 
-**Frontend**
+### Building Digital Solutions Through
 
-![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=38bdf8)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=339933)
-![Express](https://img.shields.io/badge/Express-0d1117?style=flat-square&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
-![Java](https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=ED8B00)
-![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=47A248)
-![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=4479A1)
-
-**DevOps & Cloud**
-
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=0db7ed)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-0d1117?style=flat-square&logo=kubernetes&logoColor=326CE5)
-![AWS](https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazonaws&logoColor=FF9900)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d1117?style=flat-square&logo=githubactions&logoColor=2088FF)
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=FCC624)
-![Nginx](https://img.shields.io/badge/Nginx-0d1117?style=flat-square&logo=nginx&logoColor=009639)
-![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=flat-square&logo=vercel&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=flat-square&logo=firebase&logoColor=FFCA28)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-0d1117?style=flat-square&logo=cloudflare&logoColor=F38020)
-![Bash](https://img.shields.io/badge/Bash-0d1117?style=flat-square&logo=gnubash&logoColor=white)
+- 🤖 AI Agents & Automations
+- 🌐 Modern Web Applications
+- 📱 Mobile Applications
+- ☁️ Cloud Infrastructure
+- ⚙️ DevOps Solutions
+- 📈 Scalable SaaS Products
 
 ---
 
-## `// currently-building`
+# 🌟 Featured Projects
 
 <table>
 <tr>
-<td width="50%" valign="top">
 
-**🧠 AI Fitness Platform**
-› AI workout generation
+<td width="50%">
 
-› Smart nutrition tracking
+## 🏋️ Sweat AI
 
-› Real-time analytics dashboard
+AI-Powered Fitness Platform
 
-› AI chatbot integration
+### Features
 
-› User performance tracking
+- AI Workout Generation
+- Personalized Nutrition Plans
+- User Progress Tracking
+- Smart Water Monitoring
+- AI Chat Assistant
+- Analytics Dashboard
+
 </td>
-<td width="50%" valign="top">
 
-**⚡ DevOps & Cloud Systems**
-› Dockerized deployments
+<td width="50%">
 
-› CI/CD pipeline automation
+## ☁️ PrasAI Cloud
 
-› Linux server management
+AI & Automation Company
 
-› Cloud infrastructure (AWS)
+### Services
 
-› Performance optimization
+- AI Automation
+- Custom Software Development
+- Web Applications
+- Mobile Applications
+- Branding Solutions
+- Cloud Deployments
+
 </td>
+
+</tr>
+
+<tr>
+
+<td colspan="2">
+
+## 📊 Eddelact
+
+Modern Business Intelligence Platform
+
+### Stack
+
+- React.js
+- Node.js
+- Express.js
+- Analytics Dashboard
+- Modern UI/UX
+- Performance Optimization
+
+</td>
+
 </tr>
 </table>
 
 ---
 
-## `// currently-learning`
-
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-0d1117?style=flat-square&logo=kubernetes&logoColor=326CE5)
-![Docker Advanced](https://img.shields.io/badge/-Docker_Advanced-0d1117?style=flat-square&logo=docker&logoColor=0db7ed)
-![CI/CD Pipelines](https://img.shields.io/badge/-CI%2FCD_Pipelines-0d1117?style=flat-square&logo=githubactions&logoColor=2088FF)
-![AWS Infrastructure](https://img.shields.io/badge/-AWS_Infrastructure-0d1117?style=flat-square&logo=amazonaws&logoColor=FF9900)
-![Linux Automation](https://img.shields.io/badge/-Linux_Automation-0d1117?style=flat-square&logo=linux&logoColor=FCC624)
-
----
-
-## `// github-stats`
+# ⚡ Technology Arsenal
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Priyanshu1877&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=378ADD&icon_color=378ADD&text_color=8b949e&count_private=true&include_all_commits=true"/>
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu1877&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=378ADD&text_color=8b949e&langs_count=8"/>
+### Frontend Development
 
-<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,js,ts"/>
 
-<img src="https://streak-stats.demolab.com?user=Priyanshu1877&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=378ADD&ring=378ADD&fire=38bdf8&currStreakLabel=8b949e"/>
+<br/><br/>
 
-<br/>
+### Backend Development
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Priyanshu1877&theme=github_dark"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,python"/>
+
+<br/><br/>
+
+### DevOps & Cloud
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,git,githubactions,nginx,cloudflare,vercel,bash"/>
 
 </div>
 
 ---
 
-## `// connect`
+# 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Priyanshu1877&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu1877&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=Priyanshu1877&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📊 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Priyanshu1877&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Profile Summary
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Priyanshu1877&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🎯 Current Focus
+
+<div align="center">
+
+| Area | Focus |
+|--------|--------|
+| 🤖 AI | AI Agents & Automation Systems |
+| 🌐 Development | Full Stack SaaS Applications |
+| ☁️ Cloud | AWS Infrastructure |
+| ⚙️ DevOps | Docker, Kubernetes & CI/CD |
+| 🚀 Startup | Scaling PrasAI Cloud |
+
+</div>
+
+---
+
+# 🛠️ Tools & Platforms
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=vscode,github,git,linux,postman,firebase,vercel"/>
+
+</div>
+
+---
+
+# 🤝 Connect With Me
+
+<div align="center">
 
 <a href="https://github.com/Priyanshu1877">
-  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=github"/>
 </a>
-&nbsp;
+
+&nbsp;&nbsp;&nbsp;
+
 <a href="https://www.linkedin.com/in/priyanshu-kumar-paswan-b91b85232">
-  <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
-&nbsp;
+
+&nbsp;&nbsp;&nbsp;
+
 <a href="mailto:priyanshupaswan648@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+<img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
+
+</div>
 
 ---
 
 <div align="center">
-  <code>priyanshupaswan648@gmail.com · github.com/Priyanshu1877</code>
+
+## 💡 Building Intelligent Systems That Create Real Impact
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:38bdf8,50:2563eb,100:0f172a"/>
+
 </div>
