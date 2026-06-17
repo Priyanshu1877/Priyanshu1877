@@ -1,22 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&text=PRIYANSHU%20PASWAN&fontSize=50&fontAlignY=40&animation=fadeIn&color=0:0f172a,50:2563eb,100:38bdf8&fontColor=ffffff"/>
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=AI+Engineer;Full+Stack+Developer;Founder+of+PrasAI+Cloud;Building+AI+Agents+and+Automations;Cloud+and+DevOps+Enthusiast"/>
-</p>
-
-<h1>🚀 AI Engineer • Full Stack Developer • Founder @ PrasAI Cloud</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=PRIYANSHU%20PASWAN&fontSize=45&fontAlignY=40&animation=fadeIn&color=0:0F172A,50:2563EB,100:38BDF8&fontColor=FFFFFF"/>
 
 <p>
-Building AI Agents, Automation Systems, Scalable Web Applications, SaaS Platforms & Cloud Infrastructure.
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=AI+Engineer;Full+Stack+Developer;Building+AI+Agents+and+Automation+Systems;Cloud+and+DevOps+Enthusiast;Creating+Scalable+Web+Applications"/>
+</p>
+
+<h3>AI Engineer • Full Stack Developer • DevOps Enthusiast</h3>
+
+<p>
+Building scalable AI systems, modern web applications, automation workflows, and cloud-powered products.
 </p>
 
 <p>
-  <a href="https://github.com/Priyanshu1877">
-    <img src="https://img.shields.io/github/followers/Priyanshu1877?style=for-the-badge&logo=github&color=2563eb"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Priyanshu1877&style=for-the-badge&color=2563eb"/>
+<img src="https://komarev.com/ghpvc/?username=Priyanshu1877&style=for-the-badge&color=2563EB"/>
+<img src="https://img.shields.io/github/followers/Priyanshu1877?style=for-the-badge&logo=github&color=2563EB"/>
 </p>
 
 </div>
@@ -27,112 +25,134 @@ Building AI Agents, Automation Systems, Scalable Web Applications, SaaS Platform
 
 ```yaml
 Name: Priyanshu Paswan
-Role: AI Engineer | Full Stack Developer
-Company: PrasAI Cloud
-Location: India
 
-Focus:
+Role:
+  - AI Engineer
+  - Full Stack Developer
+  - DevOps Enthusiast
+
+Specialization:
   - AI Agents
   - Automation Systems
-  - SaaS Development
+  - SaaS Applications
   - Cloud Infrastructure
   - DevOps Engineering
 
 Mission:
-  Build intelligent systems that solve real-world business problems.
+  Build intelligent products that solve real-world business problems.
 ```
 
 ---
 
-# 🚀 Founder @ PrasAI Cloud
-
-### Building Digital Solutions Through
-
-- 🤖 AI Agents & Automations
-- 🌐 Modern Web Applications
-- 📱 Mobile Applications
-- ☁️ Cloud Infrastructure
-- ⚙️ DevOps Solutions
-- 📈 Scalable SaaS Products
-
----
-
-# 🌟 Featured Projects
+# 🚀 Professional Focus
 
 <table>
 <tr>
-
 <td width="50%">
 
-## 🏋️ Sweat AI
+### 🤖 Artificial Intelligence
 
-AI-Powered Fitness Platform
-
-### Features
-
-- AI Workout Generation
-- Personalized Nutrition Plans
-- User Progress Tracking
-- Smart Water Monitoring
-- AI Chat Assistant
-- Analytics Dashboard
-
-</td>
-
-<td width="50%">
-
-## ☁️ PrasAI Cloud
-
-AI & Automation Company
-
-### Services
-
+- AI Agents
 - AI Automation
-- Custom Software Development
-- Web Applications
-- Mobile Applications
-- Branding Solutions
-- Cloud Deployments
+- Intelligent Workflows
+- AI-Powered Applications
 
 </td>
 
+<td width="50%">
+
+### 🌐 Full Stack Development
+
+- React.js Applications
+- Node.js Backends
+- REST APIs
+- Modern Web Platforms
+
+</td>
 </tr>
 
 <tr>
+<td width="50%">
 
-<td colspan="2">
+### ☁️ Cloud & DevOps
 
-## 📊 Eddelact
-
-Modern Business Intelligence Platform
-
-### Stack
-
-- React.js
-- Node.js
-- Express.js
-- Analytics Dashboard
-- Modern UI/UX
-- Performance Optimization
+- Docker
+- Kubernetes
+- AWS
+- CI/CD Pipelines
+- Linux Administration
 
 </td>
 
+<td width="50%">
+
+### 📊 Software Solutions
+
+- SaaS Products
+- Analytics Dashboards
+- Enterprise Applications
+- Automation Platforms
+
+</td>
 </tr>
 </table>
 
 ---
 
-# ⚡ Technology Arsenal
+# 🌟 Featured Projects
+
+## 🏋️ Sweat AI
+
+AI-powered fitness ecosystem featuring:
+
+- Smart Workout Generation
+- Personalized Nutrition Plans
+- AI Fitness Coach
+- Progress Tracking
+- Water Monitoring
+- User Analytics Dashboard
+
+---
+
+## ☁️ PrasAI Cloud
+
+AI & Software Solutions Platform focused on:
+
+- AI Automation
+- Custom Software Development
+- Web Applications
+- Mobile Applications
+- Cloud Solutions
+- Business Automation
+
+---
+
+## 📊 Eddelact
+
+Modern Business Intelligence Platform
+
+**Technology Stack**
+
+- React.js
+- Node.js
+- Express.js
+- Modern UI/UX
+- Performance Optimization
+- Analytics Dashboard
+
+---
+
+# ⚡ Tech Stack
 
 <div align="center">
 
-### Frontend Development
+### Frontend
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,js,ts"/>
 
 <br/><br/>
 
-### Backend Development
+### Backend
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,python"/>
 
@@ -142,19 +162,29 @@ Modern Business Intelligence Platform
 
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,git,githubactions,nginx,cloudflare,vercel,bash"/>
 
+<br/><br/>
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=vscode,github,postman,firebase"/>
+
 </div>
 
 ---
 
-# 📈 GitHub Analytics
+# 📈 GitHub Statistics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Priyanshu1877&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Priyanshu1877&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu1877&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu1877&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<br/><br/>
+</div>
+
+<br/>
+
+<div align="center">
 
 <img src="https://streak-stats.demolab.com?user=Priyanshu1877&theme=tokyonight&hide_border=true"/>
 
@@ -172,7 +202,7 @@ Modern Business Intelligence Platform
 
 ---
 
-# 🏆 GitHub Profile Summary
+# 🏆 Profile Overview
 
 <div align="center">
 
@@ -184,27 +214,13 @@ Modern Business Intelligence Platform
 
 # 🎯 Current Focus
 
-<div align="center">
-
-| Area | Focus |
-|--------|--------|
-| 🤖 AI | AI Agents & Automation Systems |
-| 🌐 Development | Full Stack SaaS Applications |
-| ☁️ Cloud | AWS Infrastructure |
+| Focus Area | Current Goal |
+|------------|--------------|
+| 🤖 Artificial Intelligence | Building AI Agents & Automation Systems |
+| 🌐 Full Stack Development | Scalable SaaS Platforms |
+| ☁️ Cloud Infrastructure | AWS & Containerization |
 | ⚙️ DevOps | Docker, Kubernetes & CI/CD |
-| 🚀 Startup | Scaling PrasAI Cloud |
-
-</div>
-
----
-
-# 🛠️ Tools & Platforms
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=vscode,github,git,linux,postman,firebase,vercel"/>
-
-</div>
+| 🚀 Software Engineering | Modern Full Stack Applications |
 
 ---
 
@@ -234,8 +250,8 @@ Modern Business Intelligence Platform
 
 <div align="center">
 
-## 💡 Building Intelligent Systems That Create Real Impact
+### 💡 Building Scalable Software, AI Solutions & Modern Digital Experiences
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:38bdf8,50:2563eb,100:0f172a"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:38BDF8,50:2563EB,100:0F172A"/>
 
 </div>
