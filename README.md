@@ -228,20 +228,13 @@ Group project focused on modern streaming UI design, responsive layout, and fron
 <tr>
 <td width="50%">
 
-<h2>Incoming Backend AI Engineer Intern</h2>
+<h2>Backend AI Engineer Intern </h2>
 
 <p><b>FlyRank AI</b> - Remote, India</p>
 <p>Backend AI engineering role focused on AI systems, automation logic, and modern backend workflows.</p>
 
 </td>
-<td width="50%">
 
-<h2>NGO Work</h2>
-
-<p><b>Sneho Foundation Work For Nation</b> - Siliguri, West Bengal</p>
-<p>Worked for 9 months contributing to NGO activities and community-focused initiatives.</p>
-
-</td>
 </tr>
 </table>
 
