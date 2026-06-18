@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&text=PRIYANSHU%20KUMAR%20PASWAN&fontSize=44&fontAlignY=36&animation=fadeIn&color=0:020617,45:1D4ED8,100:38BDF8&fontColor=FFFFFF&desc=AI%20Automation%20Developer%20%7C%20Full%20Stack%20MERN%20Developer%20%7C%20Backend%20AI%20Engineer&descSize=17&descAlignY=58"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=25&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=950&lines=Building+AI+Automation+Systems+For+Real+World+Projects;Developing+Modern+MERN+and+Next.js+Applications;Creating+Backend+AI+Workflows+and+Custom+API+Integrations;Designing+Fast%2C+Clean%2C+Business+Ready+Software"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=25&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=950&lines=Building+AI+Automation+Systems+For+Real+World+Projects;Developing+Modern+MERN+Stack+Applications;Creating+Backend+AI+Workflows+and+Custom+API+Integrations;Designing+Fast%2C+Clean%2C+Business+Ready+Software"/>
 
 <br/>
 
@@ -21,23 +21,22 @@
 <h1>About Me</h1>
 
 <p>
-I am <b>Priyanshu Kumar Paswan</b>, a <b>BCA graduate</b> and software developer focused on building robust, modern software tools across <b>AI automation</b>, <b>backend systems</b>, and <b>full stack web applications</b>.
+I am <b>Priyanshu Kumar Paswan</b>, a <b>BCA graduate</b> and software developer with a proven track record of building robust, modern software tools.
 </p>
 
 <p>
-I bridge backend architecture, clean front-end design, custom API integrations, and practical AI workflows to build high-impact products for real business use cases.
+I bridge the gap between complex backend architecture, intuitive front-end design, and advanced AI automations to deliver high-impact, real-world products.
 </p>
 
 <pre>
 name: Priyanshu Kumar Paswan
 education: Bachelor of Computer Applications
-role: AI Automation Developer | MERN Developer | Backend AI Engineer
+role: Software Developer | AI Automation Developer | MERN Developer
 location: India
-focus:
-  - AI Automations and LLM Integrations
-  - MERN and Next.js Applications
-  - Backend APIs and Admin Dashboards
-  - Business Websites and SaaS Tools
+email: priyanshupaswan648@gmail.com
+phone: +91 7001556451
+github: github.com/Priyanshu1877
+linkedin: www.linkedin.com/in/priyanshu-kumar-paswan-b91b85232
 mission: Build intelligent, scalable software that solves real-world problems.
 </pre>
 
@@ -50,11 +49,11 @@ mission: Build intelligent, scalable software that solves real-world problems.
 
 <table>
 <tr><th>Area</th><th>Strength</th></tr>
-<tr><td>AI</td><td>LLMs, agents, automation workflows</td></tr>
-<tr><td>Backend</td><td>APIs, dashboards, auth systems</td></tr>
-<tr><td>Frontend</td><td>MERN, Next.js, responsive UI</td></tr>
-<tr><td>Databases</td><td>MySQL, PostgreSQL, MongoDB, Supabase</td></tr>
-<tr><td>Security</td><td>Cybersecurity simulations and Kali Linux</td></tr>
+<tr><td>AI</td><td>Automation, LLMs, custom APIs</td></tr>
+<tr><td>Backend</td><td>Node.js, Express.js, auth systems</td></tr>
+<tr><td>Frontend</td><td>MERN, HTML, CSS, responsive UI</td></tr>
+<tr><td>Databases</td><td>MySQL, PostgreSQL, Supabase</td></tr>
+<tr><td>Security</td><td>Kali Linux and cybersecurity simulations</td></tr>
 </table>
 
 </div>
@@ -65,20 +64,17 @@ mission: Build intelligent, scalable software that solves real-world problems.
 
 ---
 
-<h1>Technical Skills</h1>
+<h1>What I Mainly Use</h1>
 
 <table>
 <tr>
 <td width="50%">
 
-<h2>Programming and Core</h2>
+<h2>Intermediate Level</h2>
 
 <ul>
 <li>Python</li>
-<li>C++</li>
-<li>Java</li>
 <li>HTML and CSS</li>
-<li>WordPress</li>
 <li>Kali Linux</li>
 </ul>
 
@@ -88,8 +84,6 @@ mission: Build intelligent, scalable software that solves real-world problems.
 <h2>AI and Automation</h2>
 
 <ul>
-<li>AI automation systems</li>
-<li>Large Language Model integrations</li>
 <li>Custom API integrations</li>
 <li>Intelligent workflow design</li>
 <li>Real-world AI project implementation</li>
@@ -104,7 +98,6 @@ mission: Build intelligent, scalable software that solves real-world problems.
 
 <ul>
 <li>MERN stack development</li>
-<li>Next.js applications</li>
 <li>Node.js and Express.js APIs</li>
 <li>Authentication systems</li>
 <li>Admin dashboards</li>
@@ -118,9 +111,10 @@ mission: Build intelligent, scalable software that solves real-world problems.
 <ul>
 <li>MySQL</li>
 <li>PostgreSQL</li>
-<li>MongoDB</li>
 <li>Supabase</li>
-<li>NumPy, Pandas, Git</li>
+<li>NumPy</li>
+<li>Pandas</li>
+<li>Git</li>
 </ul>
 
 </td>
@@ -129,7 +123,69 @@ mission: Build intelligent, scalable software that solves real-world problems.
 
 ---
 
-<h1>Featured Projects</h1>
+<h1>Technical Skills From Resume</h1>
+
+<table>
+<tr>
+<td width="50%">
+
+<h2>Programming</h2>
+
+<ul>
+<li>Python</li>
+<li>C++</li>
+<li>Java</li>
+<li>WordPress</li>
+<li>Kali Linux</li>
+</ul>
+
+</td>
+<td width="50%">
+
+<h2>AI and Automation</h2>
+
+<ul>
+<li>Building AI automations for real-world projects</li>
+<li>Implementing Large Language Models</li>
+<li>Custom API integrations</li>
+</ul>
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+<h2>Web and Backend</h2>
+
+<ul>
+<li>MERN Stack</li>
+<li>Next.js</li>
+<li>WordPress</li>
+<li>HTML and CSS</li>
+</ul>
+
+</td>
+<td width="50%">
+
+<h2>Databases, Libraries and Tools</h2>
+
+<ul>
+<li>MySQL</li>
+<li>PostgreSQL</li>
+<li>MongoDB</li>
+<li>Supabase</li>
+<li>NumPy</li>
+<li>Pandas</li>
+<li>Git</li>
+</ul>
+
+</td>
+</tr>
+</table>
+
+---
+
+<h1>Projects</h1>
 
 <table>
 <tr>
@@ -137,37 +193,35 @@ mission: Build intelligent, scalable software that solves real-world problems.
 
 <h2>Fitness Chatbot</h2>
 
+<p><b>Jan 2026 - Present</b></p>
+
 <p>
-Premium AI-powered fitness chatbot built for personalized gym member support and progress tracking.
+Designed and deployed a premium fitness chatbot.
 </p>
 
-<b>Key Features</b>
-
 <ul>
-<li>Google authentication</li>
-<li>Personalized progress tracking</li>
-<li>Gym member fitness workflows</li>
-<li>Secure admin dashboard</li>
-<li>Fitness plan management</li>
+<li>Google authentication and personalized progress tracking for gym members</li>
+<li>Secure admin dashboard for gym management</li>
+<li>Fitness plan updates and user monitoring</li>
+<li>Live demo available</li>
 </ul>
 
 </td>
 <td width="33%">
 
-<h2>Zaferon Gold</h2>
+<h2>Zaferon Gold Premium Luxury</h2>
+
+<p><b>10 Jan 2026 - 25 Jan 2026</b></p>
 
 <p>
-High-performance e-commerce demo website for a premium luxury saffron brand.
+A high-performance e-commerce demo site for a premium saffron brand.
 </p>
 
-<b>Key Features</b>
-
 <ul>
-<li>Premium landing experience</li>
-<li>Luxury product presentation</li>
-<li>Responsive web design</li>
-<li>Optimized demo site flow</li>
-<li>Brand-focused UI structure</li>
+<li>Developed a demo site</li>
+<li>Premium luxury product presentation</li>
+<li>Responsive website structure</li>
+<li>Live demo available</li>
 </ul>
 
 </td>
@@ -175,18 +229,17 @@ High-performance e-commerce demo website for a premium luxury saffron brand.
 
 <h2>Safety Security Services</h2>
 
+<p><b>Dec 2025 - Jan 2026</b></p>
+
 <p>
-Responsive professional company website built to showcase security services clearly and reliably.
+Developed and launched a responsive, professional company website to showcase security services.
 </p>
 
-<b>Key Features</b>
-
 <ul>
-<li>Company service showcase</li>
-<li>Mobile-first responsive layout</li>
-<li>Fast-loading site architecture</li>
-<li>Professional business design</li>
-<li>Desktop and mobile optimization</li>
+<li>Optimized site architecture</li>
+<li>Improved loading speed</li>
+<li>Mobile and desktop responsive performance</li>
+<li>Live demo available</li>
 </ul>
 
 </td>
@@ -195,13 +248,15 @@ Responsive professional company website built to showcase security services clea
 
 ---
 
-<h1>More Work</h1>
+<h1>Group Projects</h1>
 
 <table>
 <tr>
 <td width="50%">
 
 <h2>Car and Bike Rental Website</h2>
+
+<p><b>Jan 2024 - May 2024</b></p>
 
 <p>
 Group project focused on rental platform design, booking flow, and full stack application structure.
@@ -211,6 +266,8 @@ Group project focused on rental platform design, booking flow, and full stack ap
 <td width="50%">
 
 <h2>Netflix Clone Website Design</h2>
+
+<p><b>May 2023 - Sep 2023</b></p>
 
 <p>
 Group project focused on modern streaming UI design, responsive layout, and front-end implementation.
@@ -228,13 +285,66 @@ Group project focused on modern streaming UI design, responsive layout, and fron
 <tr>
 <td width="50%">
 
-<h2>Backend AI Engineer Intern </h2>
+<h2>Backend AI Engineer Intern</h2>
 
-<p><b>FlyRank AI</b> - Remote, India</p>
-<p>Backend AI engineering role focused on AI systems, automation logic, and modern backend workflows.</p>
+<p><b>FlyRank AI</b></p>
+<p><b>India, Remote</b></p>
+<p><b>Present - 01/07/2026</b></p>
+
+<p>
+Backend AI engineering role focused on AI systems, automation logic, and modern backend workflows.
+</p>
 
 </td>
+<td width="50%">
 
+<h2>Sneho Foundation Work For Nation</h2>
+
+<p><b>NGO</b></p>
+<p><b>Siliguri, West Bengal</b></p>
+<p><b>9 Months</b></p>
+
+<p>
+Contributed to NGO activities and community-focused initiatives.
+</p>
+
+</td>
+</tr>
+</table>
+
+---
+
+<h1>Education</h1>
+
+<table>
+<tr>
+<td width="33%">
+
+<h2>Siliguri Institute of Technology</h2>
+
+<p><b>Siliguri, West Bengal</b></p>
+<p>Bachelor of Computer Applications</p>
+<p><b>Sep 2021 - June 2024</b></p>
+
+</td>
+<td width="33%">
+
+<h2>Techno India Group Public School</h2>
+
+<p><b>Siliguri, West Bengal</b></p>
+<p>12th CBSE</p>
+<p><b>July 2019 - May 2021</b></p>
+
+</td>
+<td width="33%">
+
+<h2>Angela English School</h2>
+
+<p><b>Siliguri, West Bengal</b></p>
+<p>10th WBBSE</p>
+<p><b>June 2019</b></p>
+
+</td>
 </tr>
 </table>
 
@@ -254,13 +364,8 @@ Group project focused on modern streaming UI design, responsive layout, and fron
 
 <br/><br/>
 
-<h2>DevOps, Cloud and Tools</h2>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,git,githubactions,nginx,cloudflare,vercel,bash"/>
-
-<br/><br/>
-
-<h2>Development Tools</h2>
-<img src="https://skillicons.dev/icons?i=vscode,github,postman,firebase"/>
+<h2>Tools and Platforms</h2>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,firebase,linux,bash"/>
 
 </div>
 
@@ -273,18 +378,17 @@ Group project focused on modern streaming UI design, responsive layout, and fron
 <td width="50%">
 
 <ul>
-<li>Deloitte Australia - Cyber Job Simulation</li>
-<li>Deloitte Australia - Data Analytics Job Simulation</li>
-<li>Mastercard - Cybersecurity Job Simulation</li>
+<li>Deloitte Australia - Cyber Job Simulation - 10th, 2025</li>
+<li>Academy of Skill Development - Full Stack Web Development Using MERN - Aug 16 2023 to Sep 06 2023</li>
+<li>Deloitte Australia - Data Analytics Job Simulation - 05/2026</li>
 </ul>
 
 </td>
 <td width="50%">
 
 <ul>
-<li>Tata - Cybersecurity Analyst Job Simulation</li>
-<li>Full Stack Web Development Using MERN</li>
-<li>Academy of Skill Development</li>
+<li>Mastercard - Cybersecurity Job Simulation - 05/2026</li>
+<li>Tata - Cybersecurity Analyst Job Simulation - 05/2026</li>
 </ul>
 
 </td>
@@ -333,9 +437,9 @@ Group project focused on modern streaming UI design, responsive layout, and fron
 <table>
 <tr><th>Focus Area</th><th>Current Direction</th></tr>
 <tr><td>AI Automation</td><td>Building practical AI automations for real-world projects</td></tr>
-<tr><td>LLM Integration</td><td>Implementing LLM-powered workflows and custom API systems</td></tr>
-<tr><td>MERN Development</td><td>Creating full stack web apps with clean UI and strong backend logic</td></tr>
-<tr><td>Databases</td><td>Working with MySQL, PostgreSQL, MongoDB, and Supabase</td></tr>
+<tr><td>Custom APIs</td><td>Creating integrations that connect products, data, and workflows</td></tr>
+<tr><td>MERN Development</td><td>Building full stack applications with backend logic and admin dashboards</td></tr>
+<tr><td>Databases</td><td>Working with MySQL, PostgreSQL, Supabase, and structured data tools</td></tr>
 <tr><td>Career Growth</td><td>Growing as a backend AI engineer and product-focused developer</td></tr>
 </table>
 
