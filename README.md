@@ -123,7 +123,7 @@ mission: Build intelligent, scalable software that solves real-world problems.
 
 ---
 
-<h1>Technical Skills From Resume</h1>
+<h1>Technical Skills </h1>
 
 <table>
 <tr>
