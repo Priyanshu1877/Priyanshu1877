@@ -312,44 +312,6 @@ Contributed to NGO activities and community-focused initiatives.
 </tr>
 </table>
 
----
-
-<h1>Education</h1>
-
-<table>
-<tr>
-<td width="33%">
-
-<h2>Siliguri Institute of Technology</h2>
-
-<p><b>Siliguri, West Bengal</b></p>
-<p>Bachelor of Computer Applications</p>
-<p><b>Sep 2021 - June 2024</b></p>
-
-</td>
-<td width="33%">
-
-<h2>Techno India Group Public School</h2>
-
-<p><b>Siliguri, West Bengal</b></p>
-<p>12th CBSE</p>
-<p><b>July 2019 - May 2021</b></p>
-
-</td>
-<td width="33%">
-
-<h2>Angela English School</h2>
-
-<p><b>Siliguri, West Bengal</b></p>
-<p>10th WBBSE</p>
-<p><b>June 2019</b></p>
-
-</td>
-</tr>
-</table>
-
----
-
 <h1 align="center">Tech Stack</h1>
 
 <div align="center">
