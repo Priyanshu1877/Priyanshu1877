@@ -1,14 +1,14 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&text=PRIYANSHU%20PASWAN&fontSize=48&fontAlignY=38&animation=fadeIn&color=0:020617,45:1D4ED8,100:38BDF8&fontColor=FFFFFF&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20DevOps%20Enthusiast&descSize=18&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&text=PRIYANSHU%20KUMAR%20PASWAN&fontSize=44&fontAlignY=36&animation=fadeIn&color=0:020617,45:1D4ED8,100:38BDF8&fontColor=FFFFFF&desc=AI%20Automation%20Developer%20%7C%20Full%20Stack%20MERN%20Developer%20%7C%20Backend%20AI%20Engineer&descSize=17&descAlignY=58"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+AI+Agents+That+Automate+Real+Workflows;Designing+Scalable+SaaS+and+Cloud+Products;Engineering+Modern+Full+Stack+Applications;Turning+Business+Problems+Into+Intelligent+Systems"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=25&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=950&lines=Building+AI+Automation+Systems+For+Real+World+Projects;Developing+Modern+MERN+and+Next.js+Applications;Creating+Backend+AI+Workflows+and+Custom+API+Integrations;Designing+Fast%2C+Clean%2C+Business+Ready+Software"/>
 
 <br/>
 
 <a href="https://github.com/Priyanshu1877"><img src="https://komarev.com/ghpvc/?username=Priyanshu1877&style=for-the-badge&label=PROFILE+VIEWS&color=2563EB"/></a>
 <a href="https://github.com/Priyanshu1877?tab=followers"><img src="https://img.shields.io/github/followers/Priyanshu1877?style=for-the-badge&logo=github&label=FOLLOWERS&color=0EA5E9"/></a>
-<a href="mailto:priyanshupaswan648@gmail.com"><img src="https://img.shields.io/badge/LET'S%20BUILD-0F172A?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:priyanshupaswan648@gmail.com"><img src="https://img.shields.io/badge/HIRE%20ME-0F172A?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
 
@@ -21,22 +21,24 @@
 <h1>About Me</h1>
 
 <p>
-I am <b>Priyanshu Paswan</b>, an <b>AI Engineer</b>, <b>Full Stack Developer</b>, and <b>DevOps Enthusiast</b> focused on building intelligent products that are practical, scalable, and business-ready.
+I am <b>Priyanshu Kumar Paswan</b>, a <b>BCA graduate</b> and software developer focused on building robust, modern software tools across <b>AI automation</b>, <b>backend systems</b>, and <b>full stack web applications</b>.
 </p>
 
 <p>
-I work across the complete product lifecycle: from AI agents and automation systems to web platforms, APIs, cloud deployment, infrastructure, and production-ready DevOps workflows.
+I bridge backend architecture, clean front-end design, custom API integrations, and practical AI workflows to build high-impact products for real business use cases.
 </p>
 
 <pre>
-name: Priyanshu Paswan
-role: AI Engineer | Full Stack Developer | DevOps Enthusiast
+name: Priyanshu Kumar Paswan
+education: Bachelor of Computer Applications
+role: AI Automation Developer | MERN Developer | Backend AI Engineer
+location: India
 focus:
-  - AI Agents and Automation Systems
-  - SaaS and Business Applications
-  - Cloud Infrastructure and DevOps
-  - Full Stack Web Platforms
-mission: Build intelligent software that solves real-world problems.
+  - AI Automations and LLM Integrations
+  - MERN and Next.js Applications
+  - Backend APIs and Admin Dashboards
+  - Business Websites and SaaS Tools
+mission: Build intelligent, scalable software that solves real-world problems.
 </pre>
 
 </td>
@@ -44,14 +46,15 @@ mission: Build intelligent software that solves real-world problems.
 
 <div align="center">
 
-<h2>Core Identity</h2>
+<h2>Profile Snapshot</h2>
 
 <table>
-<tr><th>Area</th><th>What I Build</th></tr>
-<tr><td>AI Engineering</td><td>Agents, automation, intelligent workflows</td></tr>
-<tr><td>Full Stack</td><td>React, Node.js, APIs, dashboards</td></tr>
-<tr><td>Cloud</td><td>AWS, Docker, Kubernetes, Linux</td></tr>
-<tr><td>Product</td><td>SaaS, analytics, enterprise platforms</td></tr>
+<tr><th>Area</th><th>Strength</th></tr>
+<tr><td>AI</td><td>LLMs, agents, automation workflows</td></tr>
+<tr><td>Backend</td><td>APIs, dashboards, auth systems</td></tr>
+<tr><td>Frontend</td><td>MERN, Next.js, responsive UI</td></tr>
+<tr><td>Databases</td><td>MySQL, PostgreSQL, MongoDB, Supabase</td></tr>
+<tr><td>Security</td><td>Cybersecurity simulations and Kali Linux</td></tr>
 </table>
 
 </div>
@@ -62,31 +65,34 @@ mission: Build intelligent software that solves real-world problems.
 
 ---
 
-<h1>Professional Focus</h1>
+<h1>Technical Skills</h1>
 
 <table>
 <tr>
 <td width="50%">
 
-<h2>AI Engineering</h2>
+<h2>Programming and Core</h2>
 
 <ul>
-<li>AI agents for business workflows</li>
-<li>Automation pipelines and intelligent tools</li>
-<li>AI-powered SaaS features</li>
-<li>Data-driven user experiences</li>
+<li>Python</li>
+<li>C++</li>
+<li>Java</li>
+<li>HTML and CSS</li>
+<li>WordPress</li>
+<li>Kali Linux</li>
 </ul>
 
 </td>
 <td width="50%">
 
-<h2>Full Stack Development</h2>
+<h2>AI and Automation</h2>
 
 <ul>
-<li>Modern React and Next.js interfaces</li>
-<li>Node.js and Express.js backends</li>
-<li>REST APIs and dashboard systems</li>
-<li>Scalable product architecture</li>
+<li>AI automation systems</li>
+<li>Large Language Model integrations</li>
+<li>Custom API integrations</li>
+<li>Intelligent workflow design</li>
+<li>Real-world AI project implementation</li>
 </ul>
 
 </td>
@@ -94,25 +100,27 @@ mission: Build intelligent software that solves real-world problems.
 <tr>
 <td width="50%">
 
-<h2>Cloud and DevOps</h2>
+<h2>Web and Backend</h2>
 
 <ul>
-<li>Dockerized application delivery</li>
-<li>Kubernetes-based deployment workflows</li>
-<li>AWS infrastructure and cloud services</li>
-<li>CI/CD, Linux, Nginx, and automation</li>
+<li>MERN stack development</li>
+<li>Next.js applications</li>
+<li>Node.js and Express.js APIs</li>
+<li>Authentication systems</li>
+<li>Admin dashboards</li>
 </ul>
 
 </td>
 <td width="50%">
 
-<h2>Product Engineering</h2>
+<h2>Databases and Tools</h2>
 
 <ul>
-<li>SaaS platforms and admin systems</li>
-<li>Analytics and reporting dashboards</li>
-<li>Enterprise-grade business applications</li>
-<li>Performance-focused web experiences</li>
+<li>MySQL</li>
+<li>PostgreSQL</li>
+<li>MongoDB</li>
+<li>Supabase</li>
+<li>NumPy, Pandas, Git</li>
 </ul>
 
 </td>
@@ -121,62 +129,117 @@ mission: Build intelligent software that solves real-world problems.
 
 ---
 
-<h1>Featured Work</h1>
+<h1>Featured Projects</h1>
 
 <table>
 <tr>
 <td width="33%">
 
-<h2>Sweat AI</h2>
+<h2>Fitness Chatbot</h2>
 
-<p>AI-powered fitness ecosystem designed for personalized health and workout intelligence.</p>
+<p>
+Premium AI-powered fitness chatbot built for personalized gym member support and progress tracking.
+</p>
 
-<b>Highlights</b>
+<b>Key Features</b>
 
 <ul>
-<li>Smart workout generation</li>
-<li>Personalized nutrition plans</li>
-<li>AI fitness coach</li>
-<li>Progress tracking</li>
-<li>Water monitoring</li>
-<li>User analytics dashboard</li>
+<li>Google authentication</li>
+<li>Personalized progress tracking</li>
+<li>Gym member fitness workflows</li>
+<li>Secure admin dashboard</li>
+<li>Fitness plan management</li>
 </ul>
 
 </td>
 <td width="33%">
 
-<h2>PrasAI Cloud</h2>
+<h2>Zaferon Gold</h2>
 
-<p>AI and software solutions platform focused on business automation and digital products.</p>
+<p>
+High-performance e-commerce demo website for a premium luxury saffron brand.
+</p>
 
-<b>Highlights</b>
+<b>Key Features</b>
 
 <ul>
-<li>AI automation services</li>
-<li>Custom software development</li>
-<li>Web and mobile applications</li>
-<li>Cloud solutions</li>
-<li>Business workflow automation</li>
-<li>Product consulting</li>
+<li>Premium landing experience</li>
+<li>Luxury product presentation</li>
+<li>Responsive web design</li>
+<li>Optimized demo site flow</li>
+<li>Brand-focused UI structure</li>
 </ul>
 
 </td>
 <td width="33%">
 
-<h2>Eddelact</h2>
+<h2>Safety Security Services</h2>
 
-<p>Modern business intelligence platform built for analytics, performance, and clean UI.</p>
+<p>
+Responsive professional company website built to showcase security services clearly and reliably.
+</p>
 
-<b>Highlights</b>
+<b>Key Features</b>
 
 <ul>
-<li>React.js frontend</li>
-<li>Node.js backend</li>
-<li>Express.js APIs</li>
-<li>Analytics dashboard</li>
-<li>Modern UI/UX</li>
-<li>Performance optimization</li>
+<li>Company service showcase</li>
+<li>Mobile-first responsive layout</li>
+<li>Fast-loading site architecture</li>
+<li>Professional business design</li>
+<li>Desktop and mobile optimization</li>
 </ul>
+
+</td>
+</tr>
+</table>
+
+---
+
+<h1>More Work</h1>
+
+<table>
+<tr>
+<td width="50%">
+
+<h2>Car and Bike Rental Website</h2>
+
+<p>
+Group project focused on rental platform design, booking flow, and full stack application structure.
+</p>
+
+</td>
+<td width="50%">
+
+<h2>Netflix Clone Website Design</h2>
+
+<p>
+Group project focused on modern streaming UI design, responsive layout, and front-end implementation.
+</p>
+
+</td>
+</tr>
+</table>
+
+---
+
+<h1>Experience</h1>
+
+<table>
+<tr>
+<td width="50%">
+
+<h2>Incoming Backend AI Engineer Intern</h2>
+
+<p><b>FlyRank AI</b> - Remote, India</p>
+<p>Backend AI engineering role focused on AI systems, automation logic, and modern backend workflows.</p>
+
+</td>
+<td width="50%">
+
+<h2>NGO Work</h2>
+
+<p><b>Sneho Foundation Work For Nation</b> - Siliguri, West Bengal</p>
+<p>Worked for 9 months contributing to NGO activities and community-focused initiatives.</p>
 
 </td>
 </tr>
@@ -188,25 +251,52 @@ mission: Build intelligent software that solves real-world problems.
 
 <div align="center">
 
-<h2>Frontend</h2>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,js,ts"/>
+<h2>Languages and Frontend</h2>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,html,css,js,react,nextjs,tailwind"/>
 
 <br/><br/>
 
 <h2>Backend and Databases</h2>
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,mongodb,mysql"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,supabase"/>
 
 <br/><br/>
 
-<h2>Cloud, DevOps and Infrastructure</h2>
+<h2>DevOps, Cloud and Tools</h2>
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,git,githubactions,nginx,cloudflare,vercel,bash"/>
 
 <br/><br/>
 
-<h2>Tools and Platforms</h2>
+<h2>Development Tools</h2>
 <img src="https://skillicons.dev/icons?i=vscode,github,postman,firebase"/>
 
 </div>
+
+---
+
+<h1>Certifications</h1>
+
+<table>
+<tr>
+<td width="50%">
+
+<ul>
+<li>Deloitte Australia - Cyber Job Simulation</li>
+<li>Deloitte Australia - Data Analytics Job Simulation</li>
+<li>Mastercard - Cybersecurity Job Simulation</li>
+</ul>
+
+</td>
+<td width="50%">
+
+<ul>
+<li>Tata - Cybersecurity Analyst Job Simulation</li>
+<li>Full Stack Web Development Using MERN</li>
+<li>Academy of Skill Development</li>
+</ul>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -249,11 +339,11 @@ mission: Build intelligent software that solves real-world problems.
 
 <table>
 <tr><th>Focus Area</th><th>Current Direction</th></tr>
-<tr><td>AI Engineering</td><td>Building AI agents, automation systems, and intelligent workflows</td></tr>
-<tr><td>Full Stack Development</td><td>Creating scalable SaaS platforms and business applications</td></tr>
-<tr><td>Cloud Infrastructure</td><td>Deploying reliable products with AWS, Docker, and Kubernetes</td></tr>
-<tr><td>DevOps</td><td>Improving CI/CD, Linux operations, and production workflows</td></tr>
-<tr><td>Product Engineering</td><td>Designing software that is clean, fast, and useful</td></tr>
+<tr><td>AI Automation</td><td>Building practical AI automations for real-world projects</td></tr>
+<tr><td>LLM Integration</td><td>Implementing LLM-powered workflows and custom API systems</td></tr>
+<tr><td>MERN Development</td><td>Creating full stack web apps with clean UI and strong backend logic</td></tr>
+<tr><td>Databases</td><td>Working with MySQL, PostgreSQL, MongoDB, and Supabase</td></tr>
+<tr><td>Career Growth</td><td>Growing as a backend AI engineer and product-focused developer</td></tr>
 </table>
 
 ---
@@ -268,7 +358,7 @@ mission: Build intelligent software that solves real-world problems.
 
 <br/><br/>
 
-<h2>Building scalable software, AI solutions, and modern digital products.</h2>
+<h2>Building AI automation, backend systems, and modern web products.</h2>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:38BDF8,45:2563EB,100:020617"/>
 
