@@ -31,7 +31,7 @@ I bridge the gap between complex backend architecture, intuitive front-end desig
 <pre>
 name: Priyanshu Kumar Paswan
 education: Bachelor of Computer Applications
-role: Software Developer | AI Automation Developer | MERN Developer
+role: Software Developer | AI Automation Developer
 location: India
 email: priyanshupaswan648@gmail.com
 phone: +91 7001556451
@@ -51,7 +51,7 @@ mission: Build intelligent, scalable software that solves real-world problems.
 <tr><th>Area</th><th>Strength</th></tr>
 <tr><td>AI</td><td>Automation, LLMs, custom APIs</td></tr>
 <tr><td>Backend</td><td>Node.js, Express.js, auth systems</td></tr>
-<tr><td>Frontend</td><td>MERN, HTML, CSS, responsive UI</td></tr>
+<tr><td>Frontend</td><td>HTML, CSS, responsive UI</td></tr>
 <tr><td>Databases</td><td>MySQL, PostgreSQL, Supabase</td></tr>
 <tr><td>Security</td><td>Kali Linux and cybersecurity simulations</td></tr>
 </table>
@@ -97,7 +97,6 @@ mission: Build intelligent, scalable software that solves real-world problems.
 <h2>Web and Backend</h2>
 
 <ul>
-<li>MERN stack development</li>
 <li>Node.js and Express.js APIs</li>
 <li>Authentication systems</li>
 <li>Admin dashboards</li>
@@ -158,7 +157,6 @@ mission: Build intelligent, scalable software that solves real-world problems.
 <h2>Web and Backend</h2>
 
 <ul>
-<li>MERN Stack</li>
 <li>Next.js</li>
 <li>WordPress</li>
 <li>HTML and CSS</li>
