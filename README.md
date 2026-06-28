@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&text=PRIYANSHU%20KUMAR%20PASWAN&fontSize=44&fontAlignY=36&animation=fadeIn&color=0:020617,45:1D4ED8,100:38BDF8&fontColor=FFFFFF&desc=Full%20Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20DevOps%20Enthusiast&descSize=17&descAlignY=58"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=25&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=950&lines=Building+AI+Systems+%26+Modern+Web+Applications;Creating+Scalable+Automation+Workflows;Full+Stack+MERN+%7C+Next.js+%7C+AI+Integration;DevOps+%26+Cloud+Infrastructure+Expert"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=25&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=950&lines=Building+AI+Systems+%26+Modern+Web+Applications;Freelancing+%7C+Client-Based+Projects;Full+Stack+MERN+%7C+Next.js+%7C+AI+Integration;Custom+Solutions+for+Real-World+Problems"/>
 
 <br/>
 
@@ -25,7 +25,7 @@ I am <b>Priyanshu Kumar Paswan</b>, a <b>BCA graduate</b> and passionate softwar
 </p>
 
 <p>
-I specialize in bridging complex backend architecture, intuitive user interfaces, and advanced AI integrations to deliver high-impact, production-ready products. Currently working at <b>Prasai Cloud</b> as a Full Stack Developer and AI Engineer.
+I specialize in bridging complex backend architecture, intuitive user interfaces, and advanced AI integrations to deliver high-impact, production-ready products. I work with clients on a <b>freelance basis</b>, delivering custom solutions tailored to their business needs.
 </p>
 
 <pre>
@@ -38,7 +38,7 @@ phone: +91 7001556451
 github: github.com/Priyanshu1877
 linkedin: linkedin.com/in/priyanshu-kumar-paswan-b91b85232
 portfolio: priyanshudev.online
-company: Prasai Cloud
+work_type: Freelance Web Developer | Client-Based Projects
 mission: Build intelligent, scalable software that solves real-world problems.
 </pre>
 
@@ -121,7 +121,56 @@ mission: Build intelligent, scalable software that solves real-world problems.
 
 ---
 
-<h1>🚀 Featured Projects</h1>
+<h1>💼 Freelance Client Projects</h1>
+
+<table>
+<tr>
+<td width="50%">
+
+<h2>Eddelact - Data-Driven Digital Solutions</h2>
+
+<p><b>Client Project</b></p>
+
+<p>
+Professional website for a data-driven marketing and digital services agency specializing in SEO, digital marketing, and web development.
+</p>
+
+<ul>
+<li>🎯 Modern, professional design</li>
+<li>📊 Services showcase</li>
+<li>🔍 SEO optimized</li>
+<li>📱 Fully responsive</li>
+<li>⚡ Fast loading performance</li>
+<li>🌐 Live: <a href="https://www.eddelact.com/">eddelact.com</a></li>
+</ul>
+
+</td>
+<td width="50%">
+
+<h2>SafetySecurity - Professional Security Services</h2>
+
+<p><b>Client Project</b></p>
+
+<p>
+Professional security services platform providing on-site guards, event security, and 24/7 protection solutions for businesses.
+</p>
+
+<ul>
+<li>🔐 Trust-building design</li>
+<li>📞 Easy contact & booking</li>
+<li>🖼️ Service galleries</li>
+<li>📱 Mobile responsive</li>
+<li>⚡ Optimized performance</li>
+<li>🌐 Live: <a href="https://safetysecurityservices.in/">safetysecurityservices.in</a></li>
+</ul>
+
+</td>
+</tr>
+</table>
+
+---
+
+<h1>🚀 Featured Personal Projects</h1>
 
 <table>
 <tr>
@@ -167,21 +216,21 @@ Premium e-commerce platform for luxury saffron brand with high-performance archi
 </td>
 <td width="33%">
 
-<h2>Safety Security Services</h2>
+<h2>Custom Web Solutions</h2>
 
-<p><b>Dec 2025 - Jan 2026</b></p>
+<p><b>Ongoing</b></p>
 
 <p>
-Professional company website showcasing comprehensive security services.
+Building tailored web solutions for various industries and business needs.
 </p>
 
 <ul>
-<li>🚀 Optimized site architecture</li>
-<li>⚡ Lightning-fast load times</li>
-<li>📱 Responsive across all devices</li>
-<li>🎯 SEO optimized</li>
-<li>💼 Professional branding</li>
-<li>🎯 Live demo available</li>
+<li>🎯 Custom solutions</li>
+<li>⚡ High-performance sites</li>
+<li>📱 Responsive design</li>
+<li>🔍 SEO optimization</li>
+<li>💼 Business focused</li>
+<li>🤝 Client-centric approach</li>
 </ul>
 
 </td>
@@ -241,22 +290,23 @@ Responsive streaming platform UI with modern design patterns.
 <tr>
 <td width="50%">
 
-<h2>Full Stack Developer & AI Engineer</h2>
+<h2>Freelance Full Stack Developer</h2>
 
-<p><b>Prasai Cloud</b></p>
+<p><b>Self-Employed</b></p>
 <p><b>India, Remote</b></p>
 <p><b>Current Role</b></p>
 
 <p>
-Building scalable web applications, AI integration systems, and automation workflows for enterprise clients.
+Building scalable web applications, AI integration systems, and custom solutions for businesses and entrepreneurs.
 </p>
 
 <ul>
+<li>🌐 Full-stack web development</li>
 <li>🤖 AI/LLM integration</li>
 <li>⚙️ Automation systems</li>
-<li>🏗️ Full-stack development</li>
-<li>☁️ Cloud infrastructure</li>
-<li>📊 Custom API design</li>
+<li>🏗️ Custom solutions</li>
+<li>📊 API design & integration</li>
+<li>🎯 Client-focused delivery</li>
 </ul>
 
 </td>
@@ -269,7 +319,7 @@ Building scalable web applications, AI integration systems, and automation workf
 <p><b>Jan 2026 - Present</b></p>
 
 <p>
-Developing backend AI systems and intelligent automation workflows.
+Developing backend AI systems and intelligent automation workflows for production environments.
 </p>
 
 <ul>
@@ -278,6 +328,7 @@ Developing backend AI systems and intelligent automation workflows.
 <li>🔧 Backend workflows</li>
 <li>🔌 API integration</li>
 <li>📈 System optimization</li>
+<li>⚡ Performance tuning</li>
 </ul>
 
 </td>
@@ -481,11 +532,11 @@ Developing backend AI systems and intelligent automation workflows.
 
 <table>
 <tr><th>Focus Area</th><th>Current Direction</th><th>Goal</th></tr>
+<tr><td><b>Client Projects</b></td><td>Delivering high-quality solutions for diverse clients</td><td>Build strong portfolio & reputation</td></tr>
 <tr><td><b>AI Integration</b></td><td>Building practical AI systems for real-world problems</td><td>Expert in LLM workflows</td></tr>
-<tr><td><b>Full Stack Development</b></td><td>Creating complete MERN & Next.js applications</td><td>Senior developer role</td></tr>
-<tr><td><b>DevOps & Cloud</b></td><td>Mastering Docker, Kubernetes, and AWS</td><td>DevOps specialist</td></tr>
+<tr><td><b>Full Stack Development</b></td><td>Creating complete MERN & Next.js applications</td><td>Specialized full-stack expert</td></tr>
+<tr><td><b>DevOps & Cloud</b></td><td>Mastering Docker, Kubernetes, and AWS</td><td>DevOps expert</td></tr>
 <tr><td><b>Automation</b></td><td>Designing intelligent workflow systems</td><td>Solutions architect</td></tr>
-<tr><td><b>Open Source</b></td><td>Contributing to meaningful projects</td><td>Maintainer contributor</td></tr>
 </table>
 
 ---
@@ -501,9 +552,9 @@ Developing backend AI systems and intelligent automation workflows.
 
 <br/><br/>
 
-<h2>Building AI automation, scalable systems, and modern web products.</h2>
+<h2>Freelance Full Stack Developer | Building Custom Solutions for Clients</h2>
 
-<h3>Let's collaborate on projects that make an impact! 🚀</h3>
+<h3>Available for projects! Let's build something amazing together 🚀</h3>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:38BDF8,45:2563EB,100:020617"/>
 
