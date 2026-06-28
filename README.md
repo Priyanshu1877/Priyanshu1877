@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&text=PRIYANSHU%20KUMAR%20PASWAN&fontSize=44&fontAlignY=36&animation=fadeIn&color=0:020617,45:1D4ED8,100:38BDF8&fontColor=FFFFFF&desc=AI%20Automation%20Developer%20%7C%20Full%20Stack%20MERN%20Developer%20%7C%20Backend%20AI%20Engineer&descSize=17&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&text=PRIYANSHU%20KUMAR%20PASWAN&fontSize=44&fontAlignY=36&animation=fadeIn&color=0:020617,45:1D4ED8,100:38BDF8&fontColor=FFFFFF&desc=Full%20Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20DevOps%20Enthusiast&descSize=17&descAlignY=58"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=25&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=950&lines=Building+AI+Automation+Systems+For+Real+World+Projects;Developing+Modern+MERN+Stack+Applications;Creating+Backend+AI+Workflows+and+Custom+API+Integrations;Designing+Fast%2C+Clean%2C+Business+Ready+Software"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=25&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=950&lines=Building+AI+Systems+%26+Modern+Web+Applications;Creating+Scalable+Automation+Workflows;Full+Stack+MERN+%7C+Next.js+%7C+AI+Integration;DevOps+%26+Cloud+Infrastructure+Expert"/>
 
 <br/>
 
@@ -21,22 +21,24 @@
 <h1>About Me</h1>
 
 <p>
-I am <b>Priyanshu Kumar Paswan</b>, a <b>BCA graduate</b> and software developer with a proven track record of building robust, modern software tools.
+I am <b>Priyanshu Kumar Paswan</b>, a <b>BCA graduate</b> and passionate software engineer building intelligent systems, modern web applications, and scalable automation workflows.
 </p>
 
 <p>
-I bridge the gap between complex backend architecture, intuitive front-end design, and advanced AI automations to deliver high-impact, real-world products.
+I specialize in bridging complex backend architecture, intuitive user interfaces, and advanced AI integrations to deliver high-impact, production-ready products. Currently working at <b>Prasai Cloud</b> as a Full Stack Developer and AI Engineer.
 </p>
 
 <pre>
 name: Priyanshu Kumar Paswan
-education: Bachelor of Computer Applications
-role: Software Developer | AI Automation Developer
-location: India
+education: Bachelor of Computer Applications (BCA)
+role: Full Stack Developer | AI Engineer | DevOps Enthusiast
+location: Siliguri, West Bengal, India
 email: priyanshupaswan648@gmail.com
 phone: +91 7001556451
 github: github.com/Priyanshu1877
-linkedin: www.linkedin.com/in/priyanshu-kumar-paswan-b91b85232
+linkedin: linkedin.com/in/priyanshu-kumar-paswan-b91b85232
+portfolio: priyanshudev.online
+company: Prasai Cloud
 mission: Build intelligent, scalable software that solves real-world problems.
 </pre>
 
@@ -48,12 +50,12 @@ mission: Build intelligent, scalable software that solves real-world problems.
 <h2>Profile Snapshot</h2>
 
 <table>
-<tr><th>Area</th><th>Strength</th></tr>
-<tr><td>AI</td><td>Automation, LLMs, custom APIs</td></tr>
-<tr><td>Backend</td><td>Node.js, Express.js, auth systems</td></tr>
-<tr><td>Frontend</td><td>HTML, CSS, responsive UI</td></tr>
-<tr><td>Databases</td><td>MySQL, PostgreSQL, Supabase</td></tr>
-<tr><td>Security</td><td>Kali Linux and cybersecurity simulations</td></tr>
+<tr><th>Category</th><th>Expertise</th></tr>
+<tr><td><b>Frontend</b></td><td>React, Next.js, Tailwind CSS</td></tr>
+<tr><td><b>Backend</b></td><td>Node.js, Express.js, APIs</td></tr>
+<tr><td><b>Databases</b></td><td>MySQL, MongoDB, PostgreSQL</td></tr>
+<tr><td><b>AI/Automation</b></td><td>LLM Integration, Custom APIs</td></tr>
+<tr><td><b>DevOps/Cloud</b></td><td>Docker, Kubernetes, AWS, Linux</td></tr>
 </table>
 
 </div>
@@ -64,56 +66,32 @@ mission: Build intelligent, scalable software that solves real-world problems.
 
 ---
 
-<h1>What I Mainly Use</h1>
+<h1>🎯 What I'm Currently Focused On</h1>
 
 <table>
 <tr>
 <td width="50%">
 
-<h2>Intermediate Level</h2>
+<h2>🟢 Currently Building</h2>
 
 <ul>
-<li>Python</li>
-<li>HTML and CSS</li>
-<li>Kali Linux</li>
+<li>🤖 AI Fitness Chatbot with personalized tracking</li>
+<li>⚙️ Automation Platforms & Workflow Systems</li>
+<li>📱 Client Projects for businesses</li>
+<li>☁️ Cloud-native solutions & infrastructure</li>
 </ul>
 
 </td>
 <td width="50%">
 
-<h2>AI and Automation</h2>
+<h2>🟡 Currently Learning</h2>
 
 <ul>
-<li>Custom API integrations</li>
-<li>Intelligent workflow design</li>
-<li>Real-world AI project implementation</li>
-</ul>
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-<h2>Web and Backend</h2>
-
-<ul>
-<li>Node.js and Express.js APIs</li>
-<li>Authentication systems</li>
-<li>Admin dashboards</li>
-</ul>
-
-</td>
-<td width="50%">
-
-<h2>Databases and Tools</h2>
-
-<ul>
-<li>MySQL</li>
-<li>PostgreSQL</li>
-<li>Supabase</li>
-<li>NumPy</li>
-<li>Pandas</li>
-<li>Git</li>
+<li>☸️ Kubernetes & container orchestration</li>
+<li>🐳 Advanced Docker strategies</li>
+<li>🔄 CI/CD pipeline optimization</li>
+<li>☁️ AWS infrastructure & scaling</li>
+<li>🐧 Linux automation & scripting</li>
 </ul>
 
 </td>
@@ -122,104 +100,68 @@ mission: Build intelligent, scalable software that solves real-world problems.
 
 ---
 
-<h1>Technical Skills </h1>
+<h1>💼 Technical Stack</h1>
 
-<table>
-<tr>
-<td width="50%">
+<div align="center">
 
-<h2>Programming</h2>
+<h2>Frontend & Languages</h2>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,js,ts"/>
 
-<ul>
-<li>Python</li>
-<li>C++</li>
-<li>Java</li>
-<li>WordPress</li>
-<li>Kali Linux</li>
-</ul>
+<br/><br/>
 
-</td>
-<td width="50%">
+<h2>Backend & Databases</h2>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,python,java,cpp"/>
 
-<h2>AI and Automation</h2>
+<br/><br/>
 
-<ul>
-<li>Building AI automations for real-world projects</li>
-<li>Implementing Large Language Models</li>
-<li>Custom API integrations</li>
-</ul>
+<h2>DevOps, Cloud & Tools</h2>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,bash,git,github,nginx,firebase,vercel"/>
 
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-<h2>Web and Backend</h2>
-
-<ul>
-<li>Next.js</li>
-<li>WordPress</li>
-<li>HTML and CSS</li>
-</ul>
-
-</td>
-<td width="50%">
-
-<h2>Databases, Libraries and Tools</h2>
-
-<ul>
-<li>MySQL</li>
-<li>PostgreSQL</li>
-<li>MongoDB</li>
-<li>Supabase</li>
-<li>NumPy</li>
-<li>Pandas</li>
-<li>Git</li>
-</ul>
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-<h1>Projects</h1>
+<h1>🚀 Featured Projects</h1>
 
 <table>
 <tr>
 <td width="33%">
 
-<h2>Fitness Chatbot</h2>
+<h2>AI Fitness Chatbot</h2>
 
 <p><b>Jan 2026 - Present</b></p>
 
 <p>
-Designed and deployed a premium fitness chatbot.
+Intelligent fitness platform with AI-powered workout generation and tracking.
 </p>
 
 <ul>
-<li>Google authentication and personalized progress tracking for gym members</li>
-<li>Secure admin dashboard for gym management</li>
-<li>Fitness plan updates and user monitoring</li>
-<li>Live demo available</li>
+<li>🔐 Google OAuth authentication</li>
+<li>📊 Real-time progress tracking</li>
+<li>🏋️ AI workout plan generation</li>
+<li>📈 Admin dashboard for management</li>
+<li>💾 Secure data persistence</li>
+<li>🎯 Live demo available</li>
 </ul>
 
 </td>
 <td width="33%">
 
-<h2>Zaferon Gold Premium Luxury</h2>
+<h2>Saffron (Zaferon Gold)</h2>
 
-<p><b>10 Jan 2026 - 25 Jan 2026</b></p>
+<p><b>Jan 2026 - Feb 2026</b></p>
 
 <p>
-A high-performance e-commerce demo site for a premium saffron brand.
+Premium e-commerce platform for luxury saffron brand with high-performance architecture.
 </p>
 
 <ul>
-<li>Developed a demo site</li>
-<li>Premium luxury product presentation</li>
-<li>Responsive website structure</li>
-<li>Live demo available</li>
+<li>✨ Premium product presentation</li>
+<li>⚡ Fast-loading responsive design</li>
+<li>🛒 E-commerce functionality</li>
+<li>📱 Mobile-first responsive UI</li>
+<li>🎨 Modern luxury aesthetics</li>
+<li>🎯 Live demo available</li>
 </ul>
 
 </td>
@@ -230,14 +172,16 @@ A high-performance e-commerce demo site for a premium saffron brand.
 <p><b>Dec 2025 - Jan 2026</b></p>
 
 <p>
-Developed and launched a responsive, professional company website to showcase security services.
+Professional company website showcasing comprehensive security services.
 </p>
 
 <ul>
-<li>Optimized site architecture</li>
-<li>Improved loading speed</li>
-<li>Mobile and desktop responsive performance</li>
-<li>Live demo available</li>
+<li>🚀 Optimized site architecture</li>
+<li>⚡ Lightning-fast load times</li>
+<li>📱 Responsive across all devices</li>
+<li>🎯 SEO optimized</li>
+<li>💼 Professional branding</li>
+<li>🎯 Live demo available</li>
 </ul>
 
 </td>
@@ -246,30 +190,44 @@ Developed and launched a responsive, professional company website to showcase se
 
 ---
 
-<h1>Group Projects</h1>
+<h1>📚 Academic & Group Projects</h1>
 
 <table>
 <tr>
 <td width="50%">
 
-<h2>Car and Bike Rental Website</h2>
+<h2>Car & Bike Rental Platform</h2>
 
 <p><b>Jan 2024 - May 2024</b></p>
 
 <p>
-Group project focused on rental platform design, booking flow, and full stack application structure.
+Full-stack rental management system with booking, payment, and user management.
 </p>
+
+<ul>
+<li>🚗 Complete rental workflow</li>
+<li>💳 Payment integration</li>
+<li>👥 User dashboard</li>
+<li>📅 Booking management</li>
+</ul>
 
 </td>
 <td width="50%">
 
-<h2>Netflix Clone Website Design</h2>
+<h2>Netflix Clone UI</h2>
 
 <p><b>May 2023 - Sep 2023</b></p>
 
 <p>
-Group project focused on modern streaming UI design, responsive layout, and front-end implementation.
+Responsive streaming platform UI with modern design patterns.
 </p>
+
+<ul>
+<li>🎬 Dynamic content display</li>
+<li>📱 Fully responsive layout</li>
+<li>🎨 Modern streaming UI/UX</li>
+<li>⚡ Smooth animations</li>
+</ul>
 
 </td>
 </tr>
@@ -277,78 +235,82 @@ Group project focused on modern streaming UI design, responsive layout, and fron
 
 ---
 
-<h1>Experience</h1>
+<h1>💼 Professional Experience</h1>
 
 <table>
 <tr>
 <td width="50%">
 
-<h2>Backend AI Engineer Intern</h2>
+<h2>Full Stack Developer & AI Engineer</h2>
+
+<p><b>Prasai Cloud</b></p>
+<p><b>India, Remote</b></p>
+<p><b>Current Role</b></p>
+
+<p>
+Building scalable web applications, AI integration systems, and automation workflows for enterprise clients.
+</p>
+
+<ul>
+<li>🤖 AI/LLM integration</li>
+<li>⚙️ Automation systems</li>
+<li>🏗️ Full-stack development</li>
+<li>☁️ Cloud infrastructure</li>
+<li>📊 Custom API design</li>
+</ul>
+
+</td>
+<td width="50%">
+
+<h2>Backend AI Engineer (Intern)</h2>
 
 <p><b>FlyRank AI</b></p>
 <p><b>India, Remote</b></p>
-<p><b>Present - 01/07/2026</b></p>
+<p><b>Jan 2026 - Present</b></p>
 
 <p>
-Backend AI engineering role focused on AI systems, automation logic, and modern backend workflows.
+Developing backend AI systems and intelligent automation workflows.
 </p>
 
-</td>
-<td width="50%">
-
-<h2>Sneho Foundation Work For Nation</h2>
-
-<p><b>NGO</b></p>
-<p><b>Siliguri, West Bengal</b></p>
-<p><b>9 Months</b></p>
-
-<p>
-Contributed to NGO activities and community-focused initiatives.
-</p>
+<ul>
+<li>🤖 AI system design</li>
+<li>⚙️ Automation logic</li>
+<li>🔧 Backend workflows</li>
+<li>🔌 API integration</li>
+<li>📈 System optimization</li>
+</ul>
 
 </td>
 </tr>
 </table>
 
-<h1 align="center">Tech Stack</h1>
-
-<div align="center">
-
-<h2>Languages and Frontend</h2>
-<img src="https://skillicons.dev/icons?i=python,cpp,java,html,css,js,react,nextjs,tailwind"/>
-
-<br/><br/>
-
-<h2>Backend and Databases</h2>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,supabase"/>
-
-<br/><br/>
-
-<h2>Tools and Platforms</h2>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,firebase,linux,bash"/>
-
-</div>
-
 ---
 
-<h1>Certifications</h1>
+<h1>🏆 Certifications & Training</h1>
 
 <table>
 <tr>
 <td width="50%">
 
+<h2>Cybersecurity & Analytics</h2>
+
 <ul>
-<li>Deloitte Australia - Cyber Job Simulation - 10th, 2025</li>
-<li>Academy of Skill Development - Full Stack Web Development Using MERN - Aug 16 2023 to Sep 06 2023</li>
-<li>Deloitte Australia - Data Analytics Job Simulation - 05/2026</li>
+<li>🔒 Deloitte Australia - Cyber Job Simulation (2025)</li>
+<li>📊 Deloitte Australia - Data Analytics Simulation (05/2026)</li>
+<li>🔐 Mastercard - Cybersecurity Job Simulation (05/2026)</li>
+<li>🛡️ Tata - Cybersecurity Analyst Simulation (05/2026)</li>
 </ul>
 
 </td>
 <td width="50%">
 
+<h2>Full Stack Development</h2>
+
 <ul>
-<li>Mastercard - Cybersecurity Job Simulation - 05/2026</li>
-<li>Tata - Cybersecurity Analyst Job Simulation - 05/2026</li>
+<li>🎓 Academy of Skill Development - MERN Stack (Aug-Sep 2023)</li>
+<li>📚 Continuous Learning & Skill Development</li>
+<li>🚀 Latest Tech Stack Mastery</li>
+<li>☸️ DevOps & Cloud Certifications (In Progress)</li>
 </ul>
 
 </td>
@@ -357,7 +319,7 @@ Contributed to NGO activities and community-focused initiatives.
 
 ---
 
-<h1 align="center">GitHub Analytics</h1>
+<h1 align="center">📊 GitHub Analytics</h1>
 
 <div align="center">
 
@@ -376,7 +338,7 @@ Contributed to NGO activities and community-focused initiatives.
 
 ---
 
-<h1 align="center">Profile Summary</h1>
+<h1 align="center">📈 Contribution & Profile Summary</h1>
 
 <div align="center">
 
@@ -392,30 +354,156 @@ Contributed to NGO activities and community-focused initiatives.
 
 ---
 
-<h1>Current Focus</h1>
+<h1>🔧 Skills Breakdown</h1>
 
 <table>
-<tr><th>Focus Area</th><th>Current Direction</th></tr>
-<tr><td>AI Automation</td><td>Building practical AI automations for real-world projects</td></tr>
-<tr><td>Custom APIs</td><td>Creating integrations that connect products, data, and workflows</td></tr>
-<tr><td>MERN Development</td><td>Building full stack applications with backend logic and admin dashboards</td></tr>
-<tr><td>Databases</td><td>Working with MySQL, PostgreSQL, Supabase, and structured data tools</td></tr>
-<tr><td>Career Growth</td><td>Growing as a backend AI engineer and product-focused developer</td></tr>
+<tr>
+<td width="25%">
+
+<h3>Frontend</h3>
+
+<ul>
+<li>React.js</li>
+<li>Next.js</li>
+<li>HTML5 & CSS3</li>
+<li>Tailwind CSS</li>
+<li>JavaScript/TypeScript</li>
+<li>Responsive Design</li>
+</ul>
+
+</td>
+<td width="25%">
+
+<h3>Backend</h3>
+
+<ul>
+<li>Node.js</li>
+<li>Express.js</li>
+<li>RESTful APIs</li>
+<li>Authentication</li>
+<li>Middleware Design</li>
+<li>API Security</li>
+</ul>
+
+</td>
+<td width="25%">
+
+<h3>Databases</h3>
+
+<ul>
+<li>MongoDB</li>
+<li>MySQL</li>
+<li>PostgreSQL</li>
+<li>Supabase</li>
+<li>Data Modeling</li>
+<li>Query Optimization</li>
+</ul>
+
+</td>
+<td width="25%">
+
+<h3>DevOps & Cloud</h3>
+
+<ul>
+<li>Docker</li>
+<li>Kubernetes</li>
+<li>AWS Services</li>
+<li>Linux/Bash</li>
+<li>CI/CD Pipelines</li>
+<li>Infrastructure as Code</li>
+</ul>
+
+</td>
+</tr>
+<tr>
+<td width="25%">
+
+<h3>AI & Automation</h3>
+
+<ul>
+<li>LLM Integration</li>
+<li>Custom APIs</li>
+<li>Workflow Automation</li>
+<li>ChatBot Development</li>
+<li>Python Scripting</li>
+<li>Data Processing</li>
+</ul>
+
+</td>
+<td width="25%">
+
+<h3>Other Tools</h3>
+
+<ul>
+<li>Git & GitHub</li>
+<li>Postman</li>
+<li>VS Code</li>
+<li>Firebase</li>
+<li>Vercel</li>
+<li>Cloudflare</li>
+</ul>
+
+</td>
+<td width="25%">
+
+<h3>Languages</h3>
+
+<ul>
+<li>JavaScript</li>
+<li>TypeScript</li>
+<li>Python</li>
+<li>Java</li>
+<li>C++</li>
+<li>Bash</li>
+</ul>
+
+</td>
+<td width="25%">
+
+<h3>Specializations</h3>
+
+<ul>
+<li>MERN Stack</li>
+<li>Full Stack Apps</li>
+<li>WordPress</li>
+<li>Kali Linux</li>
+<li>Cybersecurity</li>
+<li>Cloud Deployment</li>
+</ul>
+
+</td>
+</tr>
 </table>
 
 ---
 
-<h1 align="center">Connect With Me</h1>
+<h1>🎯 Career Focus Areas</h1>
+
+<table>
+<tr><th>Focus Area</th><th>Current Direction</th><th>Goal</th></tr>
+<tr><td><b>AI Integration</b></td><td>Building practical AI systems for real-world problems</td><td>Expert in LLM workflows</td></tr>
+<tr><td><b>Full Stack Development</b></td><td>Creating complete MERN & Next.js applications</td><td>Senior developer role</td></tr>
+<tr><td><b>DevOps & Cloud</b></td><td>Mastering Docker, Kubernetes, and AWS</td><td>DevOps specialist</td></tr>
+<tr><td><b>Automation</b></td><td>Designing intelligent workflow systems</td><td>Solutions architect</td></tr>
+<tr><td><b>Open Source</b></td><td>Contributing to meaningful projects</td><td>Maintainer contributor</td></tr>
+</table>
+
+---
+
+<h1 align="center">🌐 Connect With Me</h1>
 
 <div align="center">
 
 <a href="https://github.com/Priyanshu1877"><img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/priyanshu-kumar-paswan-b91b85232"><img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:priyanshupaswan648@gmail.com"><img src="https://img.shields.io/badge/Email-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://priyanshudev.online/"><img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=web&logoColor=white"/></a>
+<a href="mailto:priyanshupaswan648@gmail.com"><img src="https://img.shields.io/badge/Email-DC2743?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <br/><br/>
 
-<h2>Building AI automation, backend systems, and modern web products.</h2>
+<h2>Building AI automation, scalable systems, and modern web products.</h2>
+
+<h3>Let's collaborate on projects that make an impact! 🚀</h3>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:38BDF8,45:2563EB,100:020617"/>
 
