@@ -25,21 +25,28 @@
 
 </div>
 
-⚡ ABOUT ME
+---
+
+## ⚡ `ABOUT ME`
 
 <div align="center">
 
-AI & Full-Stack Developer · Backend AI Engineer · Automation Builder
+### AI & Full-Stack Developer · Backend AI Engineer · Automation Builder
 
-I build robust, modern software products by combining full-stack engineering, AI integrations, backend systems and workflow automation.
+I build robust, modern software products by combining  
+**full-stack engineering, AI integrations, backend systems and automation.**
 
-My focus is simple: turn ideas and real-world problems into useful, scalable products.
+My goal is simple:
+
+> **Turn ideas and real-world problems into useful products.**
 
 📍 Siliguri, West Bengal, India
 
 </div>
 
-🧠 TECH STACK
+---
+
+## 🧠 `TECH STACK`
 
 <div align="center">
 
@@ -54,37 +61,25 @@ My focus is simple: turn ideas and real-world problems into useful, scalable pro
 
 </div>
 
-💼 WHAT I BUILD
+---
+
+## 💼 `WHAT I BUILD`
 
 <div align="center">
 
-Area
-
-Focus
-
-🌐 Full-Stack Development
-
-React · Next.js · Node.js · Express · REST APIs
-
-🤖 AI Engineering
-
-LLM integration · AI products · Chatbots · Custom AI workflows
-
-⚙️ Automation
-
-n8n · APIs · Business workflows · AI-assisted automation
-
-☁️ Cloud & DevOps
-
-AWS · GCP · Docker · Kubernetes · Linux · CI/CD
-
-🗄️ Backend & Data
-
-PostgreSQL · MongoDB · MySQL · Supabase
+| AREA | FOCUS |
+|:---|:---|
+| 🌐 **Full-Stack** | React · Next.js · Node.js · Express · REST APIs |
+| 🤖 **AI Engineering** | LLMs · AI Products · Chatbots · AI Integrations |
+| ⚙️ **Automation** | n8n · APIs · Business Workflows · AI Automation |
+| ☁️ **Cloud & DevOps** | AWS · GCP · Docker · Kubernetes · Linux |
+| 🗄️ **Backend & Data** | PostgreSQL · MongoDB · MySQL · Supabase |
 
 </div>
 
-🚀 BUILDING
+---
+
+## 🚀 `BUILDING`
 
 <div align="center">
 
@@ -94,17 +89,19 @@ PostgreSQL · MongoDB · MySQL · Supabase
 
 </a>
 
-<br>
+### STRIVA
 
-AI-powered fitness & gym management platform
+**AI-powered fitness & gym management platform**
 
-Workout · Nutrition · Progress · Analytics · AI Coaching
+`Workout` · `Nutrition` · `Progress` · `Analytics` · `AI Coaching`
 
-React · Node.js · Supabase · AI
+**React · Node.js · Supabase · AI**
 
 </div>
 
-🏢 CO-FOUNDER
+---
+
+## 🏢 `CO-FOUNDER`
 
 <div align="center">
 
@@ -114,47 +111,58 @@ React · Node.js · Supabase · AI
 
 </a>
 
-PrasAI Cloud
+### PrasAI Cloud
 
-AI-first engineering studio · Co-founded with 2 friends
+**AI-first engineering studio · Co-founded with 2 friends**
 
-Building AI-native web products, business automation systems, AI marketing solutions and security/access intelligence.
+Building AI-native web products, business automation systems,
+AI marketing solutions and security/access intelligence.
 
-AI Products · Automation · Web · AI Marketing · ANPR
-
-</div>
-
-🧑‍💻 EXPERIENCE
-
-<div align="center">
-
-Backend AI Engineer Intern — FlyRank AI
-Jun 2026 – Present · Remote
-
-Building backend AI systems, intelligent automation workflows, API integrations and production-focused solutions.
-
-Freelance Full-Stack Developer
-Building custom web applications, AI integrations, automation systems and digital products for businesses and entrepreneurs.
+`AI Products` · `Automation` · `Web` · `AI Marketing` · `ANPR`
 
 </div>
 
-🎓 EDUCATION & CERTIFICATIONS
+---
+
+## 🧑‍💻 `EXPERIENCE`
 
 <div align="center">
 
-Bachelor of Computer Applications (BCA)
-Siliguri Institute of Technology · 7.34 CGPA
+### Backend AI Engineer Intern — FlyRank AI
+
+`Jun 2026 – Present` · Remote
+
+Building backend AI systems, intelligent automation workflows,
+API integrations and production-focused solutions.
 
 <br>
 
-Deloitte Australia — Data Analytics Job Simulation
-Mastercard — Cybersecurity Job Simulation
-Tata — Cybersecurity Analyst Job Simulation
-Deloitte Australia — Cyber Job Simulation
+### Freelance Full-Stack Developer
+
+Building custom web applications, AI integrations,
+automation systems and digital products for businesses.
 
 </div>
 
-📊 GITHUB TELEMETRY
+---
+
+## 🎓 `EDUCATION`
+
+<div align="center">
+
+**Bachelor of Computer Applications (BCA)**  
+Siliguri Institute of Technology · **7.34 CGPA**
+
+<br>
+
+`Deloitte — Data Analytics` · `Mastercard — Cybersecurity`  
+`Tata — Cybersecurity Analyst` · `Deloitte — Cyber`
+
+</div>
+
+---
+
+## 📊 `GITHUB TELEMETRY`
 
 <div align="center">
 
@@ -167,6 +175,8 @@ Deloitte Australia — Cyber Job Simulation
 <img height="165" src="https://streak-stats.demolab.com?user=Priyanshu1877&theme=transparent&hide_border=true"/>
 
 </div>
+
+---
 
 <div align="center">
 
