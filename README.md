@@ -1,280 +1,275 @@
-# 👋 Hey, I'm Priyanshu
+<!-- ======================= HERO ======================= -->
 
-### Full-Stack Developer · AI Engineer · Automation Builder
+<div align="center">
 
-I build **production-ready web applications, AI-powered products, and intelligent automation systems** that solve real business problems.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Priyanshu%20Paswan&fontSize=55&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Full-Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Automation%20Builder&descAlignY=60&descSize=18" width="100%"/>
 
-My work sits at the intersection of **modern web development, backend architecture, AI integration, cloud infrastructure, and automation**.
+<br/>
 
-<p align="left">
-  <a href="https://priyanshudev.online">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://www.linkedin.com/in/priyanshu-kumar-paswan-b91b85232/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:priyanshupaswan648@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+<a href="https://priyanshudev.online">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-priyanshudev.online-111111?style=for-the-badge" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:priyanshupaswan648@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=FF7750&center=true&vCenter=true&width=750&lines=Building+Modern+Web+Applications+%F0%9F%8C%90;Engineering+AI-Powered+Products+%F0%9F%A4%96;Creating+Business+Automation+%E2%9A%A1;Designing+Scalable+Backend+Systems+%E2%98%81%EF%B8%8F;Turning+Ideas+Into+Real+Products+%F0%9F%9A%80" />
+
+</div>
 
 ---
 
-## 🚀 What I Do
+## 👨‍💻 About Me
+
+I'm a **Full-Stack Developer and AI Engineer** focused on building practical software that solves real-world problems.
+
+I work across the entire product lifecycle — from **UI/UX and frontend development to APIs, databases, AI integrations, automation and cloud deployment**.
 
 ```text
-┌──────────────────────────────────────────────────────────────┐
-│  🌐 Full-Stack Development                                   │
-│  Build scalable web applications and business platforms.     │
-│                                                              │
-│  🤖 AI Integration                                            │
-│  Integrate LLMs, AI APIs, chatbots and intelligent tools.    │
-│                                                              │
-│  ⚙️ Automation                                                │
-│  Design workflow automation and business process systems.    │
-│                                                              │
-│  ☁️ Cloud & Backend                                           │
-│  Build APIs, databases, deployments and cloud infrastructure.│
-└──────────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│   🌐 Full-Stack Development                             │
+│   🤖 AI & LLM Integration                               │
+│   ⚙️ Business Automation                                │
+│   ☁️ Cloud & Backend Engineering                        │
+│   🧠 System Architecture                                │
+│   🚀 Product Development                                │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## 🧠 Tech Stack
+## ⚡ Tech Stack
 
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind" />
 </p>
 
-### Backend & APIs
+### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,java" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,python" />
 </p>
 
-### Databases
+### Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,supabase" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,supabase" />
 </p>
 
 ### AI & Automation
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
+<p align="left">
+
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge"/>
+
 </p>
 
-**AI / LLM:** OpenAI · Groq · Gemini · LLM APIs · AI Chatbots · AI Workflows · Prompt Engineering
-
-**Automation:** n8n · WhatsApp Automation · API Integrations · Workflow Systems
-
-### Cloud, DevOps & Tools
+### Cloud & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github,vercel" />
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,linux,git,github,vercel,postman" />
 </p>
-
-Also working with **Google Cloud, Hostinger, Render, Cloudflare, Postman and REST APIs.**
 
 ---
 
-# 🔥 Featured Projects
+# 🚀 Featured Projects
 
-## 🏋️ STRIVA — AI Fitness Platform
+<div align="center">
 
-> An AI-powered fitness platform designed around personalized workouts, nutrition, progress tracking and intelligent assistance.
+## 🏋️ STRIVA
 
-**Core technologies**
+### AI-Powered Fitness Platform
+
+<a href="https://stirva.space/">
+
+<img src="https://img.shields.io/badge/🌐%20Explore%20STRIVA-FF7750?style=for-the-badge" />
+
+</a>
+
+</div>
+
+STRIVA is an AI-powered fitness platform combining **personalized workouts, nutrition, progress tracking, hydration, recovery and intelligent AI assistance**.
+
+**Built with:**
 
 `React` `TypeScript` `Node.js` `Express` `Supabase` `PostgreSQL` `Groq` `AI`
 
-### Highlights
+### Core Systems
 
-* 🤖 AI-generated workout and fitness plans
-* 🏋️ Workout planning and execution tracking
-* 📊 Progress and activity analytics
+* 🤖 AI fitness assistant
+* 🏋️ Workout planning & execution
+* 📊 Progress analytics
+* 🥗 Nutrition tracking
 * 💧 Hydration tracking
-* 🥗 Nutrition and recovery tracking
-* 🔐 Authentication and membership system
-* 👑 Admin / gym management capabilities
-* 🧠 AI conversation and tool-execution architecture
-* ⚡ REST API based backend architecture
+* 🧠 AI memory & recommendations
+* 🔐 Authentication & membership
+* 👑 Admin / gym management
+* ⚡ REST API architecture
+* 🗄️ PostgreSQL + Supabase
 
-> **Status:** Actively developing
+> **Status:** 🚧 Actively developing
 
 ---
+
+<div align="center">
 
 ## ☁️ PrasAI Cloud
 
-> My technology venture focused on building modern digital products and AI-powered business solutions.
+### AI • Software • Automation
 
-### Services
+<a href="https://prasai.cloud">
 
-* 🌐 Web Development
-* 🎨 Web Design
-* 🤖 AI Software
-* 🧠 AI Integration
-* 📱 Mobile Applications
-* ⚙️ Business Automation
-* 📈 Digital Marketing
-* 🎯 Branding & Digital Solutions
+<img src="https://img.shields.io/badge/🌐%20prasai.cloud-111111?style=for-the-badge" />
 
-🌐 **[prasai.cloud](https://prasai.cloud)**
+</a>
 
----
+</div>
 
-## 💼 Client Projects
+**PrasAI Cloud** is my technology venture focused on helping businesses adopt modern digital and AI-powered solutions.
 
-### Eddelact
+### What We Build
 
-A modern digital platform for a data-driven marketing and digital services business.
-
-**Focus:** Web Development · SEO · Digital Marketing · Performance · Responsive Design
-
-🌐 **[Visit Website](https://eddelact.com)**
+`Web Applications` · `AI Software` · `Automation` · `Mobile Apps` · `Branding` · `Digital Solutions`
 
 ---
 
-### Safety Security Services
-
-Professional security services website designed to communicate trust, services and customer contact options.
-
-**Focus:** Business Website · Responsive UI · Service Presentation · Performance
-
-🌐 **[Visit Website](https://safetysecurityservices.in)**
-
----
-
-# 🛠️ What I'm Currently Building
-
-### 🤖 AI Products
-
-Building practical AI applications instead of just experimenting with models.
-
-### ⚙️ Automation Systems
-
-Creating workflow-based systems that connect APIs, AI services and business processes.
-
-### ☁️ Cloud Infrastructure
-
-Improving my knowledge of:
-
-* AWS
-* Docker
-* Kubernetes
-* CI/CD
-* Linux
-* Cloud deployment
-* Backend scalability
-
-### 💻 Client Solutions
-
-Working with businesses and entrepreneurs to turn ideas into production-ready digital products.
-
----
-
-# 📚 Currently Learning
+# 🧩 What I'm Building
 
 ```text
-AI Engineering        ███████████████████░░
-Backend Architecture  ██████████████████░░░
-Cloud & DevOps        ████████████████░░░░░
-System Design         ███████████████░░░░░░
-Automation            █████████████████░░░░
+AI Engineering
+████████████████████░░░  90%
+
+Full-Stack Development
+██████████████████████░  95%
+
+Backend Architecture
+███████████████████░░░░  85%
+
+Cloud & DevOps
+████████████████░░░░░░  75%
+
+Automation
+██████████████████░░░░  85%
+
+System Design
+███████████████░░░░░░░  70%
 ```
 
 Currently focusing on:
 
-* Advanced backend architecture
-* AI/LLM application development
-* Agentic workflows
-* Docker & Kubernetes
-* AWS infrastructure
-* CI/CD
-* System design
-* Scalable API architecture
+* 🧠 AI/LLM application architecture
+* 🤖 AI agents and tool-based systems
+* ⚙️ Business workflow automation
+* ☁️ AWS & cloud infrastructure
+* 🐳 Docker & containerization
+* 🔄 CI/CD
+* 🏗️ Scalable backend architecture
+* 📐 System design
 
 ---
 
-# 💡 My Development Philosophy
+# 📊 GitHub Analytics
 
-> **Don't build technology just because it's possible. Build it because it solves a problem.**
+<div align="center">
 
-I care about:
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Priyanshu1877&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" />
 
-* 🧩 Clean architecture
-* 🔐 Security
-* ⚡ Performance
-* 📈 Scalability
-* 🎨 Good user experience
-* 🤖 Practical AI
-* 🛠️ Maintainable code
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu1877&layout=compact&hide_border=true&theme=transparent&langs_count=8" />
 
----
+</div>
 
-# 📊 GitHub Stats
+<br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Priyanshu1877&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu1877&layout=compact&theme=transparent&hide_border=true" height="165"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Priyanshu1877&theme=transparent&hide_border=true" />
-</p>
+<img src="https://streak-stats.demolab.com?user=Priyanshu1877&theme=transparent&hide_border=true" />
+
+</div>
 
 ---
 
-# 🐍 Contribution Graph
+# 🐍 Contribution Activity
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Priyanshu1877/Priyanshu1877/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-</p>
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Priyanshu1877/Priyanshu1877/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+
+</div>
 
 ---
 
-# 🎯 Goals
+# 💼 Services
 
-### 2026 → 2027
+If you're looking to turn an idea into a working product, I can help with:
 
-* 🚀 Launch and scale my own AI-powered products
-* 🤖 Become stronger in AI engineering and LLM systems
-* ☁️ Build production-grade cloud infrastructure
-* 🧠 Master system design and scalable backend architecture
-* 🌍 Work with more international clients
-* 🔓 Contribute more to open-source
-* 💼 Grow PrasAI Cloud into a serious technology business
+| Service                    | What I Build                                  |
+| -------------------------- | --------------------------------------------- |
+| 🌐 Web Development         | Modern full-stack applications                |
+| 🤖 AI Development          | AI assistants, LLM applications & AI features |
+| ⚙️ Automation              | Business workflows & API integrations         |
+| 🧠 AI Integration          | OpenAI, Groq, Gemini & other AI APIs          |
+| ☁️ Cloud Development       | Deployment, APIs & infrastructure             |
+| 📱 Application Development | Modern responsive applications                |
+| 🎨 UI Development          | Premium interfaces & dashboards               |
+
+---
+
+# 🎯 2026 Goals
+
+```text
+[✓] Build production-grade AI applications
+[✓] Develop scalable backend systems
+[ ] Launch STRIVA
+[ ] Expand PrasAI Cloud
+[ ] Contribute more to Open Source
+[ ] Build advanced AI automation systems
+[ ] Work with international clients
+[ ] Deepen AWS & DevOps expertise
+```
 
 ---
 
 # 🤝 Let's Build Something
 
-I'm interested in working on:
+I'm open to collaborating on:
 
 **AI Products · SaaS · Automation · Web Applications · Business Platforms · APIs · Cloud Systems**
 
-If you have an idea that needs to become a real product, let's talk.
+If you have an idea worth building, let's turn it into something real.
 
-<p align="center">
-  <a href="https://priyanshudev.online">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-priyanshudev.online-111111?style=for-the-badge" />
-  </a>
-  <a href="https://www.linkedin.com/in/priyanshu-kumar-paswan-b91b85232/">
-    <img src="https://img.shields.io/badge/LinkedIn-Priyanshu%20Paswan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:priyanshupaswan648@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Work%20With%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<div align="center">
 
----
+<a href="https://priyanshudev.online">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-111111?style=for-the-badge" />
+</a>
 
-<p align="center">
-  <b>Building intelligent software. Solving real problems. 🚀</b>
-</p>
+<a href="mailto:priyanshupaswan648@gmail.com">
+<img src="https://img.shields.io/badge/📩%20Email-Let's%20Talk-EA4335?style=for-the-badge" />
+</a>
 
-<p align="center">
-  <sub>© 2026 Priyanshu Kr Paswan</sub>
-</p>
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&animation=fadeIn" width="100%"/>
+
+### `Building intelligent software. Solving real problems. 🚀`
+
+</div>
