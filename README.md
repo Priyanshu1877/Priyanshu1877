@@ -1,20 +1,22 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                        HERO                                -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ╔══════════════════════════════════════════════════════════╗ -->
+<!--                    CINEMATIC HERO                          -->
+<!-- ╚══════════════════════════════════════════════════════════╝ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&text=PRIYANSHU%20PASWAN&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7C%20AI%20ENGINEER%20%7C%20AUTOMATION%20BUILDER&descAlignY=62&descSize=17&color=0:050505,50:FF7750,100:050505"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=PRIYANSHU%20PASWAN&fontSize=62&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=FULL-STACK%20%2F%2F%20AI%20%2F%2F%20AUTOMATION%20%2F%2F%20CLOUD&descAlignY=62&descSize=18&color=0:030303,35:111111,65:FF7750,100:030303"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=1800&pause=600&color=FF7750&center=true&vCenter=true&width=900&lines=%3E+INITIALIZING+DEVELOPER...;%3E+LOADING+AI+SYSTEMS...;%3E+BUILDING+FULL-STACK+APPLICATIONS...;%3E+ENGINEERING+AI-POWERED+PRODUCTS...;%3E+AUTOMATING+BUSINESS+PROCESSES...;%3E+DESIGNING+SCALABLE+SYSTEMS...;%3E+SYSTEM+ONLINE+%E2%9C%93" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=25&duration=1600&pause=500&color=FF7750&center=true&vCenter=true&width=950&lines=%3E%3E+INITIALIZING+NEURAL+INTERFACE...;%3E%3E+LOADING+DEVELOPER+CORE...;%3E%3E+CONNECTING+AI+SYSTEMS...;%3E%3E+INITIALIZING+FULL-STACK+ENGINE...;%3E%3E+CONNECTING+CLOUD+INFRASTRUCTURE...;%3E%3E+AUTOMATION+ENGINE+ONLINE...;%3E%3E+SYSTEM+READY+%5B%2B%5D" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/STATUS-BUILDING%20THE%20FUTURE-FF7750?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FOCUS-AI%20%2B%20SOFTWARE-111111?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/AVAILABLE-FOR%20PROJECTS-111111?style=for-the-badge"/>
+<!-- STATUS LIGHTS -->
+
+<img src="https://img.shields.io/badge/%E2%97%89%20SYSTEM-ONLINE-FF7750?style=for-the-badge&labelColor=050505"/>
+<img src="https://img.shields.io/badge/%E2%97%89%20AI%20CORE-ACTIVE-FF7750?style=for-the-badge&labelColor=050505"/>
+<img src="https://img.shields.io/badge/%E2%97%89%20CLOUD-CONNECTED-FF7750?style=for-the-badge&labelColor=050505"/>
 
 <br><br>
 
@@ -27,112 +29,123 @@
 </a>
 
 <a href="mailto:priyanshupaswan648@gmail.com">
-<img src="https://img.shields.io/badge/📩%20EMAIL-111111?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/📡%20CONTACT-111111?style=for-the-badge&logo=gmail"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Priyanshu1877&label=PROFILE%20VIEWS&color=FF7750&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Priyanshu1877&label=VISITORS&color=FF7750&style=for-the-badge"/>
 
 </div>
 
 ---
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--                     SYSTEM BOOT                            -->
+<!--                    ANIMATED DIVIDER                         -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=1500&pause=400&color=FFFFFF&center=true&vCenter=true&width=700&lines=%5B+SYSTEM+BOOT+%5D;%5B+AI+CORE+ONLINE+%5D;%5B+BACKEND+ONLINE+%5D;%5B+CLOUD+ONLINE+%5D;%5B+AUTOMATION+ONLINE+%5D;%5B+ALL+SYSTEMS+OPERATIONAL+%5D" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=8&section=header&color=0:050505,50:FF7750,100:050505" width="100%"/>
 
 </div>
 
 <br>
 
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                     TERMINAL                               -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=1200&pause=350&color=FF7750&center=true&vCenter=true&width=700&lines=%5B%20ACCESSING%20DEVELOPER%20TERMINAL%20%5D;%5B%20AUTHENTICATION%20VERIFIED%20%5D;%5B%20PROFILE%20DETECTED%20%5D" />
+
+</div>
+
 ```text
-╔══════════════════════════════════════════════════════════════╗
-║                    DEVELOPER TERMINAL                       ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║  > booting developer_profile...                             ║
-║                                                              ║
-║  [✓] Full-Stack Development                                 ║
-║  [✓] Artificial Intelligence                                ║
-║  [✓] Backend Architecture                                   ║
-║  [✓] Business Automation                                    ║
-║  [✓] Cloud Infrastructure                                   ║
-║  [✓] SaaS Product Engineering                               ║
-║                                                              ║
-║  > status: ONLINE                                            ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
+╭──────────────────────────────────────────────────────────────╮
+│                    PRIYANSHU@DEV                            │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│  $ ./initialize_profile                                     │
+│                                                              │
+│  [████████████████████████████████████] 100%                │
+│                                                              │
+│  ✓ Developer Core                  ONLINE                    │
+│  ✓ Full-Stack Engine              ONLINE                    │
+│  ✓ AI Intelligence                ONLINE                    │
+│  ✓ Automation Engine              ONLINE                    │
+│  ✓ Cloud Infrastructure            ONLINE                    │
+│  ✓ Product Engineering             ONLINE                    │
+│                                                              │
+│  $ echo "Ready to build."                                    │
+│                                                              │
+│  > Ready to build.                                           │
+│                                                              │
+╰──────────────────────────────────────────────────────────────╯
 ```
+
+---
+
+# `01 // ABOUT`
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2000&pause=600&color=FF7750&center=true&vCenter=true&width=800&lines=FULL-STACK+DEVELOPER;AI+ENGINEER;AUTOMATION+BUILDER;SOFTWARE+ARCHITECT;PRODUCT+ENGINEER" />
+
+</div>
+
+I build **modern software products, AI-powered systems, automation platforms and scalable web applications**.
+
+My focus sits at the intersection of:
+
+```text
+                    ┌────────────────────┐
+                    │     SOFTWARE       │
+                    └─────────┬──────────┘
+                              │
+              ┌───────────────┼───────────────┐
+              ▼               ▼               ▼
+          FULL-STACK          AI          AUTOMATION
+              │               │               │
+              └───────────────┼───────────────┘
+                              │
+                              ▼
+                       CLOUD SYSTEMS
+                              │
+                              ▼
+                         🚀 PRODUCTS
+```
+
+<div align="center">
+
+### `IDEA` → `ARCHITECTURE` → `CODE` → `AI` → `AUTOMATION` → `DEPLOY` → `IMPACT`
 
 </div>
 
 ---
 
-# 👨‍💻 `> whoami`
+# `02 // SKILL MATRIX`
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2200&pause=700&color=FF7750&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;AI+Engineer;Automation+Builder;Backend+Architect;SaaS+Product+Builder" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=1500&pause=400&color=FFFFFF&center=true&vCenter=true&width=850&lines=%3E%3E+LOADING+TECHNOLOGY+MATRIX...;%3E%3E+SCANNING+STACK...;%3E%3E+STACK+VERIFIED+%5BOK%5D" />
 
-</div>
-
-I'm a **Full-Stack Developer and AI Engineer** focused on building modern software products, intelligent applications, automation systems and scalable backend architectures.
-
-I enjoy taking an idea from:
-
-<div align="center">
-
-### `IDEA` → `ARCHITECTURE` → `CODE` → `AI` → `AUTOMATION` → `DEPLOYMENT` → 🚀
-
-</div>
-
-### What I build
-
-```text
-🌐 Modern Web Applications
-🤖 AI-Powered Products
-🧠 Intelligent Assistants
-⚡ Business Automation
-🏗️ Scalable Backend Systems
-☁️ Cloud Applications
-📊 Analytics Dashboards
-🚀 SaaS Products
-```
-
----
-
-# ⚡ My Tech Universe
-
-<div align="center">
-
-### `FRONTEND`
+<br><br>
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind&theme=dark&perline=8"/>
 
 <br><br>
 
-### `BACKEND`
-
 <img src="https://skillicons.dev/icons?i=nodejs,express,python,postgres,mongodb,mysql&theme=dark&perline=8"/>
 
 <br><br>
-
-### `CLOUD • DEVOPS • TOOLS`
 
 <img src="https://skillicons.dev/icons?i=aws,gcp,docker,linux,git,github,vercel,postman&theme=dark&perline=8"/>
 
 <br><br>
 
-### `AI • AUTOMATION`
-
-<img src="https://img.shields.io/badge/OPENAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/OPENAI-000000?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/GROQ-F55036?style=for-the-badge&logo=groq&logoColor=white"/>
 <img src="https://img.shields.io/badge/GEMINI-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
@@ -141,85 +154,122 @@ I enjoy taking an idea from:
 
 ---
 
-# 🧬 Engineering DNA
+# `03 // ENGINEERING CORE`
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=1700&pause=500&color=FF7750&center=true&vCenter=true&width=850&lines=%3C+BUILD+%2B+AI+%2B+AUTOMATION+%3E;%3C+CODE+%2B+SYSTEMS+%2B+SCALE+%3E;%3C+IDEAS+%E2%86%92+PRODUCTS+%E2%86%92+IMPACT+%3E" />
+<table>
+<tr>
+<td align="center">
 
-<br><br>
+### 🌐
+### FULL-STACK
 
-```text
-                    ┌──────────────────┐
-                    │      PROBLEM     │
-                    └────────┬─────────┘
-                             ↓
-                    ┌──────────────────┐
-                    │     SOLUTION     │
-                    └────────┬─────────┘
-                             ↓
-                    ┌──────────────────┐
-                    │   ARCHITECTURE   │
-                    └────────┬─────────┘
-                             ↓
-                    ┌──────────────────┐
-                    │      CODE        │
-                    └────────┬─────────┘
-                             ↓
-                    ┌──────────────────┐
-                    │       AI         │
-                    └────────┬─────────┘
-                             ↓
-                    ┌──────────────────┐
-                    │   AUTOMATION     │
-                    └────────┬─────────┘
-                             ↓
-                    ┌──────────────────┐
-                    │     DEPLOY       │
-                    └────────┬─────────┘
-                             ↓
-                            🚀
-```
+React<br>
+Next.js<br>
+Node.js<br>
+Express<br>
+REST APIs
+
+</td>
+
+<td align="center">
+
+### 🤖
+### ARTIFICIAL INTELLIGENCE
+
+AI Agents<br>
+LLM Integration<br>
+AI Assistants<br>
+Prompt Systems<br>
+AI Products
+
+</td>
+
+<td align="center">
+
+### ⚡
+### AUTOMATION
+
+n8n<br>
+API Automation<br>
+Business Workflows<br>
+WhatsApp<br>
+AI Automation
+
+</td>
+
+<td align="center">
+
+### ☁️
+### CLOUD
+
+AWS<br>
+Google Cloud<br>
+Vercel<br>
+Docker<br>
+Linux
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-# 🚀 `PROJECT_01` — STRIVA
+# `04 // PROJECTS`
 
 <div align="center">
 
-<img width="70%" src="https://capsule-render.vercel.app/api?type=soft&height=120&text=STRIVA&fontSize=48&fontColor=ffffff&animation=twinkling&color=FF7750"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&height=110&text=PROJECT%20LAB&fontSize=42&fontColor=ffffff&animation=twinkling&color=050505"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=1700&pause=500&color=FF7750&center=true&vCenter=true&width=750&lines=%3E+SCANNING+PROJECT+DATABASE...;%3E+FLAGSHIP+SYSTEMS+DETECTED...;%3E+LOADING+PROJECT+ARCHITECTURE..." />
+
+</div>
+
+---
+
+# 🧠 `PROJECT_01 // STRIVA`
+
+<div align="center">
+
+<img width="80%" src="https://capsule-render.vercel.app/api?type=rect&height=130&text=STRIVA&fontSize=52&fontColor=ffffff&animation=twinkling&color=0:050505,50:FF7750,100:050505"/>
 
 <br>
 
 <img src="https://img.shields.io/badge/AI%20FITNESS-FF7750?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/SAAS-111111?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/INTELLIGENCE-FF7750?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ANALYTICS-FF7750?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20COACHING-111111?style=for-the-badge"/>
 
 </div>
 
-**STRIVA** is an AI-powered fitness ecosystem designed around intelligent coaching, workout execution, nutrition, progress analytics and gym management.
+### `SYSTEM DESCRIPTION`
 
-### 🧠 Architecture
+STRIVA is an AI-powered fitness ecosystem combining intelligent coaching, workout management, nutrition, analytics and gym management.
+
+### `AI SYSTEM FLOW`
 
 ```text
-                         ┌──────────────────┐
-                         │                  │
-                         │     STRIVA AI    │
-                         │   INTELLIGENCE   │
-                         │                  │
-                         └────────┬─────────┘
+                         ╔══════════════════╗
+                         ║                  ║
+                         ║    STRIVA AI     ║
+                         ║   INTELLIGENCE   ║
+                         ║                  ║
+                         ╚════════╤═════════╝
                                   │
-             ┌────────────────────┼────────────────────┐
-             │                    │                    │
-             ▼                    ▼                    ▼
-       ┌────────────┐       ┌────────────┐       ┌────────────┐
-       │  WORKOUT   │       │ NUTRITION  │       │ PROGRESS   │
-       │   ENGINE   │       │   ENGINE   │       │  ANALYTICS │
-       └──────┬─────┘       └──────┬─────┘       └──────┬─────┘
-              │                    │                    │
-              └────────────────────┼────────────────────┘
+                 ┌────────────────┼────────────────┐
+                 │                │                │
+                 ▼                ▼                ▼
+        ┌────────────────┐ ┌───────────────┐ ┌───────────────┐
+        │    WORKOUT     │ │  NUTRITION    │ │   PROGRESS    │
+        │     ENGINE     │ │    ENGINE     │ │   ANALYTICS   │
+        └───────┬────────┘ └───────┬───────┘ └───────┬───────┘
+                │                  │                  │
+                └──────────────────┼──────────────────┘
                                    │
                                    ▼
                          ┌──────────────────┐
@@ -228,36 +278,38 @@ I enjoy taking an idea from:
                          └──────────────────┘
 ```
 
-### ⚡ Core Features
+### `CORE MODULES`
 
-`AI Fitness Assistant`  
-`Workout Planning`  
-`Workout Execution`  
-`Nutrition Tracking`  
-`Hydration Tracking`  
-`Progress Analytics`  
-`AI Recommendations`  
-`Member Management`  
-`Gym Owner Dashboard`  
-`Authentication & Roles`
+```text
+🤖 AI FITNESS ASSISTANT
+🏋️ WORKOUT PLANNING
+⚡ WORKOUT EXECUTION
+🥗 NUTRITION TRACKING
+💧 HYDRATION TRACKING
+📈 PROGRESS ANALYTICS
+🧠 AI RECOMMENDATIONS
+👥 MEMBER MANAGEMENT
+🏢 GYM MANAGEMENT
+🔐 ROLE-BASED ACCESS
+```
 
 <div align="center">
 
 <a href="https://stirva.space">
-<img src="https://img.shields.io/badge/🚀%20EXPLORE%20STRIVA-FF7750?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/⚡%20ENTER%20STRIVA-FF7750?style=for-the-badge"/>
 </a>
 
 </div>
 
 ---
 
-# ☁️ `PROJECT_02` — PrasAI Cloud
+# ☁️ `PROJECT_02 // PRASAI CLOUD`
 
 <div align="center">
 
-<img width="75%" src="https://capsule-render.vercel.app/api?type=rect&height=110&text=PrasAI%20Cloud&fontSize=40&fontColor=ffffff&animation=twinkling&color=111111"/>
+<img width="80%" src="https://capsule-render.vercel.app/api?type=soft&height=125&text=PrasAI%20Cloud&fontSize=43&fontColor=ffffff&animation=twinkling&color=050505"/>
 
-<br><br>
+<br>
 
 <img src="https://img.shields.io/badge/AI-FF7750?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/SOFTWARE-111111?style=for-the-badge"/>
@@ -266,50 +318,103 @@ I enjoy taking an idea from:
 
 </div>
 
-A technology venture focused on helping businesses adopt modern software, AI and automation.
+A technology venture focused on **software development, AI, automation and digital transformation**.
 
 ```text
-                    PRASAI CLOUD
-                         │
-        ┌────────────────┼────────────────┐
-        │                │                │
-        ▼                ▼                ▼
-    SOFTWARE            AI          AUTOMATION
-        │                │                │
-        └────────────────┼────────────────┘
-                         │
-                         ▼
-                  BUSINESS GROWTH
+                         PRASAI CLOUD
+                              │
+               ┌──────────────┼──────────────┐
+               │              │              │
+               ▼              ▼              ▼
+           SOFTWARE           AI        AUTOMATION
+               │              │              │
+               └──────────────┼──────────────┘
+                              │
+                              ▼
+                       BUSINESS SYSTEMS
+                              │
+                              ▼
+                         📈 GROWTH
 ```
 
-### Services
+### `SERVICES`
 
-🌐 Web Development  
-🎨 Web Design  
-📱 Mobile Applications  
-🤖 AI Software  
-⚡ Business Automation  
-🧠 AI Consultancy  
-📈 Digital Marketing  
-🎯 Branding
+`WEB DEVELOPMENT`  
+`WEB DESIGN`  
+`MOBILE APPLICATIONS`  
+`AI SOFTWARE`  
+`AI CONSULTANCY`  
+`BUSINESS AUTOMATION`  
+`DIGITAL MARKETING`  
+`BRANDING`
 
 <div align="center">
 
 <a href="https://prasai.cloud">
-<img src="https://img.shields.io/badge/🌐%20VISIT%20PRASAI.CLOUD-FF7750?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌐%20VISIT%20PRASAI%20CLOUD-FF7750?style=for-the-badge"/>
 </a>
 
 </div>
 
 ---
 
-# 📊 GitHub Command Center
+# `05 // SYSTEM ARCHITECTURE`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Priyanshu1877&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true&custom_title=SYSTEM%20STATISTICS" height="180"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=1500&pause=400&color=FF7750&center=true&vCenter=true&width=800&lines=%3E%3E+ARCHITECTURE+MODE...;%3E%3E+MAPPING+SYSTEM+LAYERS...;%3E%3E+ARCHITECTURE+LOCKED+%5B%2B%5D" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu1877&layout=compact&hide_border=true&theme=transparent&langs_count=8&custom_title=CODE%20DISTRIBUTION" height="180"/>
+</div>
+
+```text
+                           ┌───────────────────────┐
+                           │       USER / UI       │
+                           └───────────┬───────────┘
+                                       │
+                                       ▼
+                           ┌───────────────────────┐
+                           │    REACT / NEXT.JS    │
+                           └───────────┬───────────┘
+                                       │
+                                       ▼
+                           ┌───────────────────────┐
+                           │      REST / API       │
+                           └───────────┬───────────┘
+                                       │
+                 ┌─────────────────────┼─────────────────────┐
+                 │                     │                     │
+                 ▼                     ▼                     ▼
+          ┌─────────────┐      ┌─────────────┐      ┌─────────────┐
+          │   BACKEND   │      │   AI CORE   │      │ AUTOMATION  │
+          │ Node/Express│      │ LLM / Agents│      │    n8n      │
+          └──────┬──────┘      └──────┬──────┘      └──────┬──────┘
+                 │                    │                    │
+                 └────────────────────┼────────────────────┘
+                                      │
+                                      ▼
+                           ┌───────────────────────┐
+                           │     POSTGRES / DB     │
+                           └───────────┬───────────┘
+                                       │
+                                       ▼
+                           ┌───────────────────────┐
+                           │   CLOUD / DEPLOYMENT  │
+                           └───────────────────────┘
+```
+
+---
+
+# `06 // GITHUB COMMAND CENTER`
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=1500&pause=400&color=FFFFFF&center=true&vCenter=true&width=800&lines=%3E%3E+CONNECTING+GITHUB+CORE...;%3E%3E+FETCHING+ACTIVITY...;%3E%3E+ANALYZING+CODE+SIGNALS...;%3E%3E+LIVE+TELEMETRY+ONLINE" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Priyanshu1877&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true&custom_title=DEVELOPER%20TELEMETRY" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu1877&layout=compact&hide_border=true&theme=transparent&langs_count=8&custom_title=LANGUAGE%20MATRIX" height="180"/>
 
 <br><br>
 
@@ -319,95 +424,193 @@ A technology venture focused on helping businesses adopt modern software, AI and
 
 ---
 
-# 📡 Activity Stream
+# `07 // ACTIVITY STREAM`
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Priyanshu1877&bg_color=00000000&color=FF7750&line=FF7750&point=FFFFFF&area=true&hide_border=true"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Priyanshu1877&bg_color=00000000&color=FF7750&line=FF7750&point=FFFFFF&area=true&hide_border=true&custom_title=CONTRIBUTION%20SIGNAL"/>
 
 </div>
 
 ---
 
-# 🌌 Developer Mode
+# `08 // NEURAL NETWORK`
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=1400&pause=450&color=FF7750&center=true&vCenter=true&width=850&lines=%3E+AI+AGENTS+%5BON%5D;%3E+AUTOMATION+%5BON%5D;%3E+CLOUD+%5BON%5D;%3E+SAAS+%5BON%5D;%3E+SYSTEM+DESIGN+%5BON%5D;%3E+BUILDING+%5BON%5D;%3E+SHIPPING+%5BON%5D;%3E+IMPROVING+%5BON%5D" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-```text
-╭────────────────────────────────────────────────────────────╮
-│                                                            │
-│       🤖 AI ENGINEERING       ████████████████████░░      │
-│                                                            │
-│       🌐 FULL-STACK           █████████████████████░      │
-│                                                            │
-│       ⚡ AUTOMATION           ██████████████████░░░░      │
-│                                                            │
-│       🏗️ SYSTEM DESIGN        █████████████████░░░░░      │
-│                                                            │
-│       ☁️ CLOUD                ███████████████░░░░░░░      │
-│                                                            │
-│       🚀 SAAS                 ████████████████████░░      │
-│                                                            │
-╰────────────────────────────────────────────────────────────╯
-```
-
-</div>
-
----
-
-# 🎯 2026 Mission
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2000&pause=700&color=FFFFFF&center=true&vCenter=true&width=900&lines=Build+AI-Powered+Products+%F0%9F%A4%96;Launch+Real+SaaS+Products+%F0%9F%9A%80;Automate+Business+Processes+%E2%9A%A1;Master+System+Design+%F0%9F%A7%A0;Build+Scalable+Cloud+Systems+%E2%98%81%EF%B8%8F" />
-
-</div>
-
-```text
-2026
- │
- ├── 🤖 AI Engineering
- │
- ├── 🚀 SaaS Products
- │
- ├── ⚡ Business Automation
- │
- ├── ☁️ Cloud Architecture
- │
- ├── 🏗️ System Design
- │
- └── 🌍 Global Products
-```
-
----
-
-# 🧠 Beyond Code
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2400&pause=800&color=FF7750&center=true&vCenter=true&width=850&lines=Software+is+a+tool.;AI+is+a+multiplier.;Automation+is+leverage.;Execution+creates+impact.;Build+things+people+actually+use." />
-
-</div>
-
----
-
-# 🤝 Let's Build Something
-
-<div align="center">
-
-<img width="75%" src="https://capsule-render.vercel.app/api?type=soft&height=120&text=HAVE%20AN%20IDEA%3F&fontSize=38&fontColor=ffffff&animation=twinkling&color=111111"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=1300&pause=400&color=FF7750&center=true&vCenter=true&width=850&lines=%3E%3E+ACTIVATING+NEURAL+PATHWAYS...;%3E%3E+AI+AGENTS+CONNECTED...;%3E%3E+MODEL+PIPELINE+READY...;%3E%3E+INFERENCE+ENGINE+ONLINE..." />
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=1800&pause=600&color=FF7750&center=true&vCenter=true&width=800&lines=Website+%2B+AI+%2B+Automation;Idea+%2B+Technology+%3D+Product;Let's+build+something+great." />
+```text
+                         ┌───────────────┐
+                         │    INPUT      │
+                         └───────┬───────┘
+                                 │
+                                 ▼
+                       ◉ ────────●──────── ◉
+                      /          │          \
+                     /           │           \
+                    ▼            ▼            ▼
+                  ◉              ●              ◉
+                  │              │              │
+                  └───────┐      │      ┌──────┘
+                          │      │      │
+                          ▼      ▼      ▼
+                       ┌────────────────────┐
+                       │    AI PROCESSOR    │
+                       └─────────┬──────────┘
+                                 │
+                                 ▼
+                         ◉ ──────●────── ◉
+                                 │
+                                 ▼
+                         ┌──────────────┐
+                         │   OUTPUT     │
+                         └──────────────┘
+```
+
+### `AI STACK`
+
+<img src="https://img.shields.io/badge/LLM%20SYSTEMS-FF7750?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20AGENTS-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-FF7750?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20AUTOMATION-111111?style=for-the-badge"/>
+
+</div>
+
+---
+
+# `09 // AUTOMATION GRID`
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=1400&pause=450&color=FFFFFF&center=true&vCenter=true&width=800&lines=%3E%3E+AUTOMATION+ENGINE+STARTING...;%3E%3E+WORKFLOWS+CONNECTED...;%3E%3E+EVENTS+STREAMING...;%3E%3E+AUTOMATION+READY+%E2%9A%A1" />
+
+<br><br>
+
+```text
+       EVENT
+         │
+         ▼
+   ┌───────────────┐
+   │   TRIGGER     │
+   └───────┬───────┘
+           │
+           ▼
+   ┌───────────────┐
+   │      AI       │
+   │   PROCESSOR   │
+   └───────┬───────┘
+           │
+     ┌─────┼─────┐
+     ▼     ▼     ▼
+    API   DB    LLM
+     │     │     │
+     └─────┼─────┘
+           │
+           ▼
+   ┌───────────────┐
+   │    ACTION     │
+   └───────────────┘
+           │
+           ▼
+          ⚡
+```
+
+</div>
+
+---
+
+# `10 // CURRENT MISSION`
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=120&text=MISSION%20CONTROL&fontSize=38&fontColor=ffffff&animation=twinkling&color=050505"/>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=1800&pause=600&color=FF7750&center=true&vCenter=true&width=900&lines=BUILD+AI-POWERED+PRODUCTS;%E2%9A%A1+AUTOMATE+REAL+BUSINESSES;%F0%9F%9A%80+SHIP+SCALABLE+SAAS;%E2%98%81%EF%B8%8F+MASTER+CLOUD+ARCHITECTURE;%F0%9F%A7%A0+ENGINEER+INTELLIGENT+SYSTEMS" />
+
+<br><br>
+
+```text
+                  2026 MISSION
+
+             ┌──────────────────┐
+             │   AI PRODUCTS    │
+             └────────┬─────────┘
+                      │
+                      ▼
+             ┌──────────────────┐
+             │   AUTOMATION     │
+             └────────┬─────────┘
+                      │
+                      ▼
+             ┌──────────────────┐
+             │      SAAS        │
+             └────────┬─────────┘
+                      │
+                      ▼
+             ┌──────────────────┐
+             │      CLOUD       │
+             └────────┬─────────┘
+                      │
+                      ▼
+                    🚀
+```
+
+</div>
+
+---
+
+# `11 // DEVELOPER SIGNAL`
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=21&duration=1200&pause=350&color=FF7750&center=true&vCenter=true&width=900&lines=%5B+AI+CORE++++++++++++%5D+███████████████████░;%5B+FULL-STACK+++++++++%5D+████████████████████░;%5B+AUTOMATION++++++++++%5D+██████████████████░░;%5B+SYSTEM+DESIGN++++++++%5D+████████████████░░░;%5B+CLOUD++++++++++++++++%5D+███████████████░░░░;%5B+PRODUCT+ENGINEERING++%5D+██████████████████░" />
+
+</div>
+
+---
+
+# `12 // BEYOND CODE`
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2200&pause=700&color=FF7750&center=true&vCenter=true&width=900&lines=SOFTWARE+IS+A+TOOL.;AI+IS+A+MULTIPLIER.;AUTOMATION+IS+LEVERAGE.;EXECUTION+CREATES+IMPACT.;BUILD+THINGS+PEOPLE+USE." />
+
+<br><br>
+
+```text
+          THINK
+            ↓
+          DESIGN
+            ↓
+          BUILD
+            ↓
+           TEST
+            ↓
+           SHIP
+            ↓
+         IMPROVE
+            ↓
+           🚀
+```
+
+</div>
+
+---
+
+# `13 // CONNECT`
+
+<div align="center">
+
+<img width="85%" src="https://capsule-render.vercel.app/api?type=soft&height=140&text=LET'S%20BUILD%20SOMETHING&fontSize=35&fontColor=ffffff&animation=twinkling&color=0:050505,50:FF7750,100:050505"/>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=1700&pause=500&color=FF7750&center=true&vCenter=true&width=850&lines=HAVE+A+PROBLEM%3F;HAVE+AN+IDEA%3F;NEED+AI%3F;NEED+AUTOMATION%3F;LET'S+TURN+IT+INTO+A+PRODUCT." />
 
 <br><br>
 
@@ -415,22 +618,36 @@ A technology venture focused on helping businesses adopt modern software, AI and
 <img src="https://img.shields.io/badge/🌐%20PORTFOLIO-FF7750?style=for-the-badge"/>
 </a>
 
+<a href="https://prasai.cloud">
+<img src="https://img.shields.io/badge/☁️%20PRASAI%20CLOUD-111111?style=for-the-badge"/>
+</a>
+
 <a href="mailto:priyanshupaswan648@gmail.com">
-<img src="https://img.shields.io/badge/📩%20LET'S%20TALK-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/📩%20CONTACT-FF7750?style=for-the-badge"/>
 </a>
 
 <br><br>
 
-<strong>Let's turn ideas into products. 🚀</strong>
+### `CODE • AI • AUTOMATION • CLOUD • INNOVATION`
 
 </div>
 
 ---
 
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                       FINAL VFX                             -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&animation=twinkling&color=0:050505,50:FF7750,100:050505"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=footer&animation=twinkling&color=0:030303,30:111111,65:FF7750,100:030303"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=17&duration=2200&pause=700&color=FF7750&center=true&vCenter=true&width=700&lines=CODE+%E2%80%A2+CREATE+%E2%80%A2+AUTOMATE+%E2%80%A2+INNOVATE" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=18&duration=2000&pause=600&color=FF7750&center=true&vCenter=true&width=750&lines=%5B+SYSTEM+SHUTDOWN%3F+%5D;%5B+NO.+KEEP+BUILDING.+%5D;%5B+%E2%9C%93+DEVELOPER+SESSION+ACTIVE+%5D" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/●%20BUILDING-FF7750?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/●%20SHIPPING-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/●%20INNOVATING-FF7750?style=for-the-badge"/>
 
 </div>
