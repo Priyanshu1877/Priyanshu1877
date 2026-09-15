@@ -1,25 +1,22 @@
 <div align="center">
 
-# ⚡ PRIYANSHU KUMAR PASWAN
+# ⚡ PRIYANSHU PASWAN
 
 ### `AI & FULL-STACK DEVELOPER`
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=1800&pause=700&color=FF7750&center=true&vCenter=true&width=800&lines=%3E+Building+AI-powered+products;%3E+Engineering+modern+web+applications;%3E+AI+%2B+Automation+%2B+Full-Stack;%3E+Turning+ideas+into+real+products+%E2%9A%A1"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=1800&pause=700&color=FF7750&center=true&vCenter=true&width=800&lines=%3E+Building+AI-powered+products;%3E+Engineering+modern+web+applications;%3E+AI+%2B+Automation+%2B+Full-Stack;%3E+Optimizing+websites+for+search;%3E+Turning+ideas+into+real+products+%E2%9A%A1"/>
 
 <br>
 
 <a href="https://priyanshudev.online">
 <img src="https://img.shields.io/badge/%F0%9F%8C%90%20PORTFOLIO-FF7750?style=for-the-badge"/>
 </a>
-
 <a href="https://www.linkedin.com/in/priyanshu-kumar-paswan-b91b85232">
 <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="https://x.com/Priyanshu_137_">
 <img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
-
 <a href="https://github.com/Priyanshu1877">
 <img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
@@ -39,9 +36,11 @@
 **AI & Full-Stack Developer · Backend AI Engineer · Automation Builder**
 
 I build modern software products by combining  
-**full-stack engineering, AI integrations, backend systems and automation.**
+**full-stack engineering, AI integrations, backend systems, automation and SEO.**
 
-> **Turning ideas and real-world problems into useful products.**
+My focus:
+
+> **Build it. Automate it. Optimize it. Ship it.**
 
 📍 Siliguri, West Bengal, India
 
@@ -73,8 +72,28 @@ I build modern software products by combining
 | 🌐 **Full-Stack** | React · Next.js · Node.js · Express · REST APIs |
 | 🤖 **AI Engineering** | LLMs · AI Products · Chatbots · AI Integrations |
 | ⚙️ **Automation** | n8n · APIs · Business Workflows · AI Automation |
+| 📈 **SEO & Growth** | Technical SEO · On-Page SEO · Search Console · Analytics |
 | ☁️ **Cloud & DevOps** | AWS · GCP · Docker · Kubernetes · Linux |
 | 🗄️ **Backend & Data** | PostgreSQL · MongoDB · MySQL · Supabase |
+
+---
+
+<div align="center">
+
+## 📈 `SEO & GROWTH`
+
+**Technical SEO · On-Page SEO · Website Optimization · Search Visibility**
+
+<img src="https://img.shields.io/badge/GOOGLE%20SEARCH%20CONSOLE-458CF5?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/GOOGLE%20ANALYTICS-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
+
+<br><br>
+
+`Technical SEO` · `On-Page SEO` · `Keyword Research`  
+`Schema Markup` · `Sitemaps` · `Robots.txt` · `Canonical SEO`  
+`Search Console` · `Analytics` · `SEO Audits` · `Website Optimization`
+
+</div>
 
 ---
 
@@ -84,11 +103,13 @@ I build modern software products by combining
 
 <a href="https://stirva.space">
 
-<img src="https://img.shields.io/badge/STRIVA-FF7750?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/STRIVA-FF7750?style=for-the-badge"/>
 
 </a>
 
-### AI-powered fitness & gym management platform
+### STRIVA
+
+**AI-powered fitness & gym management platform**
 
 `Workout` · `Nutrition` · `Progress` · `Analytics` · `AI Coaching`
 
@@ -112,10 +133,10 @@ I build modern software products by combining
 
 **AI-first engineering studio · Co-founded with 2 friends**
 
-Building:
+Building AI-native web products, business automation systems,
+AI marketing solutions and security/access intelligence.
 
-`AI Products` · `Automation` · `Web Applications`  
-`AI Marketing` · `Security & Access Intelligence`
+`AI Products` · `Automation` · `Web` · `AI Marketing` · `ANPR`
 
 </div>
 
@@ -135,7 +156,7 @@ API integrations and production-focused solutions.
 ### Freelance Full-Stack Developer
 
 Building custom web applications, AI integrations,
-automation systems and digital products for businesses.
+automation systems, SEO-optimized websites and digital products.
 
 </div>
 
@@ -175,7 +196,7 @@ Siliguri Institute of Technology · **7.34 CGPA**
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2000&pause=700&color=FF7750&center=true&vCenter=true&width=800&lines=BUILD+%E2%80%A2+AUTOMATE+%E2%80%A2+DEPLOY+%E2%80%A2+IMPROVE;%E2%9A%A1+TURNING+IDEAS+INTO+REAL+PRODUCTS"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2000&pause=700&color=FF7750&center=true&vCenter=true&width=800&lines=BUILD+%E2%80%A2+AUTOMATE+%E2%80%A2+OPTIMIZE+%E2%80%A2+DEPLOY;%E2%9A%A1+TURNING+IDEAS+INTO+REAL+PRODUCTS"/>
 
 <br><br>
 
@@ -193,6 +214,6 @@ Siliguri Institute of Technology · **7.34 CGPA**
 
 <br><br>
 
-`BUILD • AUTOMATE • DEPLOY • IMPROVE`
+`BUILD • AUTOMATE • OPTIMIZE • DEPLOY`
 
 </div>
