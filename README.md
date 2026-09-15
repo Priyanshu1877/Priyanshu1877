@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ PRIYANSHU PASWAN
+# ⚡ PRIYANSHU KUMAR PASWAN
 
 ### `AI & FULL-STACK DEVELOPER`
 
