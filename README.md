@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=PRIYANSHU%20PASWAN&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=FULL-STACK%20%7C%20AI%20%7C%20AUTOMATION%20%7C%20CLOUD&descAlignY=62&descSize=16&color=0:050505,45:111111,70:FF7750,100:050505"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&section=header&text=PRIYANSHU%20PASWAN&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=FULL-STACK%20%7C%20AI%20%7C%20AUTOMATION%20%7C%20CLOUD&descAlignY=62&descSize=15&color=0:050505,45:111111,70:FF7750,100:050505"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=1800&pause=600&color=FF7750&center=true&vCenter=true&width=850&lines=%3E+Building+AI-powered+products;%3E+Engineering+scalable+web+systems;%3E+Automating+real-world+businesses;%3E+Turning+ideas+into+software+%E2%9A%A1"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=1800&pause=600&color=FF7750&center=true&vCenter=true&width=850&lines=%3E+Building+AI-powered+products;%3E+Engineering+scalable+web+systems;%3E+Automating+real-world+businesses;%3E+Turning+ideas+into+software+%E2%9A%A1"/>
 
-<br><br>
+<br>
 
 <a href="https://priyanshudev.online">
 <img src="https://img.shields.io/badge/PORTFOLIO-FF7750?style=for-the-badge"/>
@@ -30,7 +30,7 @@
 
 **Full-Stack Developer · AI Engineer · Automation Builder**
 
-I design and build **AI-powered applications, SaaS platforms, automation systems and modern web experiences.**
+I build **AI-powered products, scalable web applications, automation systems and modern digital experiences.**
 
 `React` · `Next.js` · `Node.js` · `Python` · `PostgreSQL` · `AWS` · `AI` · `n8n`
 
@@ -55,31 +55,45 @@ I design and build **AI-powered applications, SaaS platforms, automation systems
 
 ---
 
-## 🚀 `FLAGSHIP PROJECTS`
+## 🚀 `BUILDING`
 
 <div align="center">
 
 <a href="https://stirva.space">
 
-<img width="46%" src="https://capsule-render.vercel.app/api?type=rect&height=110&text=STRIVA&fontSize=42&fontColor=ffffff&animation=twinkling&color=0:050505,50:FF7750,100:050505"/>
+<img width="48%" src="https://capsule-render.vercel.app/api?type=rect&height=115&text=STRIVA&fontSize=44&fontColor=ffffff&animation=twinkling&color=0:050505,50:FF7750,100:050505"/>
 
 </a>
 
-<a href="https://prasai.cloud">
+<br>
 
-<img width="46%" src="https://capsule-render.vercel.app/api?type=rect&height=110&text=PRASAI%20CLOUD&fontSize=32&fontColor=ffffff&animation=twinkling&color=0:050505,50:FF7750,100:050505"/>
+**AI-powered fitness & gym management platform**
 
-</a>
+`Workout` · `Nutrition` · `Analytics` · `AI` · `Supabase`
 
 </div>
 
+---
+
+## 🏢 `CO-FOUNDER`
+
 <div align="center">
 
-| 🧠 STRIVA | ☁️ PrasAI Cloud |
-|:---:|:---:|
-| AI-powered fitness & gym platform | AI & software technology venture |
-| Workout · Nutrition · Analytics | AI · Web · Automation · Cloud |
-| React · Node · Supabase · AI | Full-Stack · AI · Business Systems |
+<a href="https://prasai.cloud">
+
+<img width="48%" src="https://capsule-render.vercel.app/api?type=rect&height=115&text=PRASAI%20CLOUD&fontSize=34&fontColor=ffffff&animation=twinkling&color=0:050505,50:FF7750,100:050505"/>
+
+</a>
+
+<br>
+
+### PrasAI Cloud
+
+**AI & Software Technology Company**
+
+Co-founded with **2 friends**, building technology solutions for businesses.
+
+`AI Solutions` · `Web Development` · `Automation` · `Cloud` · `Digital Products`
 
 </div>
 
@@ -89,13 +103,13 @@ I design and build **AI-powered applications, SaaS platforms, automation systems
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Priyanshu1877&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Priyanshu1877&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu1877&layout=compact&hide_border=true&theme=transparent&langs_count=6"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu1877&layout=compact&hide_border=true&theme=transparent&langs_count=6"/>
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=Priyanshu1877&theme=transparent&hide_border=true"/>
+<img height="165" src="https://streak-stats.demolab.com?user=Priyanshu1877&theme=transparent&hide_border=true"/>
 
 </div>
 
@@ -113,24 +127,24 @@ I design and build **AI-powered applications, SaaS platforms, automation systems
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2000&pause=700&color=FF7750&center=true&vCenter=true&width=700&lines=BUILD+%E2%80%A2+AUTOMATE+%E2%80%A2+DEPLOY+%E2%80%A2+IMPROVE;%E2%9A%A1+CODE+IS+THE+START%2C+IMPACT+IS+THE+GOAL"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2000&pause=700&color=FF7750&center=true&vCenter=true&width=700&lines=BUILD+%E2%80%A2+AUTOMATE+%E2%80%A2+DEPLOY+%E2%80%A2+IMPROVE;%E2%9A%A1+CODE+IS+THE+START%2C+IMPACT+IS+THE+GOAL"/>
 
 <br><br>
 
 <a href="https://priyanshudev.online">
-<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-FF7750?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/%F0%9F%8C%90%20PORTFOLIO-FF7750?style=for-the-badge"/>
 </a>
 
 <a href="https://prasai.cloud">
-<img src="https://img.shields.io/badge/☁️%20PRASAI%20CLOUD-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/%E2%98%81%EF%B8%8F%20PRASAI%20CLOUD-111111?style=for-the-badge"/>
 </a>
 
 <a href="mailto:priyanshupaswan648@gmail.com">
-<img src="https://img.shields.io/badge/📩%20LET'S%20BUILD-FF7750?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/%F0%9F%93%A9%20LET'S%20BUILD-FF7750?style=for-the-badge"/>
 </a>
 
 <br><br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&animation=twinkling&color=0:050505,50:FF7750,100:050505"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&animation=twinkling&color=0:050505,50:FF7750,100:050505"/>
 
 </div>
