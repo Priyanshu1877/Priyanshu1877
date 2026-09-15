@@ -1,22 +1,27 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&section=header&text=PRIYANSHU%20PASWAN&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=AI%20%26%20FULL-STACK%20DEVELOPER&descAlignY=62&descSize=16&color=0:050505,45:111111,70:FF7750,100:050505"/>
+# ⚡ PRIYANSHU PASWAN
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=1800&pause=600&color=FF7750&center=true&vCenter=true&width=850&lines=%3E+Building+AI-powered+products;%3E+Engineering+modern+web+applications;%3E+Designing+AI+integrations+%26+automation;%3E+Turning+ideas+into+real+products+%E2%9A%A1"/>
+### `AI & FULL-STACK DEVELOPER`
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=1800&pause=700&color=FF7750&center=true&vCenter=true&width=800&lines=%3E+Building+AI-powered+products;%3E+Engineering+modern+web+applications;%3E+AI+%2B+Automation+%2B+Full-Stack;%3E+Turning+ideas+into+real+products+%E2%9A%A1"/>
 
 <br>
 
 <a href="https://priyanshudev.online">
-<img src="https://img.shields.io/badge/PORTFOLIO-FF7750?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/%F0%9F%8C%90%20PORTFOLIO-FF7750?style=for-the-badge"/>
 </a>
+
 <a href="https://www.linkedin.com/in/priyanshu-kumar-paswan-b91b85232">
 <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="https://x.com/Priyanshu_137_">
 <img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
+
 <a href="https://github.com/Priyanshu1877">
-<img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br><br>
@@ -27,18 +32,16 @@
 
 ---
 
-## ⚡ `ABOUT ME`
-
 <div align="center">
 
-### AI & Full-Stack Developer · Backend AI Engineer · Automation Builder
+## ⚡ `ABOUT ME`
 
-I build robust, modern software products by combining  
+**AI & Full-Stack Developer · Backend AI Engineer · Automation Builder**
+
+I build modern software products by combining  
 **full-stack engineering, AI integrations, backend systems and automation.**
 
-My goal is simple:
-
-> **Turn ideas and real-world problems into useful products.**
+> **Turning ideas and real-world problems into useful products.**
 
 📍 Siliguri, West Bengal, India
 
@@ -46,9 +49,9 @@ My goal is simple:
 
 ---
 
-## 🧠 `TECH STACK`
-
 <div align="center">
+
+## 🧠 `TECH STACK`
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind,nodejs,express,python,postgres,mongodb,mysql,supabase,aws,gcp,docker,kubernetes,linux,git,github&theme=dark&perline=11"/>
 
@@ -65,8 +68,6 @@ My goal is simple:
 
 ## 💼 `WHAT I BUILD`
 
-<div align="center">
-
 | AREA | FOCUS |
 |:---|:---|
 | 🌐 **Full-Stack** | React · Next.js · Node.js · Express · REST APIs |
@@ -75,23 +76,19 @@ My goal is simple:
 | ☁️ **Cloud & DevOps** | AWS · GCP · Docker · Kubernetes · Linux |
 | 🗄️ **Backend & Data** | PostgreSQL · MongoDB · MySQL · Supabase |
 
-</div>
-
 ---
-
-## 🚀 `BUILDING`
 
 <div align="center">
 
+## 🚀 `BUILDING`
+
 <a href="https://stirva.space">
 
-<img width="48%" src="https://capsule-render.vercel.app/api?type=rect&height=115&text=STRIVA&fontSize=44&fontColor=ffffff&animation=twinkling&color=0:050505,50:FF7750,100:050505"/>
+<img src="https://img.shields.io/badge/STRIVA-FF7750?style=for-the-badge&logoColor=white"/>
 
 </a>
 
-### STRIVA
-
-**AI-powered fitness & gym management platform**
+### AI-powered fitness & gym management platform
 
 `Workout` · `Nutrition` · `Progress` · `Analytics` · `AI Coaching`
 
@@ -101,13 +98,13 @@ My goal is simple:
 
 ---
 
-## 🏢 `CO-FOUNDER`
-
 <div align="center">
+
+## 🏢 `CO-FOUNDER`
 
 <a href="https://prasai.cloud">
 
-<img width="48%" src="https://capsule-render.vercel.app/api?type=rect&height=115&text=PRASAI%20CLOUD&fontSize=34&fontColor=ffffff&animation=twinkling&color=0:050505,50:FF7750,100:050505"/>
+<img src="https://img.shields.io/badge/PRASAI%20CLOUD-111111?style=for-the-badge"/>
 
 </a>
 
@@ -115,18 +112,18 @@ My goal is simple:
 
 **AI-first engineering studio · Co-founded with 2 friends**
 
-Building AI-native web products, business automation systems,
-AI marketing solutions and security/access intelligence.
+Building:
 
-`AI Products` · `Automation` · `Web` · `AI Marketing` · `ANPR`
+`AI Products` · `Automation` · `Web Applications`  
+`AI Marketing` · `Security & Access Intelligence`
 
 </div>
 
 ---
 
-## 🧑‍💻 `EXPERIENCE`
-
 <div align="center">
+
+## 🧑‍💻 `EXPERIENCE`
 
 ### Backend AI Engineer Intern — FlyRank AI
 
@@ -134,8 +131,6 @@ AI marketing solutions and security/access intelligence.
 
 Building backend AI systems, intelligent automation workflows,
 API integrations and production-focused solutions.
-
-<br>
 
 ### Freelance Full-Stack Developer
 
@@ -146,9 +141,9 @@ automation systems and digital products for businesses.
 
 ---
 
-## 🎓 `EDUCATION`
-
 <div align="center">
+
+## 🎓 `EDUCATION`
 
 **Bachelor of Computer Applications (BCA)**  
 Siliguri Institute of Technology · **7.34 CGPA**
@@ -162,9 +157,9 @@ Siliguri Institute of Technology · **7.34 CGPA**
 
 ---
 
-## 📊 `GITHUB TELEMETRY`
-
 <div align="center">
+
+## 📊 `GITHUB TELEMETRY`
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Priyanshu1877&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true"/>
 
@@ -180,7 +175,7 @@ Siliguri Institute of Technology · **7.34 CGPA**
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2000&pause=700&color=FF7750&center=true&vCenter=true&width=750&lines=BUILD+%E2%80%A2+AUTOMATE+%E2%80%A2+DEPLOY+%E2%80%A2+IMPROVE;%E2%9A%A1+TURNING+IDEAS+INTO+REAL+PRODUCTS"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2000&pause=700&color=FF7750&center=true&vCenter=true&width=800&lines=BUILD+%E2%80%A2+AUTOMATE+%E2%80%A2+DEPLOY+%E2%80%A2+IMPROVE;%E2%9A%A1+TURNING+IDEAS+INTO+REAL+PRODUCTS"/>
 
 <br><br>
 
@@ -198,6 +193,6 @@ Siliguri Institute of Technology · **7.34 CGPA**
 
 <br><br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&animation=twinkling&color=0:050505,50:FF7750,100:050505"/>
+`BUILD • AUTOMATE • DEPLOY • IMPROVE`
 
 </div>
