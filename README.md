@@ -24,6 +24,10 @@
 <img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+<br><br>
+
+`AI` · `FULL-STACK` · `AUTOMATION` · `SEO`
+
 </div>
 
 ---
@@ -175,9 +179,17 @@ Siliguri Institute of Technology · **7.34 CGPA**
 
 ## 📊 `GITHUB`
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Priyanshu1877&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true"/>
+<a href="https://github.com/Priyanshu1877">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu1877&layout=compact&hide_border=true&theme=transparent&langs_count=6"/>
+<img src="https://img.shields.io/badge/VIEW%20MY%20REPOSITORIES-FF7750?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+<br><br>
+
+**Building in public. Shipping real products. Learning every day.**
+
+`5+ Public Repositories` · `Full-Stack` · `AI` · `Automation`
 
 </div>
 
