@@ -4,7 +4,7 @@
 
 ### `AI & FULL-STACK DEVELOPER`
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=1800&pause=700&color=FF7750&center=true&vCenter=true&width=800&lines=%3E+Building+AI-powered+products;%3E+Engineering+modern+web+applications;%3E+AI+%2B+Automation+%2B+Full-Stack;%3E+Optimizing+websites+for+search;%3E+Turning+ideas+into+real+products+%E2%9A%A1"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=1800&pause=700&color=FF7750&center=true&vCenter=true&width=850&lines=%3E+Building+AI-powered+products;%3E+Engineering+modern+web+applications;%3E+AI+%2B+Automation+%2B+Full-Stack;%3E+Optimizing+websites+for+search;%3E+Turning+ideas+into+real+products+%E2%9A%A1"/>
 
 <br>
 
@@ -177,19 +177,19 @@ Siliguri Institute of Technology · **7.34 CGPA**
 
 <div align="center">
 
-## 📊 `GITHUB`
+## 📊 `GITHUB ACTIVITY`
 
-<a href="https://github.com/Priyanshu1877">
+<br>
 
-<img src="https://img.shields.io/badge/VIEW%20MY%20REPOSITORIES-FF7750?style=for-the-badge&logo=github&logoColor=white"/>
-
-</a>
+<img src="./github-metrics.svg" width="100%" alt="GitHub Metrics"/>
 
 <br><br>
 
-**Building in public. Shipping real products. Learning every day.**
+<img src="https://raw.githubusercontent.com/Priyanshu1877/Priyanshu1877/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
 
-`5+ Public Repositories` · `Full-Stack` · `AI` · `Automation`
+<br>
+
+### `BUILD • COMMIT • SHIP • REPEAT`
 
 </div>
 
