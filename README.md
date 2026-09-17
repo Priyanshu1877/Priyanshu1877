@@ -26,7 +26,7 @@
 
 <br><br>
 
-`AI` · `FULL-STACK` · `AUTOMATION` · `SEO`
+`AI` · `FULL-STACK` · `BACKEND` · `AUTOMATION` · `SEO`
 
 </div>
 
@@ -36,10 +36,11 @@
 
 ## ⚡ `ABOUT ME`
 
-**AI & Full-Stack Developer · Backend AI Engineer · Automation Builder**
+### AI & Full-Stack Developer · Backend AI Engineer · Automation Builder
 
-I build modern software products by combining  
-**full-stack engineering, AI integrations, backend systems, automation and SEO.**
+I build modern software products by combining
+**full-stack engineering, AI integrations, backend systems,
+automation and SEO.**
 
 > **Build it. Automate it. Optimize it. Ship it.**
 
@@ -100,7 +101,7 @@ I build modern software products by combining
 
 <div align="center">
 
-## 🚀 `BUILDING`
+## 🚀 `CURRENTLY BUILDING`
 
 <a href="https://stirva.space">
 
@@ -112,9 +113,11 @@ I build modern software products by combining
 
 **AI-powered fitness & gym management platform**
 
-`Workout` · `Nutrition` · `Progress` · `Analytics` · `AI Coaching`
+Workout · Nutrition · Progress · Analytics · AI Coaching
 
-**React · Node.js · Supabase · AI**
+<br>
+
+`React` · `Node.js` · `Supabase` · `AI`
 
 </div>
 
@@ -137,6 +140,8 @@ I build modern software products by combining
 Building AI-native web products, business automation systems,
 AI marketing solutions and security/access intelligence.
 
+<br>
+
 `AI Products` · `Automation` · `Web` · `AI Marketing` · `ANPR`
 
 </div>
@@ -145,31 +150,37 @@ AI marketing solutions and security/access intelligence.
 
 ## 🧑‍💻 `EXPERIENCE`
 
-### Backend AI Engineer Intern — FlyRank AI
+### 🤖 Backend AI Engineer Intern — FlyRank AI
 
 `Jun 2026 – Present` · Remote
 
 Building backend AI systems, intelligent automation workflows,
 API integrations and production-focused solutions.
 
-### Freelance Full-Stack Developer
+### 💻 Freelance Full-Stack Developer
 
 Building custom web applications, AI integrations,
-automation systems, SEO-optimized websites and digital products.
+automation systems, SEO-optimized websites and digital products
+for businesses and entrepreneurs.
 
 ---
 
 <div align="center">
 
-## 🎓 `EDUCATION`
+## 🎓 `EDUCATION & CERTIFICATIONS`
 
 **Bachelor of Computer Applications (BCA)**  
 Siliguri Institute of Technology · **7.34 CGPA**
 
 <br>
 
-`Deloitte — Data Analytics` · `Mastercard — Cybersecurity`  
-`Tata — Cybersecurity Analyst` · `Deloitte — Cyber`
+`Deloitte — Data Analytics`
+
+`Mastercard — Cybersecurity`
+
+`Tata — Cybersecurity Analyst`
+
+`Deloitte — Cyber`
 
 </div>
 
@@ -187,7 +198,7 @@ Siliguri Institute of Technology · **7.34 CGPA**
 
 <img src="https://raw.githubusercontent.com/Priyanshu1877/Priyanshu1877/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
 
-<br>
+<br><br>
 
 ### `BUILD • COMMIT • SHIP • REPEAT`
 
@@ -197,9 +208,21 @@ Siliguri Institute of Technology · **7.34 CGPA**
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2000&pause=700&color=FF7750&center=true&vCenter=true&width=800&lines=BUILD+%E2%80%A2+AUTOMATE+%E2%80%A2+OPTIMIZE+%E2%80%A2+DEPLOY;%E2%9A%A1+TURNING+IDEAS+INTO+REAL+PRODUCTS"/>
+## ⚡ `WHAT'S NEXT`
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2000&pause=700&color=FF7750&center=true&vCenter=true&width=800&lines=BUILD+%E2%80%A2+AUTOMATE+%E2%80%A2+OPTIMIZE+%E2%80%A2+DEPLOY;%3E+Learning+%26+building+every+day;%3E+Turning+ideas+into+real+products"/>
 
 <br><br>
+
+`AI` · `WEB` · `AUTOMATION` · `SEO` · `CLOUD`
+
+</div>
+
+---
+
+<div align="center">
+
+## 🤝 `LET'S CONNECT`
 
 <a href="mailto:priyanshupaswan648@gmail.com">
 <img src="https://img.shields.io/badge/📩%20LET'S%20BUILD-FF7750?style=for-the-badge"/>
