@@ -9,21 +9,20 @@
 <br>
 
 <a href="https://priyanshudev.online">
-<img src="https://img.shields.io/badge/%F0%9F%8C%90%20PORTFOLIO-FF7750?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-FF7750?style=for-the-badge"/>
 </a>
+
 <a href="https://www.linkedin.com/in/priyanshu-kumar-paswan-b91b85232">
 <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="https://x.com/Priyanshu_137_">
 <img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
+
 <a href="https://github.com/Priyanshu1877">
 <img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=Priyanshu1877&label=PROFILE%20VIEWS&color=FF7750&style=flat-square"/>
 
 </div>
 
@@ -38,8 +37,6 @@
 I build modern software products by combining  
 **full-stack engineering, AI integrations, backend systems, automation and SEO.**
 
-My focus:
-
 > **Build it. Automate it. Optimize it. Ship it.**
 
 📍 Siliguri, West Bengal, India
@@ -48,9 +45,9 @@ My focus:
 
 ---
 
-<div align="center">
-
 ## 🧠 `TECH STACK`
+
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind,nodejs,express,python,postgres,mongodb,mysql,supabase,aws,gcp,docker,kubernetes,linux,git,github&theme=dark&perline=11"/>
 
@@ -142,8 +139,6 @@ AI marketing solutions and security/access intelligence.
 
 ---
 
-<div align="center">
-
 ## 🧑‍💻 `EXPERIENCE`
 
 ### Backend AI Engineer Intern — FlyRank AI
@@ -157,8 +152,6 @@ API integrations and production-focused solutions.
 
 Building custom web applications, AI integrations,
 automation systems, SEO-optimized websites and digital products.
-
-</div>
 
 ---
 
@@ -180,15 +173,11 @@ Siliguri Institute of Technology · **7.34 CGPA**
 
 <div align="center">
 
-## 📊 `GITHUB TELEMETRY`
+## 📊 `GITHUB`
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Priyanshu1877&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true"/>
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu1877&layout=compact&hide_border=true&theme=transparent&langs_count=6"/>
-
-<br>
-
-<img height="165" src="https://streak-stats.demolab.com?user=Priyanshu1877&theme=transparent&hide_border=true"/>
 
 </div>
 
@@ -201,15 +190,15 @@ Siliguri Institute of Technology · **7.34 CGPA**
 <br><br>
 
 <a href="mailto:priyanshupaswan648@gmail.com">
-<img src="https://img.shields.io/badge/%F0%9F%93%A9%20LET'S%20BUILD-FF7750?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/📩%20LET'S%20BUILD-FF7750?style=for-the-badge"/>
 </a>
 
 <a href="https://priyanshudev.online">
-<img src="https://img.shields.io/badge/%F0%9F%8C%90%20PORTFOLIO-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-111111?style=for-the-badge"/>
 </a>
 
 <a href="https://prasai.cloud">
-<img src="https://img.shields.io/badge/%E2%98%81%EF%B8%8F%20PRASAI%20CLOUD-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/☁️%20PRASAI%20CLOUD-111111?style=for-the-badge"/>
 </a>
 
 <br><br>
