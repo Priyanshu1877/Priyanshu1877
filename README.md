@@ -44,7 +44,7 @@ Currently building products, working with clients, and exploring new ways to com
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 ### Backend & Database
 
@@ -126,12 +126,13 @@ We build:
 
 ## 💼 Experience
 
-**Backend AI Engineer Intern — FlyRank AI**  
-`Jun 2026 – Present`
+### Backend AI Engineer Intern — FlyRank AI
+
+`Jun 2026 – Present` · Remote
 
 Working on backend AI systems, API integrations, automation workflows and AI-powered solutions.
 
-**Freelance Full-Stack Developer**
+### Freelance Full-Stack Developer
 
 Building websites, web applications, AI integrations, automation systems and SEO-optimized digital products for clients.
 
@@ -162,7 +163,7 @@ Building websites, web applications, AI integrations, automation systems and SEO
 ## 🎓 Education
 
 **Bachelor of Computer Applications (BCA)**  
-Siliguri Institute of Technology · **7.34 CGPA**
+Siliguri Institute of Technology
 
 ### Certifications
 
