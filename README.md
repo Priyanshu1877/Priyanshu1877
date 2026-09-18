@@ -2,26 +2,29 @@
 
 # PRIYANSHU PASWAN
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=2500&pause=900&color=FF7750&center=true&vCenter=true&width=850&lines=AI+%26+FULL-STACK+DEVELOPER;BACKEND+AI+ENGINEER;AUTOMATION+BUILDER;BUILDING+REAL-WORLD+SOFTWARE" alt="Typing Header"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=32&duration=2500&pause=900&color=FF7750&center=true&vCenter=true&width=900&lines=AI+%26+FULL-STACK+DEVELOPER;BACKEND+AI+ENGINEER;AUTOMATION+BUILDER;SOFTWARE+ENGINEER" alt="Typing Header"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2000&pause=700&color=FFFFFF&center=true&vCenter=true&width=850&lines=%3E+Building+AI-powered+products;%3E+Engineering+modern+web+applications;%3E+Designing+backend+systems;%3E+Automating+business+workflows;%3E+Optimizing+websites+for+search;%3E+Turning+ideas+into+real+products+%E2%9A%A1" alt="Typing Subtitle"/>
+<p>
+AI & Full-Stack Developer focused on building modern web applications,
+AI-powered products, backend systems and business automation.
+</p>
 
 <br>
 
 <a href="https://priyanshudev.online">
-<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-FF7750?style=for-the-badge&labelColor=111111"/>
+<img src="https://img.shields.io/badge/Portfolio-FF7750?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/priyanshu-kumar-paswan-b91b85232">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&labelColor=111111&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://x.com/Priyanshu_137_">
-<img src="https://img.shields.io/badge/X-FFFFFF?style=for-the-badge&labelColor=111111&logo=x&logoColor=white"/>
+<img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
 <a href="mailto:priyanshupaswan648@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-FF7750?style=for-the-badge&labelColor=111111&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-FF7750?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br><br>
@@ -36,20 +39,46 @@
 
 ---
 
-## ⚡ `ABOUT ME`
+# 👋 About Me
 
-<div align="center">
+Hi, I'm **Priyanshu Paswan**, an **AI & Full-Stack Developer** based in
+Siliguri, West Bengal, India.
 
-### AI & Full-Stack Developer · Backend AI Engineer · Automation Builder
+I build modern software products across the **frontend, backend, AI,
+automation, databases, cloud and deployment layers**.
 
-</div>
+My work is focused on turning ideas and business requirements into
+real-world digital products — from websites and full-stack applications
+to AI-powered systems and automated workflows.
 
-I build **modern software products** by combining full-stack engineering,
-AI integrations, backend architecture, automation and web optimization.
+I also work as a **Freelance Full-Stack Developer**, helping businesses,
+startups and entrepreneurs build, improve and deploy their digital
+products.
 
-My work focuses on turning ideas into **usable, scalable and production-ready
-digital products** — from websites and web applications to AI-powered systems
-and automated workflows.
+### What I Do
+
+- 🌐 Full-Stack Web Development
+- 🤖 AI & LLM Integration
+- 🧠 Backend & API Engineering
+- ⚙️ Business Automation
+- 🗄️ Database Architecture
+- ☁️ Cloud & Deployment
+- 📈 Technical SEO & Website Optimization
+- 🔌 API & Third-Party Integrations
+- 💼 Freelance Client Development
+- 🚀 Product Development
 
 ```text
-BUILD        →        AUTOMATE        →        OPTIMIZE        →        DEPLOY
+IDEA
+ ↓
+ARCHITECTURE
+ ↓
+DEVELOPMENT
+ ↓
+AI / AUTOMATION
+ ↓
+OPTIMIZATION
+ ↓
+DEPLOYMENT
+ ↓
+REAL-WORLD PRODUCT
