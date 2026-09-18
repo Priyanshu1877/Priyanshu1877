@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=32&duration=2500&pause=1000&color=FF7750&center=true&vCenter=true&width=850&lines=PRIYANSHU+PASWAN;AI+%26+FULL-STACK+DEVELOPER;BACKEND+AI+ENGINEER;AUTOMATION+BUILDER" alt="Typing Header"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=32&duration=2500&pause=1000&color=FF7750&center=true&vCenter=true&width=850&lines=PRIYANSHU+KUMAR+PASWAN;AI+%26+FULL-STACK+DEVELOPER;BACKEND+AI+ENGINEER;AUTOMATION+BUILDER" alt="Typing Header"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=1800&pause=500&color=FFFFFF&center=true&vCenter=true&width=850&lines=%3E+Building+AI-powered+products;%3E+Engineering+modern+web+applications;%3E+Automating+real-world+workflows;%3E+Optimizing+websites+for+search;%3E+Turning+ideas+into+real+products+%E2%9A%A1" alt="Typing Subtitle"/>
 
