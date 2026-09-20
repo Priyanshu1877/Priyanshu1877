@@ -305,9 +305,10 @@ Working with businesses, startups and entrepreneurs on custom digital solutions.
 | Project | Details |
 |:---|:---|
 | 🚀 **STRIVA** | AI-powered fitness & gym management platform. `React` `Node.js` `Supabase` `AI` — [View Product →](https://stirva.space) |
-| 🌾 **Agri-Scan** | AI-oriented product developed under PrasAI Cloud. `AI` `Automation` `Product Engineering` |
 | 📊 **Eddelact** | Client-focused digital platform. `Web Development` `SEO` `Optimization` |
-| 🔐 **ANPR Systems** | Automatic number plate recognition and access-control technology. `Computer Vision` `Backend` `Automation` |
+| 🚂 **Google_code_the_railway** | Coding-challenge project built around railway systems. `TypeScript` — [View Repo →](https://github.com/Priyanshu1877/Google_code_the_railway) |
+| 💼 **Flyrank_Assignment_3** | Assignment work from my Backend AI Engineer internship at FlyRank AI. `JavaScript` — [View Repo →](https://github.com/Priyanshu1877/Flyrank_Assignment_3) |
+| 🐍 **first-end-point** | Early backend project — one of my first REST API endpoints. `Python` — [View Repo →](https://github.com/Priyanshu1877/first-end-point) |
 
 ---
 
@@ -363,8 +364,6 @@ I'm continuously improving my skills across AI, backend systems, cloud infrastru
 <img src="https://raw.githubusercontent.com/Priyanshu1877/Priyanshu1877/output/github-contribution-grid-snake-dark.svg" width="95%" alt="GitHub Contribution Snake"/>
 
 </div>
-
-> ⚠️ This image only renders once the `snake.yml` GitHub Action has run in this repo and created the `output` branch. If it's still showing broken, that workflow hasn't been added/run yet — see the setup steps from earlier.
 
 ---
 
