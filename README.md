@@ -1,197 +1,308 @@
 <div align="center">
 
-# Hi 👋, I'm Priyanshu
+# PRIYANSHU PASWAN
 
-### AI & Full-Stack Developer
+### AI & Full-Stack Developer · Backend AI Engineer · Automation Builder
 
-**Building AI-powered products, modern web applications & automation systems.**
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-priyanshudev.online-FF7750?style=flat-square&logo=googlechrome&logoColor=white)](https://priyanshudev.online)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Priyanshu%20Paswan-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshu-kumar-paswan-b91b85232)
-[![X](https://img.shields.io/badge/X-@Priyanshu_137_-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/Priyanshu_137_)
-[![GitHub](https://img.shields.io/badge/GitHub-Priyanshu1877-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Priyanshu1877)
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-I'm an **AI & Full-Stack Developer** focused on building real-world software products.
-
-I work across:
-
-- 🤖 AI integrations & AI-powered applications
-- 🌐 Full-Stack web development
-- ⚙️ Backend systems & API development
-- 🔄 Workflow & business automation
-- 📈 Technical SEO & website optimization
-- ☁️ Cloud deployment & DevOps
-
-Currently building products, working with clients, and exploring new ways to combine **AI + software + automation**.
-
-📍 Siliguri, West Bengal, India
-
----
-
-## 🛠️ Tech Stack
-
-### Languages & Frameworks
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-### Backend & Database
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-
-### AI & Automation
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-
-### Cloud & DevOps
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
----
-
-## 📈 SEO & Growth
-
-I also work on **SEO and website optimization for client projects**.
-
-- Technical SEO
-- On-Page SEO
-- Keyword Research
-- Schema Markup
-- Sitemap & Robots.txt
-- Canonical URLs
-- Google Search Console
-- Google Analytics
-- SEO Audits
-- Website Performance Optimization
-
-Currently expanding my knowledge of modern SEO tools and search optimization workflows.
-
----
-
-## 🚀 Currently Building
-
-### STRIVA
-
-**AI-powered fitness & gym management platform**
-
-Workout tracking · Nutrition · Progress · Analytics · AI Coaching
-
-**Stack:** React · Node.js · Supabase · AI
-
-[![STRIVA](https://img.shields.io/badge/Visit-STRIVA-FF7750?style=flat-square)](https://stirva.space)
-
----
-
-## 🏢 Co-Founder
-
-### PrasAI Cloud
-
-**AI-first engineering studio co-founded with 2 friends.**
-
-We build:
-
-- AI-native web products
-- Business automation systems
-- AI marketing solutions
-- Custom AI software
-- Security & access intelligence
-- Modern web applications
-
-[![PrasAI Cloud](https://img.shields.io/badge/Visit-PrasAI%20Cloud-111111?style=flat-square)](https://prasai.cloud)
-
----
-
-## 💼 Experience
-
-### Backend AI Engineer Intern — FlyRank AI
-
-`Jun 2026 – Present` · Remote
-
-Working on backend AI systems, API integrations, automation workflows and AI-powered solutions.
-
-### Freelance Full-Stack Developer
-
-Building websites, web applications, AI integrations, automation systems and SEO-optimized digital products for clients.
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Priyanshu1877&theme=github-compact&hide_border=true&area=true&custom_title=Priyanshu's%20Contribution%20Activity" width="100%"/>
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Priyanshu1877&theme=github_dark" width="48%"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Priyanshu1877&theme=github_dark" width="48%"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=900&color=FF7750&center=true&vCenter=true&width=850&lines=Building+AI-powered+products;Engineering+modern+web+applications;Designing+backend+systems;Automating+business+workflows;Working+with+clients+and+startups;Turning+ideas+into+real+products" alt="Typing Animation"/>
 
 <br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Priyanshu1877&theme=github_dark" width="48%"/>
+<a href="https://priyanshudev.online">
+<img src="https://img.shields.io/badge/Portfolio-FF7750?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/priyanshu-kumar-paswan-b91b85232">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://x.com/Priyanshu_137_">
+<img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+<a href="mailto:priyanshupaswan648@gmail.com">
+<img src="https://img.shields.io/badge/Email-FF7750?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Priyanshu1877&theme=github_dark&utcOffset=5.5" width="48%"/>
+<br><br>
+
+`AI` · `FULL-STACK` · `BACKEND` · `AUTOMATION` · `CLOUD` · `SEO`
 
 </div>
 
 ---
 
-## 🎓 Education
+## `01` — WHO I AM
 
-**Bachelor of Computer Applications (BCA)**  
-Siliguri Institute of Technology
+I'm **Priyanshu Paswan**, an **AI & Full-Stack Developer** from Siliguri,
+West Bengal, India.
 
-### Certifications
+I build software across the complete product stack — from frontend
+interfaces and backend APIs to databases, AI integrations, automation
+and deployment.
 
-- Deloitte — Data Analytics Job Simulation
-- Mastercard — Cybersecurity Job Simulation
-- Tata — Cybersecurity Analyst Job Simulation
-- Deloitte — Cyber Job Simulation
+I also work independently with **businesses, startups and entrepreneurs**
+as a freelance developer, helping turn ideas and business requirements
+into real digital products.
+
+My current work sits at the intersection of:
+
+```text
+AI
++
+FULL-STACK DEVELOPMENT
++
+BACKEND ENGINEERING
++
+AUTOMATION
++
+CLOUD
++
+SEO
+```
+
+I enjoy building things that are not only technically interesting,
+but actually useful in the real world.
 
 ---
 
-## 🤝 Connect With Me
+## `02` — WHAT I DO
+
+| Area                       | Focus                                                                 |
+| :------------------------- | :-------------------------------------------------------------------- |
+| **AI Engineering**         | LLM integrations, AI applications, AI assistants, AI-powered features |
+| **Full-Stack Development** | Modern frontend + backend applications                                |
+| **Backend Engineering**    | APIs, business logic, authentication and backend architecture         |
+| **Automation**             | n8n workflows, API integrations and business process automation       |
+| **Database Engineering**   | PostgreSQL, MySQL, MongoDB, Supabase                                  |
+| **Cloud & DevOps**         | Deployment, Linux, Docker, AWS and infrastructure                     |
+| **SEO**                    | Technical SEO, structured data, indexing and optimization             |
+| **Freelance Development**  | Custom websites, applications and software for clients                |
+
+---
+
+# `03` — TECH STACK
+
+## Frontend
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF7750?style=for-the-badge&logo=googlechrome&logoColor=white)](https://priyanshudev.online)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshu-kumar-paswan-b91b85232)
-
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Priyanshu_137_)
-
-[![Email](https://img.shields.io/badge/Email-FF7750?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priyanshupaswan648@gmail.com)
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind&theme=dark&perline=8"/>
 
 </div>
+
+### What I use them for
+
+**HTML / CSS**
+→ Semantic structure, responsive layouts and modern interfaces.
+
+**JavaScript / TypeScript**
+→ Application logic, reusable components and type-safe development.
+
+**React**
+→ Interactive web applications, dashboards and reusable UI systems.
+
+**Next.js**
+→ Modern React applications, routing and full-stack web experiences.
+
+**Vite**
+→ Fast development environments and optimized frontend builds.
+
+**Tailwind CSS**
+→ Responsive interfaces and consistent design systems.
 
 ---
 
+## Backend
+
 <div align="center">
 
-### `BUILD • AUTOMATE • OPTIMIZE • SHIP`
+<img src="https://skillicons.dev/icons?i=nodejs,express,python&theme=dark&perline=6"/>
 
 </div>
+
+### Backend experience
+
+* REST API development
+* Backend architecture
+* Authentication systems
+* Authorization
+* Business logic
+* API integrations
+* Request validation
+* Error handling
+* Logging
+* AI service integration
+* Database-backed applications
+* Production API development
+
+My main backend stack is:
+
+```text
+Node.js
+   +
+Express
+   +
+REST APIs
+   +
+PostgreSQL / Supabase
+```
+
+I also use **Python** for scripting, automation and selected AI/data
+workflows.
+
+---
+
+## Databases
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase&theme=dark&perline=6"/>
+
+</div>
+
+### Database work
+
+* PostgreSQL
+* MySQL
+* MongoDB
+* Supabase
+* SQL
+* Schema design
+* Relationships
+* Data modeling
+* Authentication data
+* Application data
+* Analytics data
+* Row Level Security
+
+I prefer designing the database around the application's actual domain
+and business requirements instead of treating the database as an
+afterthought.
+
+---
+
+## AI & LLM
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/OpenAI-111111?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini-111111?style=for-the-badge&logo=google&logoColor=4285F4"/>
+<img src="https://img.shields.io/badge/Groq-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLM%20Applications-FF7750?style=for-the-badge"/>
+
+</div>
+
+I'm actively building with AI rather than using AI only as a development
+assistant.
+
+### AI work includes
+
+* LLM API integrations
+* AI chatbots
+* AI assistants
+* AI-powered product features
+* Prompt engineering
+* AI recommendations
+* AI memory
+* AI tool calling
+* AI workflow design
+* Model/API routing
+* AI backend services
+* AI-powered automation
+
+Typical architecture:
+
+```text
+USER
+  ↓
+APPLICATION
+  ↓
+AI ROUTING
+  ↓
+LLM
+  ↓
+TOOLS / DATABASE / APIs
+  ↓
+BUSINESS LOGIC
+  ↓
+RESPONSE
+```
+
+---
+
+## Automation
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/n8n-111111?style=for-the-badge&logo=n8n&logoColor=EA4B71"/>
+<img src="https://img.shields.io/badge/API%20Integration-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Business%20Automation-FF7750?style=for-the-badge"/>
+
+</div>
+
+I build workflows that connect applications, APIs and business processes.
+
+### Automation work
+
+* n8n workflows
+* API-to-API integrations
+* AI automation
+* Business process automation
+* Form automation
+* Data processing
+* Notifications
+* Backend automation
+* Workflow orchestration
+* Custom integrations
+
+---
+
+## Cloud & DevOps
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,linux,git,github&theme=dark&perline=7"/>
+
+</div>
+
+### Technologies
+
+* AWS
+* Google Cloud
+* Docker
+* Kubernetes
+* Linux
+* Git
+* GitHub
+* CI/CD
+* Cloud deployment
+* Application hosting
+
+### Deployment experience
+
+I work with the practical side of getting applications from a local
+development environment into production.
+
+```text
+DEVELOP
+   ↓
+BUILD
+   ↓
+TEST
+   ↓
+DEPLOY
+   ↓
+MONITOR
+   ↓
+IMPROVE
+```
+
+---
+
+# `04` — SEO & WEB OPTIMIZATION
+
+SEO is another technical capability I use in client projects.
+
+My focus is primarily on **technical SEO and implementation**, while
+continuing to expand my knowledge of modern SEO tools and search
+optimization.
+
+### Tec
