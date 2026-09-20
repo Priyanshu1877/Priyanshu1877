@@ -55,8 +55,6 @@ Based in Siliguri, India 🇮🇳
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Priyanshu1877&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF7750&icon_color=FF7750&ring_color=FF7750" height="165"/>
-<img src="https://streak-stats.demolab.com/?user=Priyanshu1877&theme=dark&hide_border=true&background=0D1117&ring=FF7750&fire=FF7750&currStreakLabel=FF7750" height="165"/>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu1877&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF7750&langs_count=8" height="165"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Priyanshu1877&theme=react-dark&hide_border=true&bg_color=0D1117&color=FF7750&line=FF7750&point=ffffff" width="90%"/>
@@ -70,10 +68,10 @@ Based in Siliguri, India 🇮🇳
 ### 📫 Let's Connect
 
 <a href="mailto:priyanshupaswan648@gmail.com">
-<img src="https://img.shields.io/badge/priyanshupaswan648@gmail.com-FF7750?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/-FF7750?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://priyanshudev.online">
-<img src="https://img.shields.io/badge/priyanshudev.online-111111?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/-111111?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 <br><br>
