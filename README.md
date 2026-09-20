@@ -63,12 +63,25 @@ Based in Siliguri, India 🇮🇳
 
 </div>
 
-### 📫 Reach me
-
-📧 [priyanshupaswan648@gmail.com](mailto:priyanshupaswan648@gmail.com) · 🌐 [priyanshudev.online](https://priyanshudev.online)
+<br>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF7750&height=100&section=footer" width="100%"/>
+### 📫 Let's Connect
+
+<a href="mailto:priyanshupaswan648@gmail.com">
+<img src="https://img.shields.io/badge/priyanshupaswan648@gmail.com-FF7750?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://priyanshudev.online">
+<img src="https://img.shields.io/badge/priyanshudev.online-111111?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2200&pause=700&color=FF7750&center=true&vCenter=true&width=500&lines=Turning+ideas+into+real+products+%E2%9A%A1" alt="Footer tagline"/>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF7750&height=120&section=footer" width="100%"/>
 
 </div>
