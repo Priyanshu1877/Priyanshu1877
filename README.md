@@ -237,8 +237,6 @@ Charts         → Recharts / AmCharts
 
 </div>
 
-> ⚠️ Double-check this URL before publishing — verify whether your live domain is `stirva.space` or `striva.space`.
-
 ---
 
 ## 🏢 PrasAI Cloud
