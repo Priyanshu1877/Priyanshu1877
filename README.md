@@ -352,7 +352,7 @@ I'm continuously improving my skills across AI, backend systems, cloud infrastru
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Priyanshu1877&theme=react-dark&hide_border=true&bg_color=0D1117&color=FF7750&line=FF7750&point=ffffff&area=true" width="95%" alt="GitHub Contribution Activity"/>
+<img src="https://github-readme-activity-graph-rho-gilt.vercel.app/graph?username=Priyanshu1877&theme=react-dark&hide_border=true&bg_color=0D1117&color=FF7750&line=FF7750&point=ffffff&area=true" width="95%" alt="GitHub Contribution Activity"/>
 
 </div>
 
