@@ -318,8 +318,6 @@ Working with businesses, startups and entrepreneurs on custom digital solutions.
 **Bachelor of Computer Applications — BCA**
 Siliguri Institute of Technology · Siliguri, West Bengal, India
 
-Academic foundation in: Programming · Web Development · Databases · Software Engineering · Computer Applications
-
 ---
 
 ## 🏅 Certifications
@@ -349,8 +347,8 @@ I'm continuously improving my skills across AI, backend systems, cloud infrastru
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Priyanshu1877&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF7750&icon_color=FF7750&ring_color=FF7750&count_private=true" height="170" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu1877&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF7750&langs_count=8" height="170" alt="Top Languages"/>
+<img src="https://github-readme-stats-hazel-pi-76.vercel.app/api?username=Priyanshu1877&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF7750&icon_color=FF7750&ring_color=FF7750&count_private=true" height="170" alt="GitHub Stats"/>
+<img src="https://github-readme-stats-hazel-pi-76.vercel.app/api/top-langs/?username=Priyanshu1877&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF7750&langs_count=8" height="170" alt="Top Languages"/>
 
 <br><br>
 
