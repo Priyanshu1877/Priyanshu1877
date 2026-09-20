@@ -50,29 +50,4 @@ Based in Siliguri, India 🇮🇳
 | **Eddelact** | Client platform — web development, SEO & optimization |
 | **ANPR Systems** | Automatic number plate recognition for access control |
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Priyanshu1877&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF7750&icon_color=FF7750&ring_color=FF7750" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshu1877&theme=dark&hide_border=true&background=0D1117&ring=FF7750&fire=FF7750&currStreakLabel=FF7750" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu1877&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF7750&langs_count=8" height="165"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Priyanshu1877&theme=react-dark&hide_border=true&bg_color=0D1117&color=FF7750&line=FF7750&point=ffffff" width="90%"/>
-
-</div>
-
-### 📫 Reach me
-
-📧 [priyanshupaswan648@gmail.com](mailto:priyanshupaswan648@gmail.com) · 🌐 [priyanshudev.online](https://priyanshudev.online)
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Priyanshu1877/Priyanshu1877/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF7750&height=100&section=footer" width="100%"/>
-
-</div>
+###
