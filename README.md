@@ -99,7 +99,7 @@ I also work as a **freelance developer**, helping businesses, startups and entre
 | **Cloud** | AWS, Google Cloud, deployment & hosting |
 | **DevOps** | Docker, Kubernetes, Linux, Git, CI/CD |
 | **SEO** | Technical SEO, Schema, Sitemaps, Robots.txt, Search Console |
-| **Tools** | GitHub, VS Code, Postman, Vite, Prisma |
+| **Tools** | Git, GitHub, VS Code, Vite |
 
 ---
 
