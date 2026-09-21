@@ -306,9 +306,7 @@ Working with businesses, startups and entrepreneurs on custom digital solutions.
 |:---|:---|
 | 🚀 **STRIVA** | AI-powered fitness & gym management platform. `React` `Node.js` `Supabase` `AI` — [View Product →](https://stirva.space) |
 | 📊 **Eddelact** | Client-focused digital platform. `Web Development` `SEO` `Optimization` |
-| 🚂 **Google_code_the_railway** | Coding-challenge project built around railway systems. `TypeScript` — [View Repo →](https://github.com/Priyanshu1877/Google_code_the_railway) |
-| 💼 **Flyrank_Assignment_3** | Assignment work from my Backend AI Engineer internship at FlyRank AI. `JavaScript` — [View Repo →](https://github.com/Priyanshu1877/Flyrank_Assignment_3) |
-| 🐍 **first-end-point** | Early backend project — one of my first REST API endpoints. `Python` — [View Repo →](https://github.com/Priyanshu1877/first-end-point) |
+| 🌐 **Portfolio** | See my full body of work, case studies & client projects. — [View Portfolio →](https://priyanshudev.online/) |
 
 ---
 
