@@ -3,7 +3,7 @@
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2500&pause=900&color=FF7750&center=true&vCenter=true&width=650&lines=Building+AI-powered+applications;Engineering+backend+systems;Turning+ideas+into+real+products" />
-<p>AI & Full-Stack Developer · Backend AI Engineer · Automation Builder</p>
+<p>AI & Full-Stack Developer · Backend AI Engineer</p>
 
 <p>📍 Siliguri, West Bengal, India 🇮🇳</p>
 
