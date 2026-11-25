@@ -1,13 +1,19 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=FF7750&amp;height=95&amp;section=header" width="100%" alt="" />
+# <img src="https://capsule-render.vercel.app/api?type=rounded&amp;height=185&amp;color=0:15202E,58:522B38,100:AE4931&amp;text=Priyanshu%20Kumar%20Paswan&amp;fontColor=FFF7F0&amp;fontSize=54&amp;fontAlignY=48&amp;animation=fadeIn&amp;desc=SILIGURI%2C%20WEST%20BENGAL%20%2F%20INDIA&amp;descSize=16&amp;descAlignY=71" width="100%" alt="Priyanshu Kumar Paswan — Siliguri, West Bengal, India" />
 
-# Hi, I'm Priyanshu Kumar Paswan 👋
+<p align="center"><strong>Full-stack developer · Backend AI Engineer Intern at FlyRank AI</strong></p>
 
-**Full-stack developer · Backend AI Engineer Intern at FlyRank AI**  
-Siliguri, West Bengal, India
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=21&amp;duration=2600&amp;pause=1800&amp;color=CC6545&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=48&amp;lines=Building+STRIVA+for+gym+members;Searching+railway+manuals+offline;Automating+workflows+with+n8n" width="600" alt="Building STRIVA for gym members · Searching railway manuals offline · Automating workflows with n8n" />
+</p>
 
-I'm building **STRIVA** to help gym members track workouts, nutrition, and progress in one place. At FlyRank AI, I work on the APIs and data pipelines behind search and ranking tools.
+<p align="center">
+  <a href="https://priyanshudev.online/"><img src="https://img.shields.io/badge/Portfolio-99442F?style=for-the-badge" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/priyanshu-kumar-paswan-b91b85232"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="https://www.fiverr.com/priyashu_paswan?public_mode=true"><img src="https://img.shields.io/badge/Fiverr-176844?style=for-the-badge&amp;logo=fiverr&amp;logoColor=white" alt="Fiverr" /></a>
+  <a href="mailto:priyanshupaswan648@gmail.com"><img src="https://img.shields.io/badge/Email-303846?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
+</p>
 
-[Portfolio](https://priyanshudev.online/) · [LinkedIn](https://www.linkedin.com/in/priyanshu-kumar-paswan-b91b85232) · [Fiverr](https://www.fiverr.com/sellers/priyashu_paswan) · [Email](mailto:priyanshupaswan648@gmail.com)
+At **FlyRank AI**, I work on the APIs and data pipelines behind search and ranking tools. Outside my internship, I’m building **STRIVA**, a fitness app that brings workout logs, nutrition, and progress charts into one place.
 
 ## 🚀 Featured work
 
@@ -76,7 +82,7 @@ For this client’s product launch, I built a landing page where visitors can co
 
 I build web apps, connect third-party APIs, and automate recurring tasks for clients. I also help with technical SEO, from fixing how a site gets indexed to adding structured data to product pages.
 
-Have a project in mind? Tell me who will use it and what they need to do. [Work with me on Fiverr](https://www.fiverr.com/sellers/priyashu_paswan) or [send me an email](mailto:priyanshupaswan648@gmail.com).
+Have a project in mind? Tell me who will use it and what they need to do. [Work with me on Fiverr](https://www.fiverr.com/priyashu_paswan?public_mode=true) or [send me an email](mailto:priyanshupaswan648@gmail.com).
 
 ---
 
@@ -136,7 +142,7 @@ If you have an idea, business requirement or project that needs development, fee
 <a href="https://www.linkedin.com/in/priyanshu-kumar-paswan-b91b85232">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://www.fiverr.com/sellers/priyashu_paswan">
+<a href="https://www.fiverr.com/priyashu_paswan?public_mode=true">
 <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&amp;logo=fiverr&amp;logoColor=white" alt="Fiverr"/>
 </a>
 <a href="https://x.com/Priyanshu_137_">
