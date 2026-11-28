@@ -37,7 +37,7 @@ How do you look up a maintenance procedure in a railway shed with patchy interne
 For this client’s product launch, I built a landing page where visitors can compare features on a phone and sign up. I added event tracking so the client could see which calls to action visitors used.
 
 `React` · `Tailwind CSS` · `Google Analytics`  
-[Read the case study →](https://priyanshudev.online/case-studies/eddelact/)
+[Read the case study →](https://eddelact.com/)
 
 ## 🛠️ Tech Stack
 
