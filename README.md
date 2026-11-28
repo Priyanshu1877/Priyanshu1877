@@ -14,7 +14,7 @@
   <a href="mailto:priyanshupaswan648@gmail.com"><img src="https://img.shields.io/badge/Email-303846?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-At **FlyRank AI**, I work on the APIs and data pipelines behind search and ranking tools. Outside my internship, I’m building **STRIVA**, a fitness app that brings workout logs, nutrition, and progress charts into one place.
+I recently completed my internship at **FlyRank AI**, where I gained hands-on experience working on backend APIs and data pipelines for search and ranking systems. I'm currently focused on building **STRIVA**, a fitness platform combining workout tracking, nutrition management, progress analytics, and AI-powered coaching.
 
 ## 🚀 Featured work
 
